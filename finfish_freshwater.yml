@@ -1,6 +1,6 @@
 - title: ""
   year: "2015"
-  category: [""]
+  category: ["Freshwater finfish"]
   species: [""]
   period: ""
   funded_by: [""]
@@ -107,41 +107,18 @@
   project_team: [{"name":"Marie-Hélène Deschamps", "org":"Université Laval"}, {"name":"Émilie Proulx", "org":"Université Laval"}]
   collaborators: [{"name":"Charles Lavigne", "org":"Quebec Agrifood Development Center"}, {"name":"Catherine Emond", "org":"Quebec Agrifood Development Center"}, {"name":"Cliff Pavlovic", "org":"Corporation Larvatria"}]
 
-10
-THE TRANSCRIPTOME AS A TOOL FOR UNDERSTANDING AND EARLY DETECTION OF VERTEBRAL MALFORMATIONS LINKED TO PHOSPHORUS DEFICIENCY IN RAINBOW TROUT
-SEP. 2010–AUG. 2014
-FUNDED BY:
-Ministère du Développement économique, de l’Innovation et de l’Exportation
-Programme de soutien à des initiatives internationales de recherche et d’innovation (PSIIRI)
-CO-FUNDED BY:
-Aquaculture Collaborative Research and Development Program (DFO – ACRDP)
-Programme de recherche et de développement en aquaculture continentale (SORDAC)
-Réseau Aquaculture Québec
-Programme de bourse FONCER
-Université Laval
-Programme de bourse du Bureau International
-PROJECT LEAD:
-Grant Vandenberg (U Laval)
-PROJECT TEAM:
-Marie-Hélène Deschamps (U Laval)
-Jérémy Le Luyer (U Laval)
-Noémie Poirier Stewart (U Laval)
-Émilie Proulx (U Laval)
-COLLABORATORS:
-Nadia Aubin-Horth (U Laval)
-Claude Robert (U Laval)
-Arnaud Droit (U Laval)
-Dominique Bureau (U Guelph)
-Ann Huysseune (Universiteit Gent)
-Eckhard Witten (Universiteit Gent)
-Jean-Yves Sire (U Paris 6)
-Chantal Cahu (IFREMER)
-Dominique Mazurais (IFREMER)
-Kenneth Overturf (U Idaho)
-Ron Hardy (U Idaho)
-Tom Hansen (Havforskningsinstituttet)
-Anna Wargelius (Havforskningsinstituttet)
-P.E. Fjelldal (Havforskningsinstituttet)
+
+- title: "THE TRANSCRIPTOME AS A TOOL FOR UNDERSTANDING AND EARLY DETECTION OF VERTEBRAL MALFORMATIONS LINKED TO PHOSPHORUS DEFICIENCY IN RAINBOW TROUT"
+  year: "2015"
+  category: ["Freshwater finfish"]
+  species: ["Rainbow trout"]
+  period: "SEP. 2010–AUG. 2014"
+  funded_by: ["Ministère du développement économique, de l’innovation et de l’exportation", "Programme de soutien à des initiatives internationales de recherche et d’innovation"]
+  co-funded_by: [{"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}, {"org":"Ministère de l'agriculture, pêcheries et alimentation du Québec", "program":"Programme de recherche et de développement en aquaculture continentale"},{"org":"Réseau Aquaculture Québec"},{"org":"Natural Sciences and Engineering Research Council of Canada", "program":"CREATE Program"}, {"org":"Université Laval", "program":"Programme de bourse du bureau international"}]
+  project_lead: [{"name":"Grant Vandenberg", "org":"Université Laval"}]
+  project_team: [{"name":"Marie-Hélène Deschamps", "org":"Université Laval"}, {"name":"Jérémy Le Luyer", "org":"Université Laval"}, {"name":"Noémie Poirier Stewart", "org":"Université Laval"}, {"name":"Émilie Proulx", "org":"Université Laval"}]
+  collaborators: [{"name":"Nadia Aubin-Horth", "org":"Université Laval"}, {"name":"Claude Robert", "org":"Université Laval"}, {"name":"Arnaud Droit", "org":"Université Laval"}, {"name":"Dominique Bureau", "org":"University of Guelph"}, {"name":"Ann Huysseune", "org":"Universiteit Gent"}, {"name":"Eckhard Witten", "org":"Universiteit Gent"}, {"name":"Jean-Yves Sire", "org":"Université Pierre et Marie Curie"}, {"name":"Chantal Cah", "org":"Institut français de recherche pour l'exploitation de la mer"}, {"name":"Dominique Mazurais", "org":"Institut français de recherche pour l'exploitation de la mer"}, {"name":"Kenneth Overturf", "org":"University of Idaho"}, {"name":"Ron Hardy", "org":"University of Idaho"}, {"name":"Tom Hansen", "org":"Havforskningsinstituttet"}, {"name":"Anna Wargelius", "org":"Havforskningsinstituttet"}, {"name":"P.E. Fjelldal", "org":"Havforskningsinstituttet"}]
+
 
 11
 DEVELOPMENT OF PREDICTIVE MODELING TOOLS TO ASSIST WITH FRESHWATER AQUACULTURE SITE LICENSING DECISIONS
