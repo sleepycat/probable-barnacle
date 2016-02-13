@@ -107,7 +107,6 @@
   project_team: [{"name":"Marie-Hélène Deschamps", "org":"Université Laval"}, {"name":"Émilie Proulx", "org":"Université Laval"}]
   collaborators: [{"name":"Charles Lavigne", "org":"Quebec Agrifood Development Center"}, {"name":"Catherine Emond", "org":"Quebec Agrifood Development Center"}, {"name":"Cliff Pavlovic", "org":"Corporation Larvatria"}]
 
-
 - title: "THE TRANSCRIPTOME AS A TOOL FOR UNDERSTANDING AND EARLY DETECTION OF VERTEBRAL MALFORMATIONS LINKED TO PHOSPHORUS DEFICIENCY IN RAINBOW TROUT"
   year: "2015"
   category: ["Freshwater finfish"]
@@ -119,18 +118,17 @@
   project_team: [{"name":"Marie-Hélène Deschamps", "org":"Université Laval"}, {"name":"Jérémy Le Luyer", "org":"Université Laval"}, {"name":"Noémie Poirier Stewart", "org":"Université Laval"}, {"name":"Émilie Proulx", "org":"Université Laval"}]
   collaborators: [{"name":"Nadia Aubin-Horth", "org":"Université Laval"}, {"name":"Claude Robert", "org":"Université Laval"}, {"name":"Arnaud Droit", "org":"Université Laval"}, {"name":"Dominique Bureau", "org":"University of Guelph"}, {"name":"Ann Huysseune", "org":"Universiteit Gent"}, {"name":"Eckhard Witten", "org":"Universiteit Gent"}, {"name":"Jean-Yves Sire", "org":"Université Pierre et Marie Curie"}, {"name":"Chantal Cah", "org":"Institut français de recherche pour l'exploitation de la mer"}, {"name":"Dominique Mazurais", "org":"Institut français de recherche pour l'exploitation de la mer"}, {"name":"Kenneth Overturf", "org":"University of Idaho"}, {"name":"Ron Hardy", "org":"University of Idaho"}, {"name":"Tom Hansen", "org":"Havforskningsinstituttet"}, {"name":"Anna Wargelius", "org":"Havforskningsinstituttet"}, {"name":"P.E. Fjelldal", "org":"Havforskningsinstituttet"}]
 
+- title: "DEVELOPMENT OF PREDICTIVE MODELING TOOLS TO ASSIST WITH FRESHWATER AQUACULTURE SITE LICENSING DECISIONS"
+  year: "2015"
+  category: ["Freshwater finfish"]
+  species: [""]
+  period: "APR. 2008 –MAR. 2015"
+  funded_by: [{"org":"Fisheries and Oceans Canada","org":"Aquaculture Collaborative Research and Development Program"]
+  co-funded_by: ["Wild West Steelhead"]
+  project_lead: [{"name":"Cheryl Podemski", "org":"Fisheries and Oceans Canada"}]
+  project_team: []
+  collaborators: [{"name":"", "org":"Wild West Steelhead"}] # missing name of collaborator
 
-11
-DEVELOPMENT OF PREDICTIVE MODELING TOOLS TO ASSIST WITH FRESHWATER AQUACULTURE SITE LICENSING DECISIONS
-APR. 2008 –MAR. 2015
-FUNDED BY:
-Aquaculture Collaborative Research and Development Program (DFO – ACRDP)
-CO-FUNDED BY:
-Wild West Steelhead
-PROJECT LEAD:
-Cheryl Podemski (DFO)
-COLLABORATORS:
-Wild West Steelhead
 
 12
 TOWARD EARLY DETECTION OF VERTEBRAL ANOMALIES LINKED TO PHOSPHORUS DEFICIENCY IN FARMED RAINBOW TROUT THROUGH MORPHOMETRIC MEASUREMENTS TAKEN FROM X-RAYS
