@@ -1,5 +1,8 @@
 - title: ""
+  category: [""]
+  species: [""]
   period: ""
+  category: [""]
   funded_by: [""]
   co-funded_by: ["", ""]
   project_lead: [{"name":"", "org":"", "country":"Canada"}]
@@ -7,6 +10,8 @@
   collaborators: [{"name":"", "org":"", "country":"Canada"}, {"name":"", "org":"", "country":"Canada"}, {"name":"", "org":"", "country":"Canada"}]
 
 - title: "EFFECT OF STRESS IN SEXUALLY MATURING FEMALE BROOK TROUT (SALVELINUS FONTINALIS) ON EMBRYONIC DEVELOPMENT AND GENE EXPRESSION RELATED TO GROWTH IN THE EARLY DEVELOPMENT STAGES"
+  category: ["Freshwater finfish"]
+  species: ["Brook trout"]
   period: "SEP. 2013–AUG. 2015"
   funded_by: ["Fonds de recherche du Québec Nature et Technologies", "Team grants program"]
   co-funded_by: ["Ressources Aquatiques Québec"]
@@ -14,6 +19,8 @@
   project_team: [{"name":"Laurence Deneault-Tremblay", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski", "country":"Canada"},{"name":"Nadia Aubin-Horth", "org":"Université Laval", "country":"Canada"}]
 
 - title: "OPTIMIZATION OF CULTURED WALLEYE (SANDER VITREUS) EGG QUALITY"
+  category: ["Freshwater finfish"]
+  species: ["Walleye"]
   period: "SEP. 2011–APR. 2013"
   funded_by: ["Société de Recherche et de Développement en Aquaculture Continentale Inc.", "Ressources Aquatiques Québec"]
   co-funded_by: ["Fonds de Recherche Nature et Technologies", "BMP Innovation scholarship"]
@@ -22,6 +29,8 @@
   collaborators: [{"name":"Ines Ben Khemis", "org":"National Institute of Marine Sciences and Technologies", "country":"Tunisia"},{"name":"Mari Moren", "org":"Nofima", "country":"Norway"}]
 
 - title: "REARING DEEPWATER CISCO (COREGONUS HOYI) IN CAPTIVITY FROM HATCH FOR RE-INTRODUCTION TO LAKE ONTARIO"
+  category: ["Freshwater finfish"]
+  species: ["Cisco"]
   period: "FEB. 2012–NOV. 2015"
   funded_by: ["Ontario Ministry of Natural Resources"]
   co-funded_by: ["US Fish and Wildlife Service", "Great Lakes Restoration Initiative"]
@@ -30,6 +39,8 @@
   collaborators: [{"org":"Fisheries and Oceans Canada", "country":"Canada"}, {"org":"Chippewa Ottawa Resource Authority","country":"Canada"},{"org":"Paragon Fish Corporation", "country":"Canada"}, {"org":"University of Guelph", "country":"Canada"}] # missing names of collaborators
 
 - title: "PHYSIOLOGICAL RESPONSES OF TWO CANADIAN STRAINS OF ARCTIC CHARR AT DIFFERENT LIFE STAGES TO DIETS FORMULATED WITH PLANT PROTEIN INGREDIENTS"
+  category: ["Freshwater finfish"]
+  species: ["Arctic charr"]
   period: "MAY 2013–JUN. 2014"
   funded_by: ["Atlantic Canada Opportunities Agency - Atlantic Innovation Fund"]
   co-funded_by: ["Manitoba Association of Agricultural Societies Inc.", "Agri-Food Research & Development Initiative"]
@@ -38,6 +49,8 @@
   collaborators: [{"name":"Ken Overturf", "org":"University of Idaho", "country":"USA"}]
 
 - title: "GENETIC SELECTION PROGRAM TO ACHIEVE IMPROVED PERFORMANCE OF BROOK TROUT STOCK FOR AQUACULTURE IN QUEBEC"
+  category: ["Freshwater finfish"]
+  species: ["Brook trout"]
   period: "JUL. 2011–JUL. 2014"
   funded_by: ["org":"Ministère de l’Agriculture, des Pêcheries et de l’Alimentation du Québec"]
   co-funded_by: ["Société de développement de l’industrie maricole Inc.", "Société de recherche et de développement en aquaculture continentale Inc.", "Ministère du Développement économique, de l’Innovation et de l’Exportation", "Ministère des Affaires municipales, des Régions et de l’Occupation du territoire", "Ressources Aquatiques Québec"]
@@ -46,6 +59,8 @@
   collaborators: []
 
 - title: "DEVELOPMENT OF GENOMIC RESOURCES FOR ATLANTIC STURGEON USING NEXT-GENERATION SEQUENCING"
+  category: ["Freshwater finfish"]
+  species: ["Atlantic sturgeon"]
   period: "AUG. 2014–JAN. 2015"
   funded_by: ["Natural Sciences and Engineering Research Council"]
   co-funded_by: []
@@ -54,6 +69,8 @@
   collaborators: []
 
 - title: "ASSESSING THE BIOAVAILABILITY OF SYNTHETIC METHIONINE AND LYSINE FROM DIFFERENT SOURCES IN RAINBOW TROUT (ONCORHYNCHUS MYKISS)"
+  category: ["Freshwater finfish"]
+  species: ["Rainbow trout"]
   period: "MAY 2012–AUG. 2014"
   funded_by: ["Evonik Industries", "country":"Germany"]
   co-funded_by: ["Ontario Ministry of Agriculture Food and Rural Affairs"]
@@ -62,6 +79,8 @@
   collaborators: [{"name":"Andreas Lemme", "org":"", "country":""}] # missing organization
 
 - title: "DEVELOPMENT OF TECHNIQUES TO PROMOTE THE SURVIVAL AND GROWTH OF WALLEYE (SANDER VITREUS) LARVAE IN INTENSIVE CULTURE"
+  category: ["Freshwater finfish"]
+  species: ["Walleye"]
   period: "MAY 2014–DEC. 2015"
   funded_by: ["org":"Ministère de l’agriculture, des pêcheries et de l’alimentation du Québec", "program":"INNOVAMER"]
   co-funded_by: ["", ""]
@@ -183,6 +202,8 @@ COLLABORATORS:
 Industrial Action Plan of the Interprovincial Partnership for Sustainable Freshwater Aquaculture Development (IPSFAD)
 
 - title: "META-ANALYSIS OF FRESHWATER AQUACULTURE PROVINCIAL WATER QUALITY MONITORING DATA"
+  category: ["Freshwater finfish"]
+  species: [""]
   period: "AUG. 2014–MAR. 2015"
   funded_by: ["org":"Fisheries and Oceans Canada", "program":"Program for Aquaculture Regulatory Research"]
   co-funded_by: []
@@ -215,6 +236,8 @@ Andre Dumas (CZRI)
 Tony Manning (RPC)
 
 - title: "ASSESSING ECOLOGICAL INTERACTIONS BETWEEN AQUACULTURE AND WILD STRAINS OF RAINBOW TROUT"
+  category: ["Freshwater finfish"]
+  species: ["Rainbow trout"]
   period: "MAY 2010–MAR. 2013"
   funded_by: ["Fisheries and Oceans Canada Centre for Aquatic Biotechnology Regulatory Research"]
   co-funded_by: ["", ""]
@@ -244,6 +267,8 @@ COLLABORATORS:
 Pisciculture Acadienne (PA)
 
 - title: "EVALUATION OF RATION REDUCTIONS ON THE GROWTH, FEED CONVERSION, AND SOMATIC INDICES OF RAINBOW TROUT"
+  category: ["Freshwater finfish"]
+  species: ["Rainbow trout"]
   period: "JAN. 2013–OCT. 2013"
   funded_by: ["Martin Mills Inc."]
   co-funded_by: ["Ontario Ministry of Agriculture, Food and Rural Affairs"]
@@ -252,6 +277,8 @@ Pisciculture Acadienne (PA)
   collaborators: [{"name":"Alma Aquaculture Research Station", "org":"University of Guelph", "country":"Canada"}]
 
 - title: "ONTARIO AQUACULTURE STATISTICS PROGRAM"
+  category: ["Freshwater finfish"]
+  species: [""]
   period: "JAN. 2013–MAR. 2013"
   funded_by: ["Ontario Ministry of Natural Resources"]
   co-funded_by: ["Ontario Ministry of Agriculture, Food and Rural Affairs"]
