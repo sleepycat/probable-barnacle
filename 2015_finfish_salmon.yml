@@ -10,9 +10,17 @@
 - title: "ATLANTIC SALMON SELECTION AND BROODSTOCK DEVELOPMENT PROGRAM FOR USE IN COMMERCIAL SALTWATER AQUACULTURE PRODUCTION ON THE EAST COAST OF CANADA"
   period: "OCT. 2010-SEP. 2015"
   funded_by: ["Atlantic Canada Opportunities Agency – Atlantic Innovation Fund"]
-  co-funded_by: [{"org":"New Brunswick Innovation Foundation", "country": "Canada"}, {"org": "Northern Harvest Sea Farms", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "country": "Canada"]
+  co-funded_by: [{"org":"New Brunswick Innovation Foundation", "country": "Canada"}, {"org": "Northern Harvest Sea Farms", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "country": "Canada"}]
   project_lead: [{"name":"Amber Garber", "org": "Huntsman Marine Science Centre", "country":"Canada"}]
   project_team: [{"name":"Susan Hodkinson", "org":"Huntsman Marine Science Centre", "country":"Canada"},{"name":"Chris Bridger", "org":"Huntsman Marine Science Centre", "country":"Canada"}, {"name": "Jane Tosh", "org": "University of Guelph", "country": "Canada"}, {"name": "Aaron Craig", "org": "Northern Harvest Sea Farms", "country": "Canada"}, {"name": "Robin Muzzerall", "org": "Northern Harvest Sea Farms", "country": "Canada"}]
   collaborators: []
   contact: "agarber@huntsmanmarine.ca"
 
+- title: "EFFECTS OF FEEDING HIGH PLANT PROTEIN DIET ON GROWTH AND NUTRIENTS UTILIZATION OF GROWTHHORMONE TRANSGENIC DIPLOID AND TRIPLOID ATLANTIC SALMON (SALMO SALAR L.)"
+  period: "MAY 2012–MAY 2013"
+  funded_by: ["Atlantic Canada Opportunities Agency – Atlantic Innovation Fund"]
+  co-funded_by: []
+  project_lead: [{"name":"Rachid Ganga", "org": "Center for Aquaculture Technologies Canada", "country":"Canada"}]
+  project_team: [{"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"},{"name":"Dawn Runighan", "org":"AquaBounty Technologies", "country":"Canada"}, {"name": "John Buchanan", "org": "Center for Aquaculture Technologies", "country": "USA"}]
+  collaborators: [{"name": "Santosh Lall", "org": "National Research Council", "country": "Canada"}, {"name": "Sean Tibbetts", "org": "National Research Council", "country": "Canada"}, {"name": "Cheryl Wall", "org": "National Research Council", "country": "Canada"}]
+  contact: "rganga@aquatechcenter.com"
