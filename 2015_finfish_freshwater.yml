@@ -2,26 +2,22 @@
   period: "SEP. 2013–AUG. 2015"
   funded_by: ["Fonds de recherche du Québec Nature et Technologies", "Team grants program"]
   co-funded_by: "Ressources Aquatiques Québec"
-  project_lead: "Céline Audet, Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski, Canada"
-  project_team: [{name:"Laurence Deneault-Tremblay", org:"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski", country:"Canada"},{name:"Nadia Aubin-Horth", org:"Université Laval", country:"Canada"}]
+  project_lead: {"name":"Céline Audet", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski", "country":"Canada"}
+  project_team: [{"name":"Laurence Deneault-Tremblay", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski", "country":"Canada"},{"name":"Nadia Aubin-Horth", "org":"Université Laval", "country":"Canada"}]
 
 - title: "OPTIMIZATION OF CULTURED WALLEYE (SANDER VITREUS) EGG QUALITY"
   period: "SEP. 2011–APR. 2013"
   funded_by: ["Société de Recherche et de Développement en Aquaculture Continentale Inc.", "Ressources Aquatiques Québec"]
-  co-funded: "Fonds de Recherche Nature et Technologies", "BMP Innovation scholarship"]
-  project_lead: "Réjean Tremblay, Université du Québec à Rimouski"
-  project_team: ["Céline Audet, Université du Québec à Rimouski", "Grant Vandenberg, Université Laval", Marco Blanchet, Station piscicole Trois-Lacs"]
-  collaborators: [{name:"Ines Ben Khemis", org:"National Institute of Marine Sciences and Technologies", country:"Tunisia"},{name:"Mari Moren", org:"Nofima", country:"Norway"}]
+  co-funded_by: ["Fonds de Recherche Nature et Technologies", "BMP Innovation scholarship"]
+  project_lead: {"name":"Réjean Tremblay", "org":"Université du Québec à Rimouski"}
+  project_team: [{"name":"Céline Audet", "org":"Université du Québec à Rimouski", "country":"Canada"}, {"name":"Grant Vandenberg", "org":"Université Laval", "country":"Canada"},{"name":"Marco Blanchet", "org":"Station piscicole Trois-Lacs", "country":"Canada"}]
+  collaborators: [{"name":"Ines Ben Khemis", "org":"National Institute of Marine Sciences and Technologies", "country":"Tunisia"},{"name":"Mari Moren", "org":"Nofima", "country":"Norway"}]
 
-- title: REARING DEEPWATER CISCO (COREGONUS HOYI) IN CAPTIVITY FROM HATCH FOR RE-INTRODUCTION TO LAKE ONTARIO
-FEB. 2012–NOV. 2015
-FUNDED BY:
-Ontario Ministry of Natural Resources (OMNR)
-CO-FUNDED BY:
-USFWS – Fish and Wildlife Restoration Act
-Great Lakes Restoration Initiative
-PROJECT LEAD:
-Tim Drew (OMNR)
+- title: "REARING DEEPWATER CISCO (COREGONUS HOYI) IN CAPTIVITY FROM HATCH FOR RE-INTRODUCTION TO LAKE ONTARIO"
+  period: "FEB. 2012–NOV. 2015"
+  funded_by: "Ontario Ministry of Natural Resources"
+  co-funded_by: ["US Fish and Wildlife Service", "Great Lakes Restoration Initiative"]
+  project_lead: {name:"Tim Drew", org:"Ontario Ministry of Natural Resources and Forestry"
 PROJECT TEAM:
 Laura Metcalf (U Guelph) 
 Dominique Bureau (U Guelph)
