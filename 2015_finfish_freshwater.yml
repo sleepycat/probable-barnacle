@@ -1,116 +1,73 @@
+- title: ""
+  period: ""
+  funded_by: [""]
+  co-funded_by: ["", ""]
+  project_lead: [{"name":"", "org":"", "country":"Canada"}]
+  project_team: [{"name":"", "org":"", "country":"Canada"}, {"name":"", "org":"", "country":"Canada"}, {"name":"", "org":"", "country":"Canada"}]
+  collaborators: [{"name":"", "org":"", "country":"Canada"}, {"name":"", "org":"", "country":"Canada"}, {"name":"", "org":"", "country":"Canada"}]
+
 - title: "EFFECT OF STRESS IN SEXUALLY MATURING FEMALE BROOK TROUT (SALVELINUS FONTINALIS) ON EMBRYONIC DEVELOPMENT AND GENE EXPRESSION RELATED TO GROWTH IN THE EARLY DEVELOPMENT STAGES"
   period: "SEP. 2013–AUG. 2015"
   funded_by: ["Fonds de recherche du Québec Nature et Technologies", "Team grants program"]
-  co-funded_by: "Ressources Aquatiques Québec"
-  project_lead: {"name":"Céline Audet", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski", "country":"Canada"}
+  co-funded_by: ["Ressources Aquatiques Québec"]
+  project_lead: [{"name":"Céline Audet", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski", "country":"Canada"}]
   project_team: [{"name":"Laurence Deneault-Tremblay", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski", "country":"Canada"},{"name":"Nadia Aubin-Horth", "org":"Université Laval", "country":"Canada"}]
 
 - title: "OPTIMIZATION OF CULTURED WALLEYE (SANDER VITREUS) EGG QUALITY"
   period: "SEP. 2011–APR. 2013"
   funded_by: ["Société de Recherche et de Développement en Aquaculture Continentale Inc.", "Ressources Aquatiques Québec"]
   co-funded_by: ["Fonds de Recherche Nature et Technologies", "BMP Innovation scholarship"]
-  project_lead: {"name":"Réjean Tremblay", "org":"Université du Québec à Rimouski"}
+  project_lead: [{"name":"Réjean Tremblay", "org":"Université du Québec à Rimouski"}]
   project_team: [{"name":"Céline Audet", "org":"Université du Québec à Rimouski", "country":"Canada"}, {"name":"Grant Vandenberg", "org":"Université Laval", "country":"Canada"},{"name":"Marco Blanchet", "org":"Station piscicole Trois-Lacs", "country":"Canada"}]
   collaborators: [{"name":"Ines Ben Khemis", "org":"National Institute of Marine Sciences and Technologies", "country":"Tunisia"},{"name":"Mari Moren", "org":"Nofima", "country":"Norway"}]
 
 - title: "REARING DEEPWATER CISCO (COREGONUS HOYI) IN CAPTIVITY FROM HATCH FOR RE-INTRODUCTION TO LAKE ONTARIO"
   period: "FEB. 2012–NOV. 2015"
-  funded_by: "Ontario Ministry of Natural Resources"
+  funded_by: ["Ontario Ministry of Natural Resources"]
   co-funded_by: ["US Fish and Wildlife Service", "Great Lakes Restoration Initiative"]
-  project_lead: {name:"Tim Drew", org:"Ontario Ministry of Natural Resources and Forestry"
-PROJECT TEAM:
-Laura Metcalf (U Guelph) 
-Dominique Bureau (U Guelph)
-Jim Brumpton (OMNR)
-COLLABORATORS:
-DFO
-Chippewa Ottawa Resource Authority
-Paragon Fish Corporation
-U Guelph
+  project_lead: [{"name":"Tim Drew", "org":"Ontario Ministry of Natural Resources and Forestry", "country":"Canada"}]
+  project_team: [{"name":"Laura Metcalf", "org":"University of Guelph", "country":"Canada"}, {"name":"Dominique Bureau", "org":"University of Guelph", "country":"Canada"}, {"name":"Jim Brumpton", "org":"Ontario Ministry of Natural Resources and Forestry", "country":"Canada"}]
+  collaborators: [{"org":"Fisheries and Oceans Canada", "country":"Canada"}, {"org":"Chippewa Ottawa Resource Authority","country":"Canada"},{"org":"Paragon Fish Corporation", "country":"Canada"}, {"org":"University of Guelph", "country":"Canada"}] # missing names of collaborators
 
-4
-PHYSIOLOGICAL RESPONSES OF TWO CANADIAN STRAINS OF ARCTIC CHARR AT DIFFERENT LIFE STAGES TO DIETS FORMULATED WITH PLANT PROTEIN INGREDIENTS
-MAY 2013–JUN. 2014
-FUNDED BY:
-Atlantic Canada Opportunities Agency
-Atlantic Innovation Fund (ACOA-AIF)
-CO-FUNDED BY:
-Manitoba Association of Agricultural Societies Inc.
-Agri-Food Research & Development Initiative (ARDI)
-PROJECT LEAD:
-André Dumas (Coastal Zones Research Institute)
-PROJECT TEAM:
-Amanda Smith (U Guelph)
-Dominique Bureau (U Guelph)
-Luc Desjardins (NBCC)
-Pascale Comeau (CZRI)
-Caroline Roussel (CZRI)
-COLLABORATORS:
-Ken Overturf (U Idaho)
+- title: "PHYSIOLOGICAL RESPONSES OF TWO CANADIAN STRAINS OF ARCTIC CHARR AT DIFFERENT LIFE STAGES TO DIETS FORMULATED WITH PLANT PROTEIN INGREDIENTS"
+  period: "MAY 2013–JUN. 2014"
+  funded_by: ["Atlantic Canada Opportunities Agency - Atlantic Innovation Fund"]
+  co-funded_by: ["Manitoba Association of Agricultural Societies Inc.", "Agri-Food Research & Development Initiative"]
+  project_lead: [{"name":"André Dumas", "org":"Coastal Zones Research Institute", "country":"Canada"}]
+  project_team: [{"name":"Amanda Smith", "org":"University of Guelph", "country":"Canada"}, {"name":"Dominique Bureau", "org":"University of Guelph", "country":"Canada"}, {"name":"Luc Desjardins", "org":"New Brunswick Community College", "country":"Canada"},{"name":"Pascale Comeau", "org":"Coastal Zones Research Institute", "country":"Canada"},{"name":"Caroline Roussel", "org":"Coastal Zones Research Institute", "country":"Canada"}]
+  collaborators: [{"name":"Ken Overturf", "org":"University of Idaho", "country":"USA"}]
 
-5
-GENETIC SELECTION PROGRAM TO ACHIEVE IMPROVED PERFORMANCE OF BROOK TROUT STOCK FOR AQUACULTURE IN QUEBEC
-JUL. 2011–JUL. 2014
-FUNDED BY:
-Ministère de l’Agriculture, des Pêcheries et de l’Alimentation du Québec (MAPAQ)
-CO-FUNDED BY:
-Société de développement de l’industrie maricole Inc. (SODIM)
-Société de recherche et de développement en aquaculture continentale Inc. (SORDAC)
-Ministère du Développement économique, de l’Innovation et de l’Exportation (MDEIE)
-Ministère des Affaires municipales, des Régions et de l’Occupation du territoire (MAMROT)
-Ressources Aquatiques Québec (RAQ)
-PROJECT LEAD:
-Luc Picard (CTSS)
-PROJECT TEAM:
-François Lavigne (CTSS)
-Louis Bernatchez (U Laval)
-Dany Proteau (P Lac St-François)
-Michel Fournier (P des Appalaches)
-Karl Nolin (P Mont-Tremblant)
+- title: "GENETIC SELECTION PROGRAM TO ACHIEVE IMPROVED PERFORMANCE OF BROOK TROUT STOCK FOR AQUACULTURE IN QUEBEC"
+  period: "JUL. 2011–JUL. 2014"
+  funded_by: ["org":"Ministère de l’Agriculture, des Pêcheries et de l’Alimentation du Québec"]
+  co-funded_by: ["Société de développement de l’industrie maricole Inc.", "Société de recherche et de développement en aquaculture continentale Inc.", "Ministère du Développement économique, de l’Innovation et de l’Exportation", "Ministère des Affaires municipales, des Régions et de l’Occupation du territoire", "Ressources Aquatiques Québec"]
+  project_lead: [{"name":"Luc Picard", "org":"Centre de transfert et de sélection des salmonidés", "country":"Canada"}]
+  project_team: [{"name":"François Lavigne", "org":"Centre de transfert et de sélection des salmonidés", "country":"Canada"}, {"name":"Louis Bernatchez", "org":"Université Laval", "country":"Canada"}, {"name":"Dany Proteau", "org":"Pisciculture Lac St-François", "country":"Canada"},  {"name":"Michel Fournier", "org":"Pisciculture des Appalaches", "country":"Canada"},  {"name":"Karl Nolin", "org":"Pisciculture Mont-Tremblant", "country":"Canada"}]
+  collaborators: []
 
-6
-DEVELOPMENT OF GENOMIC RESOURCES FOR ATLANTIC STURGEON USING NEXT-GENERATION SEQUENCING
-AUG. 2014–JAN. 2015
-FUNDED BY:
-Natural Sciences and Engineering Research Council (NSERC)
-PROJECT LEAD:
-Mark Fast (UPEI)
-PROJECT TEAM:
-Tiago Hori (CATC)
-Debbie Plouffe (CATC)
-John Buchanan (CAT)
+- title: "DEVELOPMENT OF GENOMIC RESOURCES FOR ATLANTIC STURGEON USING NEXT-GENERATION SEQUENCING"
+  period: "AUG. 2014–JAN. 2015"
+  funded_by: ["Natural Sciences and Engineering Research Council"]
+  co-funded_by: []
+  project_lead: [{"name":"Mark Fast", "org":"University of Prince Edward Island", "country":"Canada"}]
+  project_team: [{"name":"Tiago Hori", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"}, {"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"}, {"name":"John Buchanan", "org":"Center for Aquaculture Technologies", "country":"USA"}]
+  collaborators: []
 
-7
-ASSESSING THE BIOAVAILABILITY OF SYNTHETIC METHIONINE AND LYSINE FROM DIFFERENT SOURCES IN RAINBOW TROUT (ONCORHYNCHUS MYKISS)
-MAY 2012–AUG. 2014
-FUNDED BY:
-Evonik Industries AG, Hanau, Germany
-CO-FUNDED BY:
-Ontario Ministry of Agriculture Food and Rural Affairs (OMAFRA)
-PROJECT LEAD:
-Christopher Powell (U Guelph)
-Dominique Bureau (U Guelph)
-PROJECT TEAM:
-Kabir Chowdhury
-COLLABORATORS:
-Andreas Lemme
+- title: "ASSESSING THE BIOAVAILABILITY OF SYNTHETIC METHIONINE AND LYSINE FROM DIFFERENT SOURCES IN RAINBOW TROUT (ONCORHYNCHUS MYKISS)"
+  period: "MAY 2012–AUG. 2014"
+  funded_by: ["Evonik Industries", "country":"Germany"]
+  co-funded_by: ["Ontario Ministry of Agriculture Food and Rural Affairs"]
+  project_lead: [{"name":"Christopher Powell", "org":"University of Guelph", "country":"Canada"}, {"name":"Dominique Bureau", "org":"University of Guelph", "country":"Canada"}]
+  project_team: [{"name":"Kabir Chowdhury", "org":"", "country":""}] # missing organization
+  collaborators: [{"name":"Andreas Lemme", "org":"", "country":""}] # missing organization
 
-8
-DEVELOPMENT OF TECHNIQUES TO PROMOTE THE SURVIVAL AND GROWTH OF WALLEYE (SANDER VITREUS) LARVAE IN INTENSIVE CULTURE
-MAY 2014–DEC. 2015
-FUNDED BY:
-Ministère de l’agriculture, des pêcheries et de l’alimentation du Québec (MAPAQ)
-INNOVAMER
-PROJECT LEAD:
-Grant Vandenberg (U Laval)
-PROJECT TEAM:
-Émilie Proulx (U Laval)
-Benjamin Laramée (U Laval)
-COLLABORATORS:
-Réjean Tremblay (ISMER, UQAR)
-Céline Audet (ISMER, UQAR)
-Marie-Hélène Fournier (Merinov)
-Marco Blanchet (Station piscicole Trois-Lacs)
+- title: "DEVELOPMENT OF TECHNIQUES TO PROMOTE THE SURVIVAL AND GROWTH OF WALLEYE (SANDER VITREUS) LARVAE IN INTENSIVE CULTURE"
+  period: "MAY 2014–DEC. 2015"
+  funded_by: ["org":"Ministère de l’agriculture, des pêcheries et de l’alimentation du Québec", "program":"INNOVAMER"]
+  co-funded_by: ["", ""]
+  project_lead: [{"name":"Grant Vandenberg", "org":"Université Laval", "country":"Canada"}]
+  project_team: [{"name":"Émilie Proulx", "org":"Université Laval", "country":"Canada"}, {"name":"Benjamin Laramée", "org":"Université Laval", "country":"Canada"}]
+  collaborators: [{"name":"Réjean Tremblay", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski", "country":"Canada"}, {"name":"Céline Audet", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski", "country":"Canada"}, {"name":"Marie-Hélène Fournier", "org":"Merinov", "country":"Canada"},{"name":"Marco Blanchet", "org":"Station piscicole Trois-Lacs", "country":"Canada"}]
 
 9
 STUDY OF THE DIGESTIBILITY OF FLY LARVAE PRODUCT-BASED DIETS IN RAINBOW TROUT
@@ -130,7 +87,7 @@ THE TRANSCRIPTOME AS A TOOL FOR UNDERSTANDING AND EARLY DETECTION OF VERTEBRAL M
 SEP. 2010–AUG. 2014
 FUNDED BY:
 Ministère du Développement économique, de l’Innovation et de l’Exportation
-Programme de soutien à des initiatives internationales de recherche et d’innovation (PSIIRI) 
+Programme de soutien à des initiatives internationales de recherche et d’innovation (PSIIRI)
 CO-FUNDED BY:
 Aquaculture Collaborative Research and Development Program (DFO – ACRDP)
 Programme de recherche et de développement en aquaculture continentale (SORDAC)
@@ -225,13 +182,13 @@ Annie Dubé (U Laval)
 COLLABORATORS:
 Industrial Action Plan of the Interprovincial Partnership for Sustainable Freshwater Aquaculture Development (IPSFAD)
 
-14
-META-ANALYSIS OF FRESHWATER AQUACULTURE PROVINCIAL WATER QUALITY MONITORING DATA
-AUG. 2014–MAR. 2015
-FUNDED BY:
-Program for Aquaculture Regulatory Research (DFO – PARR)
-PROJECT LEAD:
-Cheryl Podemski (DFO)
+- title: "META-ANALYSIS OF FRESHWATER AQUACULTURE PROVINCIAL WATER QUALITY MONITORING DATA"
+  period: "AUG. 2014–MAR. 2015"
+  funded_by: ["org":"Fisheries and Oceans Canada", "program":"Program for Aquaculture Regulatory Research"]
+  co-funded_by: []
+  project_lead: [{"name":"Cheryl Podemski", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  project_team: []
+  collaborators: []
 
 15
 EFFECTS OF ENZYMES TREATED RED YEAST ON GROWTH, ASTAXANTHIN DIGESTIBILITY, AND PIGMENTATION OF RAINBOW TROUT
@@ -246,7 +203,7 @@ Patricio Saez (U Guelph)
 
 16
 REDUCING THE PROBLEM OF EARLY SEXUAL MATURATION IN ARCTIC CHARR (SALVELINUS ALPINUS)
-SEP. 2013–ONGOING	
+SEP. 2013–ONGOING
 FUNDED BY:
 Atlantic Innovation Fund
 PROJECT LEAD:
@@ -257,17 +214,13 @@ COLLABORATORS:
 Andre Dumas (CZRI)
 Tony Manning (RPC)
 
-17
-ASSESSING ECOLOGICAL INTERACTIONS BETWEEN AQUACULTURE AND WILD STRAINS OF RAINBOW TROUT
-MAY 2010–MAR. 2013
-FUNDED BY:
-Centre for Aquatic Biotechnology Regulatory Research (DFO – CABRR)
-PROJECT LEAD:
-Paul Blanchfield (DFO)
-PROJECT TEAM:
-Robert Devlin (DFO)
-Alex Wall (DFO)
-Matthew Martens (U Manitoba)
+- title: "ASSESSING ECOLOGICAL INTERACTIONS BETWEEN AQUACULTURE AND WILD STRAINS OF RAINBOW TROUT"
+  period: "MAY 2010–MAR. 2013"
+  funded_by: ["Fisheries and Oceans Canada Centre for Aquatic Biotechnology Regulatory Research"]
+  co-funded_by: ["", ""]
+  project_lead: [{"name":"Paul Blanchfield", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  project_team: [{"name":"Robert Devlin", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Alex Wall", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  collaborators: [{"name":"Matthew Martens ", "org":"University of Manitoba", "country":"Canada"}]
 
 18
 EVALUATION OF GROWTH PERFORMANCE AND PRODUCT QUALITY OF ARCTIC CHARR (FRASER STRAIN - SIXTH GENERATION) REARED IN A COMMERCIAL OPERATION
@@ -290,35 +243,22 @@ André Dumas (CZRI)
 COLLABORATORS:
 Pisciculture Acadienne (PA)
 
-19
-EVALUATION OF RATION REDUCTIONS ON THE GROWTH, FEED CONVERSION, AND SOMATIC INDICES OF RAINBOW TROUT
-JAN. 2013–OCT. 2013
-FUNDED BY:
-Martin Mills Inc.
-CO-FUNDED BY:
-Ontario Ministry of Agriculture, Food and Rural Affairs
-PROJECT LEAD:
-Richard Moccia (U Guelph)
-PROJECT TEAM:
-Mark Wagner (Martin Mills Inc.)
-COLLABORATORS:
-Alma Aquaculture Research Station (U Guelph)
+- title: "EVALUATION OF RATION REDUCTIONS ON THE GROWTH, FEED CONVERSION, AND SOMATIC INDICES OF RAINBOW TROUT"
+  period: "JAN. 2013–OCT. 2013"
+  funded_by: ["Martin Mills Inc."]
+  co-funded_by: ["Ontario Ministry of Agriculture, Food and Rural Affairs"]
+  project_lead: [{"name":"Richard Moccia", "org":"University of Guelph", "country":"Canada"}]
+  project_team: [{"name":"Mark Wagner", "org":"Martin Mills Inc.", "country":"Canada"}]
+  collaborators: [{"name":"Alma Aquaculture Research Station", "org":"University of Guelph", "country":"Canada"}]
 
-20
-AQUASTATS: ONTARIO AQUACULTURE STATISTICS PROGRAM
-JAN. 2013–MAR. 2013
-FUNDED BY:
-Ontario Ministry of Natural Resources
-CO-FUNDED BY:
-Ontario Ministry of Agriculture, Food and Rural Affairs
-PROJECT LEAD:
-Richard Moccia (U Guelph)
-PROJECT TEAM:
-David Bevan (U Guelph)
-COLLABORATORS:
-Sarah Desjardins
+- title: "ONTARIO AQUACULTURE STATISTICS PROGRAM"
+  period: "JAN. 2013–MAR. 2013"
+  funded_by: ["Ontario Ministry of Natural Resources"]
+  co-funded_by: ["Ontario Ministry of Agriculture, Food and Rural Affairs"]
+  project_lead: [{"name":"Richard Moccia", "org":"University of Guelph", "country":"Canada"}]
+  project_team: [{"name":"David Bevan", "org":"University of Guelph", "country":"Canada"}]
+  collaborators: [{"name":"Sarah Desjardins", "org":"", "country":"Canada"}] # missing organization
 
 
 
-CLEANING FOR ORGANIZATIONS ONLY
 
