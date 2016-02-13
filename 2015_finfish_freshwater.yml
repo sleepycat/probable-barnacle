@@ -1,4 +1,5 @@
 - title: ""
+  year: "2015"
   category: [""]
   species: [""]
   period: ""
@@ -10,6 +11,7 @@
   collaborators: [{"name":"", "org":"", "country":"Canada"}, {"name":"", "org":"", "country":"Canada"}, {"name":"", "org":"", "country":"Canada"}]
 
 - title: "EFFECT OF STRESS IN SEXUALLY MATURING FEMALE BROOK TROUT (SALVELINUS FONTINALIS) ON EMBRYONIC DEVELOPMENT AND GENE EXPRESSION RELATED TO GROWTH IN THE EARLY DEVELOPMENT STAGES"
+  year: "2015"
   category: ["Freshwater finfish"]
   species: ["Brook trout"]
   period: "SEP. 2013–AUG. 2015"
@@ -19,6 +21,7 @@
   project_team: [{"name":"Laurence Deneault-Tremblay", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski", "country":"Canada"},{"name":"Nadia Aubin-Horth", "org":"Université Laval", "country":"Canada"}]
 
 - title: "OPTIMIZATION OF CULTURED WALLEYE (SANDER VITREUS) EGG QUALITY"
+  year: "2015"
   category: ["Freshwater finfish"]
   species: ["Walleye"]
   period: "SEP. 2011–APR. 2013"
@@ -29,6 +32,7 @@
   collaborators: [{"name":"Ines Ben Khemis", "org":"National Institute of Marine Sciences and Technologies", "country":"Tunisia"},{"name":"Mari Moren", "org":"Nofima", "country":"Norway"}]
 
 - title: "REARING DEEPWATER CISCO (COREGONUS HOYI) IN CAPTIVITY FROM HATCH FOR RE-INTRODUCTION TO LAKE ONTARIO"
+  year: "2015"
   category: ["Freshwater finfish"]
   species: ["Cisco"]
   period: "FEB. 2012–NOV. 2015"
@@ -39,6 +43,7 @@
   collaborators: [{"org":"Fisheries and Oceans Canada", "country":"Canada"}, {"org":"Chippewa Ottawa Resource Authority","country":"Canada"},{"org":"Paragon Fish Corporation", "country":"Canada"}, {"org":"University of Guelph", "country":"Canada"}] # missing names of collaborators
 
 - title: "PHYSIOLOGICAL RESPONSES OF TWO CANADIAN STRAINS OF ARCTIC CHARR AT DIFFERENT LIFE STAGES TO DIETS FORMULATED WITH PLANT PROTEIN INGREDIENTS"
+  year: "2015"
   category: ["Freshwater finfish"]
   species: ["Arctic charr"]
   period: "MAY 2013–JUN. 2014"
@@ -49,6 +54,7 @@
   collaborators: [{"name":"Ken Overturf", "org":"University of Idaho", "country":"USA"}]
 
 - title: "GENETIC SELECTION PROGRAM TO ACHIEVE IMPROVED PERFORMANCE OF BROOK TROUT STOCK FOR AQUACULTURE IN QUEBEC"
+  year: "2015"
   category: ["Freshwater finfish"]
   species: ["Brook trout"]
   period: "JUL. 2011–JUL. 2014"
@@ -59,6 +65,7 @@
   collaborators: []
 
 - title: "DEVELOPMENT OF GENOMIC RESOURCES FOR ATLANTIC STURGEON USING NEXT-GENERATION SEQUENCING"
+  year: "2015"
   category: ["Freshwater finfish"]
   species: ["Atlantic sturgeon"]
   period: "AUG. 2014–JAN. 2015"
@@ -69,6 +76,7 @@
   collaborators: []
 
 - title: "ASSESSING THE BIOAVAILABILITY OF SYNTHETIC METHIONINE AND LYSINE FROM DIFFERENT SOURCES IN RAINBOW TROUT (ONCORHYNCHUS MYKISS)"
+  year: "2015"
   category: ["Freshwater finfish"]
   species: ["Rainbow trout"]
   period: "MAY 2012–AUG. 2014"
@@ -79,6 +87,7 @@
   collaborators: [{"name":"Andreas Lemme", "org":"", "country":""}] # missing organization
 
 - title: "DEVELOPMENT OF TECHNIQUES TO PROMOTE THE SURVIVAL AND GROWTH OF WALLEYE (SANDER VITREUS) LARVAE IN INTENSIVE CULTURE"
+  year: "2015"
   category: ["Freshwater finfish"]
   species: ["Walleye"]
   period: "MAY 2014–DEC. 2015"
@@ -202,6 +211,7 @@ COLLABORATORS:
 Industrial Action Plan of the Interprovincial Partnership for Sustainable Freshwater Aquaculture Development (IPSFAD)
 
 - title: "META-ANALYSIS OF FRESHWATER AQUACULTURE PROVINCIAL WATER QUALITY MONITORING DATA"
+  year: "2015"
   category: ["Freshwater finfish"]
   species: [""]
   period: "AUG. 2014–MAR. 2015"
@@ -236,6 +246,7 @@ Andre Dumas (CZRI)
 Tony Manning (RPC)
 
 - title: "ASSESSING ECOLOGICAL INTERACTIONS BETWEEN AQUACULTURE AND WILD STRAINS OF RAINBOW TROUT"
+  year: "2015"
   category: ["Freshwater finfish"]
   species: ["Rainbow trout"]
   period: "MAY 2010–MAR. 2013"
@@ -267,6 +278,7 @@ COLLABORATORS:
 Pisciculture Acadienne (PA)
 
 - title: "EVALUATION OF RATION REDUCTIONS ON THE GROWTH, FEED CONVERSION, AND SOMATIC INDICES OF RAINBOW TROUT"
+  year: "2015"
   category: ["Freshwater finfish"]
   species: ["Rainbow trout"]
   period: "JAN. 2013–OCT. 2013"
@@ -277,6 +289,7 @@ Pisciculture Acadienne (PA)
   collaborators: [{"name":"Alma Aquaculture Research Station", "org":"University of Guelph", "country":"Canada"}]
 
 - title: "ONTARIO AQUACULTURE STATISTICS PROGRAM"
+  year: "2015"
   category: ["Freshwater finfish"]
   species: [""]
   period: "JAN. 2013–MAR. 2013"
