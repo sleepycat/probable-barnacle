@@ -24,3 +24,13 @@
   project_team: [{"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"},{"name":"Dawn Runighan", "org":"AquaBounty Technologies", "country":"Canada"}, {"name": "John Buchanan", "org": "Center for Aquaculture Technologies", "country": "USA"}]
   collaborators: [{"name": "Santosh Lall", "org": "National Research Council", "country": "Canada"}, {"name": "Sean Tibbetts", "org": "National Research Council", "country": "Canada"}, {"name": "Cheryl Wall", "org": "National Research Council", "country": "Canada"}]
   contact: "rganga@aquatechcenter.com"
+
+- title: "THE EFFECT OF OPERCULAR DEFORMITY ON FISH WELFARE AND AEROBIC CAPACITY"
+  period: "JUL. 2014–DEC. 2014"
+  funded_by: ["Natural Sciences and Engineering Research Council Partnerships Program – Engage Grant"]
+  co-funded_by: []
+  project_lead: [{"name":"Tillmann Benfey", "org": "University of New Brunswick", "country":"Canada"}]
+  project_team: [{"name":"Krista Latimer", "org":"University of New Brunswick", "country":"Canada"},{"name":"Amber Garber", "org":"Huntsman Marine Science Centre", "country":"Canada"}, {"name":"Chris Bridger", "org":"Huntsman Marine Science Centre", "country":"Canada"}, {"name":"Anne McCarthy", "org":"Huntsman Marine Science Centre", "country":"Canada"}]
+  collaborators: [{"org":"Huntsman Marine Science Centre", "country":"Canada"}, {"org":"Northern Harvest Sea Farms Inc.", "country":"Canada"}]
+  contact: "benfey@unb.ca"
+
