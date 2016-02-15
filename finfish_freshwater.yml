@@ -72,8 +72,8 @@
   funded_by: ["Evonik Industries"]
   cofunded_by: ["Ontario Ministry of Agriculture Food and Rural Affairs"]
   project_lead: [{"name":"Christopher Powell", "org":"University of Guelph"}, {"name":"Dominique Bureau", "org":"University of Guelph"}]
-  project_team: [{"name":"Kabir Chowdhury", "org":""}] # missing organization
-  collaborators: [{"name":"Andreas Lemme", "org":""}] # missing organization
+  project_team: [{"name":"Kabir Chowdhury", "org":"undefined"}] # missing organization
+  collaborators: [{"name":"Andreas Lemme", "org":"undefined"}] # missing organization
 
 - title: "DEVELOPMENT OF TECHNIQUES TO PROMOTE THE SURVIVAL AND GROWTH OF WALLEYE (SANDER VITREUS) LARVAE IN INTENSIVE CULTURE"
   year: "2015"
@@ -216,4 +216,4 @@
   cofunded_by: ["Ontario Ministry of Agriculture, Food and Rural Affairs"]
   project_lead: [{"name":"Richard Moccia", "org":"University of Guelph"}]
   project_team: [{"name":"David Bevan", "org":"University of Guelph"}]
-  collaborators: [{"name":"Sarah Desjardins", "org":""}] # missing organization
+  collaborators: [{"name":"Sarah Desjardins", "org":"undefined"}] # missing organization
