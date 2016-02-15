@@ -2,8 +2,14 @@
 
 import yaml
 
-file = open("2015_finfish_salmon.yml", 'r')
+file = open("finfish_freshwater.yml", 'r')
 dataset = yaml.load(file)
 
 for project in dataset:
     print(project["title"])
+    for person in project["project_lead"]:
+        print(person["org"])
+    for person in project["project_team"]:
+        print(person["org"])
+    for person in project["collaborators"]:
+        print(person["org"])
