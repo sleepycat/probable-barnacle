@@ -1,14 +1,3 @@
-- title: ""
-  year: "2015"
-  category: ["Freshwater finfish"]
-  species: [""]
-  period: ""
-  funded_by: [""]
-  co-funded_by: ["", ""]
-  project_lead: [{"name":"", "org":""}]
-  project_team: [{"name":"", "org":""}, {"name":"", "org":""}, {"name":"", "org":""}]
-  collaborators: [{"name":"", "org":""}, {"name":"", "org":""}, {"name":"", "org":""}]
-
 - title: "EFFECT OF STRESS IN SEXUALLY MATURING FEMALE BROOK TROUT (SALVELINUS FONTINALIS) ON EMBRYONIC DEVELOPMENT AND GENE EXPRESSION RELATED TO GROWTH IN THE EARLY DEVELOPMENT STAGES"
   year: "2015"
   category: ["Freshwater finfish"]
