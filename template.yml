@@ -1,10 +1,10 @@
 - title: ""
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: [""]
   species: [""]
   period: ""
-  funded_by: [""]
-  co-funded_by: ["", ""]
+  funded_by: [{"org":"", "program":""}]
+  cofunded_by: [{"org":"", "program":""}]
   project_lead: [{"name":"", "org":""}]
   project_team: [{"name":"", "org":""}, {"name":"", "org":""}, {"name":"", "org":""}]
   collaborators: [{"name":"", "org":""}, {"name":"", "org":""}, {"name":"", "org":""}]
