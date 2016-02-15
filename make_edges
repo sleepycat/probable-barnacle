@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+
+import yaml
+
+file = open("2015_finfish_salmon.yml", 'r')
+dataset = yaml.load(file)
+
+for project in dataset:
+    print(project["title"])
