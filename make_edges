@@ -30,11 +30,18 @@ def clean_up():
     global csvfile
     csvfile.close()
 
+def extract_people(project):
+    return project["project_lead"] + project["project_team"] + project["collaborators"]
+
+def extract_organizations(people):
+    # we are removing duplicate org names
+    # by converting the list to a set
+    return set([person["org"] for person in people])
+
 for project in dataset:
-    project_all_people = project["project_lead"] + project["project_team"] + project["collaborators"]
-    project_all_org = set([person["org"] for person in
-        project_all_people])
-    edges = itertools.combinations(project_all_org, 2)
+    all_the_people = extract_people(project)
+    organizations = extract_organizations(all_the_people)
+    edges = itertools.combinations(organizations, 2)
     for edge in edges:
         edge_list = list(edge)
         edge_list.append(project["title"].title())
