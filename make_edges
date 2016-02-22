@@ -9,19 +9,35 @@ Options:
 
 from docopt import docopt
 import yaml
+import csv
+import itertools
 
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='0.1')
 
-file = open(arguments["<file>"], 'r')
+filename = arguments["<file>"]
+file = open(filename, 'r')
 dataset = yaml.load(file)
-for project in dataset:
-    print(project["title"])
-    for person in project["project_lead"]:
-        print(person["org"])
-    for person in project["project_team"]:
-        print(person["org"])
-    for person in project["collaborators"]:
-        print(person["org"])
 
-file.close()
+filename_without_extension = filename.split(".")[0]
+csvfile = open("{}_edges.csv".format(filename_without_extension), "w")
+csv_output = csv.writer(csvfile, delimiter = ",")
+csv_output.writerow(["ORGANIZATION_1", "ORGANIZATION_2","PROJECT_TITLE"])
+
+def clean_up():
+    global file
+    file.close()
+    global csvfile
+    csvfile.close()
+
+for project in dataset:
+    project_all_people = project["project_lead"] + project["project_team"] + project["collaborators"]
+    project_all_org = set([person["org"] for person in
+        project_all_people])
+    edges = itertools.combinations(project_all_org, 2)
+    for edge in edges:
+        edge_list = list(edge)
+        edge_list.append(project["title"].title())
+        csv_output.writerow(edge_list)
+
+clean_up()
