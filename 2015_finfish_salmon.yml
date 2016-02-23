@@ -1,7 +1,10 @@
 - title: "INNOVATION THROUGH COLLABORATION: RECOVERING AN ENDANGERED POPULATION OF ATLANTIC SALMON THROUGH PARTNERSHIP WITH ATLANTIC CANADA’S AQUACULTURE INDUSTRY"
   period: "MAR. 2014-MAR. 2019"
-  funded_by: ["National Conservation Plan funding"]
-  cofunded_by: [{"org": "Atlantic Canada Fish Farmers Association", "country":"Canada"}, {"org": "Cooke Aquaculture", "country": "Canada"}, {"org": "Fisheries and Oceans Canada", "country": "Canada"}, {"org": "Fort Folly First Nation", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "country": "Canada"}, {"org": "New Brunswick Department of Agriculture and Aquaculture", "country": "Canada"}]
+  year: "2015"
+  category: ["finfish"]
+  species: ["salmon"]
+  funded_by: [{"org": "National Conservation Plan funding", "program": "undefined"}]
+  cofunded_by: [{"org": "Atlantic Canada Fish Farmers Association", "program": "undefined", "country":"Canada"}, {"org": "Cooke Aquaculture", "program": "undefined", "country": "Canada"}, {"org": "Fisheries and Oceans Canada", "program": "undefined", "country": "Canada"}, {"org": "Fort Folly First Nation", "program": "undefined", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "program": "undefined",  "country": "Canada"}, {"org": "New Brunswick Department of Agriculture and Aquaculture", "program": "undefined",  "country": "Canada"}]
   project_lead: [{"name":"Corey Clarke", "org":"Parks Canada", "country":"Canada"}]
   project_team: [{"name":"Betty House", "org":"Atlantic Canada Fish Farmers Association", "country":"Canada"},{"name":"Tom Taylor", "org":"Cooke Aquaculture", "country":"Canada"}, {"name": "Chris Bridger", "org": "Huntsman Marine Science Centre", "country": "Canada"}, {"name": "Michael Beattie", "org": "NB – Agriculture and Aquaculture", "country": "Canada"}, {"name": "Tim Robinson", "org": "Fort Folly First Nations", "country": "Canada"}, {"name": "John Whitelaw", "org": "Fisheries and Oceans Canada"}]
   collaborators: [{"org": "Atlantic Canada Fish Farmers Association", "country":"Canada"}, {"org": "Cooke Aquaculture", "country": "Canada"}, {"org": "Fisheries and Oceans Canada", "country": "Canada"}, {"org": "Fort Folly First Nation", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "country": "Canada"}, {"org": "New Brunswick Department of Agriculture and Aquaculture", "country": "Canada"}]
@@ -9,8 +12,11 @@
 
 - title: "ATLANTIC SALMON SELECTION AND BROODSTOCK DEVELOPMENT PROGRAM FOR USE IN COMMERCIAL SALTWATER AQUACULTURE PRODUCTION ON THE EAST COAST OF CANADA"
   period: "OCT. 2010-SEP. 2015"
-  funded_by: ["Atlantic Canada Opportunities Agency – Atlantic Innovation Fund"]
-  cofunded_by: [{"org":"New Brunswick Innovation Foundation", "country": "Canada"}, {"org": "Northern Harvest Sea Farms", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "country": "Canada"}]
+  year: "2015"
+  category: ["finfish"]
+  species: ["salmon"]
+  funded_by: [{"org": "Atlantic Canada Opportunities Agency", "program": "Atlantic Innovation Fund"}]
+  cofunded_by: [{"org":"New Brunswick Innovation Foundation", "program": "undefined", "country": "Canada"}, {"org": "Northern Harvest Sea Farms", "program": "undefined", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "program": "undefined", "country": "Canada"}]
   project_lead: [{"name":"Amber Garber", "org": "Huntsman Marine Science Centre", "country":"Canada"}]
   project_team: [{"name":"Susan Hodkinson", "org":"Huntsman Marine Science Centre", "country":"Canada"},{"name":"Chris Bridger", "org":"Huntsman Marine Science Centre", "country":"Canada"}, {"name": "Jane Tosh", "org": "University of Guelph", "country": "Canada"}, {"name": "Aaron Craig", "org": "Northern Harvest Sea Farms", "country": "Canada"}, {"name": "Robin Muzzerall", "org": "Northern Harvest Sea Farms", "country": "Canada"}]
   collaborators: []
@@ -18,7 +24,10 @@
 
 - title: "EFFECTS OF FEEDING HIGH PLANT PROTEIN DIET ON GROWTH AND NUTRIENTS UTILIZATION OF GROWTHHORMONE TRANSGENIC DIPLOID AND TRIPLOID ATLANTIC SALMON (SALMO SALAR L.)"
   period: "MAY 2012–MAY 2013"
-  funded_by: ["Atlantic Canada Opportunities Agency – Atlantic Innovation Fund"]
+  year: "2015"
+  category: ["finfish"]
+  species: ["salmon"]
+  funded_by: [{"org": "Atlantic Canada Opportunities Agency", "program": "Atlantic Innovation Fund"}]
   cofunded_by: []
   project_lead: [{"name":"Rachid Ganga", "org": "Center for Aquaculture Technologies Canada", "country":"Canada"}]
   project_team: [{"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"},{"name":"Dawn Runighan", "org":"AquaBounty Technologies", "country":"Canada"}, {"name": "John Buchanan", "org": "Center for Aquaculture Technologies", "country": "USA"}]
@@ -27,7 +36,10 @@
 
 - title: "THE EFFECT OF OPERCULAR DEFORMITY ON FISH WELFARE AND AEROBIC CAPACITY"
   period: "JUL. 2014–DEC. 2014"
-  funded_by: ["Natural Sciences and Engineering Research Council Partnerships Program – Engage Grant"]
+  year: "2015"
+  category: ["finfish"]
+  species: ["salmon"]
+  funded_by: [{"org": "Natural Sciences and Engineering Research Council Partnerships Program", "program": "Engage Grant"}]
   cofunded_by: []
   project_lead: [{"name":"Tillmann Benfey", "org": "University of New Brunswick", "country":"Canada"}]
   project_team: [{"name":"Krista Latimer", "org":"University of New Brunswick", "country":"Canada"},{"name":"Amber Garber", "org":"Huntsman Marine Science Centre", "country":"Canada"}, {"name":"Chris Bridger", "org":"Huntsman Marine Science Centre", "country":"Canada"}, {"name":"Anne McCarthy", "org":"Huntsman Marine Science Centre", "country":"Canada"}]
@@ -36,8 +48,11 @@
 
 - title: "ANALYSIS OF THE INCIDENCE OF ATLANTIC SALMON DEFORMITIES IN PRODUCTION – ENVIRONMENTAL OR GENETICS?"
   period: "OCT. 2010 –SEP. 2015"
-  funded_by: ["Atlantic Canada Opportunities Agency – Atlantic Innovation Fund"]
-  cofunded_by: ["New Brunswick Innovation Foundation", "Northern Harvest Sea Farms", "Huntsman Marine Science Centre"]
+  year: "2015"
+  category: ["finfish"]
+  species: ["salmon"]
+  funded_by: [{"org": "Atlantic Canada Opportunities Agency", "program": "Atlantic Innovation Fund"}]
+  cofunded_by: [{"org":"New Brunswick Innovation Foundation", "program": "undefined", "country": "Canada"}, {"org": "Northern Harvest Sea Farms", "program": "undefined", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "program": "undefined", "country": "Canada"}]
   project_lead: [{"name":"Amber Garber", "org":"Huntsman Marine Science Centre", "country":"Canada"}]
   project_team: [{"name":"Susan Hodkinson", "org":"Huntsman Marine Science Centre", "country":"Canada"}, {"name":"Chris Bridger", "org":"Huntsman Marine Science Centre", "country":"Canada"},{"name": "Jane Tosh", "org": "University of Guelph", "country": "Canada"},{"name": "Aaron Craig", "org": "Northern Harvest Sea Farms", "country": "Canada"}, {"name": "Robin Muzzerall", "org": "Northern Harvest Sea Farms", "country": "Canada"}]
   collaborators: []
@@ -45,8 +60,11 @@
 
 - title: "REDUCTION OF AMMONIA AND SOLIDS FROM CHINOOK SALMON CULTURE FACILITIES"
   period: "APR. 2012–SEPT. 2015"
-  funded_by: ["Fisheries and Oceans Canada - Aquaculture Collaborative Research and Development Program"]
-  cofunded_by: ["Agrimarine Industries Inc."]
+  year: "2015"
+  category: ["finfish"]
+  species: ["salmon"]
+  funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
+  cofunded_by: [{"org": "Agrimarine Industries Inc.", "program": "undefined"}]
   project_lead: [{"name":"Ian Forster", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
   project_team: []
   collaborators: [{"org": "Agrimarine Industries Inc.", "country": "Canada"}]
@@ -54,8 +72,11 @@
 
 - title: "DETERMINATION OF THE POTENTIAL SPATIAL OVERLAP AND INTERACTION BETWEEN COMMERCIAL FISHERIES (AMERICAN LOBSTER, SNOW CRAB) AND FINFISH AQUACULTURE ACTIVITIES IN CONNAIGRE BAY, NEWFOUNDLAND"
   period: "APR. 2012–JUN. 2017"
-  funded_by: ["Fisheries and Oceans Canada - Aquaculture Collaborative Research and Development Program"]
-  cofunded_by: ["Fish, Food and Allied Workers", "Cold Ocean Salmon Inc."]
+  year: "2015"
+  category: ["finfish"]
+  species: ["salmon"]
+  funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
+  cofunded_by: [{"org": "Fish, Food and Allied Workers" "program": "undefined"}, {"org": "Cold Ocean Salmon Inc.", "program":"undefined"}]
   project_lead: [{"name":"Dounia Hamoutene", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Pierre Goulet", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
   project_team: []
   collaborators: [{"org": "Cold Ocean Salmon Inc", "country": "Canada"}, {"org": "Fish, Food and Allied Workers", "country": "Canada"}]
@@ -63,7 +84,10 @@
 
 - title: "DEVELOPMENT OF HIGH PERFORMANCE CHINOOK SALMON STOCKS FOR COMMERCIAL AQUACULTURE: GENETIC HYBRIDIZATION TO MAXIMIZE CULTURE EFFICIENCY AND MINIMIZE ENVIRONMENTAL IMPACT"
   period: "OCT. 2013 –OCT. 2016"
-  funded_by: ["Natural Sciences and Engineering Council of Canada"]
+  year: "2015"
+  category: ["finfish"]
+  species: ["salmon"]
+  funded_by: [{"org": "Natural Sciences and Engineering Council of Canada", "program":"undefined"}]
   cofunded_by: []
   project_lead: [{"name":"Daniel Heath", "org":"University of Windsor", "country":"Canada"}]
   project_team: [{"name":"Trevor Pitcher", "org":"University of Windsor", "country":"Canada"},{"name":"Christina Semeniuk", "org":"University of Windsor", "country":"Canada"}, {"name":"Oliver Love", "org":"University of Windsor", "country":"Canada"}, {"name":"Dennis Higgs", "org":"University of Windsor", "country":"Canada"}, {"name":"Bryan Neff", "org":"University of Western Ontario", "country":"Canada"}, {"name":"Brian Dixon", "org":"University of Waterloo", "country":"Canada"}]
