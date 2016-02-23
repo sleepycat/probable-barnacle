@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Usage: make_edges <file>
+Usage: make_edges_org <file>
 
 Options:
     -h, --help    Show usage info.
@@ -20,7 +20,7 @@ file = open(filename, 'r')
 dataset = yaml.load(file)
 
 filename_without_extension = filename.split(".")[0]
-csvfile = open("{}_edges.csv".format(filename_without_extension), "w")
+csvfile = open("{}_org_edges.csv".format(filename_without_extension), "w")
 csv_output = csv.writer(csvfile, delimiter = ",")
 csv_output.writerow(["ORGANIZATION_1", "ORGANIZATION_2","PROJECT_TITLE"])
 
