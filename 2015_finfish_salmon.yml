@@ -93,3 +93,15 @@
   project_team: [{"name":"Trevor Pitcher", "org":"University of Windsor", "country":"Canada"},{"name":"Christina Semeniuk", "org":"University of Windsor", "country":"Canada"}, {"name":"Oliver Love", "org":"University of Windsor", "country":"Canada"}, {"name":"Dennis Higgs", "org":"University of Windsor", "country":"Canada"}, {"name":"Bryan Neff", "org":"University of Western Ontario", "country":"Canada"}, {"name":"Brian Dixon", "org":"University of Waterloo", "country":"Canada"}]
   collaborators: [{"org": "Yellow Island Aquaculture Ltd.", "country": "Canada"}]
   contact: ["dheath@uwindsor.ca"]
+
+- title: "THERMAL AND pH TOLERANCE OF FARMED, WILD, AND FIRST GENERATION FARMED- WILD HYBRID SALMON"
+  period: "APR. 2014 –MAR. 2015"
+  year: "2015"
+  category: ["finfish"]
+  species: ["salmon"]
+  funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
+  cofunded_by: [{"org": "Northern Harvest Sea Farms NL Ltd." "program": "undefined"}, {"org": "Cold Ocean Salmon Inc.", "program":"undefined"}]
+  project_lead: [{"name":"Dounia Hamoutene", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  project_team: [{"name":"Lynn Lush", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Kimberely Burt", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Julia Bungay", "org":"Cold Ocean Salmon Inc.", "country":"Canada"}, {"name":"Jennifer Caines", "org":"Northern Harvest Sea Farms NL Ltd.", "country":"Canada"}]
+  collaborators: [{"org": "Cold Ocean Salmon Inc.", "country": "Canada"}, {"org": "Northern Harvest Sea Farms NL Ltd.", "country": "Canada"}]
+  contact: ["dounia.hamoutene@dfo-mpo.gc.ca"]
