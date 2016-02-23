@@ -1,0 +1,50 @@
+#!/usr/bin/env python
+
+"""
+Usage: make_edges_funding <file>
+
+Options:
+    -h, --help    Show usage info.
+"""
+
+from docopt import docopt
+import yaml
+import csv
+import itertools
+
+if __name__ == '__main__':
+    arguments = docopt(__doc__, version='0.1')
+
+filename = arguments["<file>"]
+file = open(filename, 'r')
+dataset = yaml.load(file)
+
+filename_without_extension = filename.split(".")[0]
+csvfile = open("{}_funding_edges.csv".format(filename_without_extension), "w")
+csv_output = csv.writer(csvfile, delimiter = ",")
+csv_output.writerow(["ORGANIZATION_1", "ORGANIZATION_2","PROJECT_TITLE"])
+
+def clean_up():
+    global file
+    file.close()
+    global csvfile
+    csvfile.close()
+
+def extract_funding_orgs(project):
+    return project["funded_by"] + project["cofunded_by"]
+
+def extract_organizations(orgs):
+    # we are removing duplicate org names
+    # by converting the list to a set
+    return set([org["org"] for org in orgs])
+
+for project in dataset:
+    all_the_funding_orgs = extract_funding_orgs(project)
+    organizations = extract_organizations(all_the_funding_orgs)
+    edges = itertools.combinations(organizations, 2)
+    for edge in edges:
+        edge_list = list(edge)
+        edge_list.append(project["title"].title())
+        csv_output.writerow(edge_list)
+
+clean_up()
