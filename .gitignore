@@ -5,3 +5,4 @@ PDFs/
 .ropeproject
 *_edges.csv
 *.png
+*.RData
