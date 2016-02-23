@@ -1,0 +1,50 @@
+#!/usr/bin/env python
+
+"""
+Usage: make_edges_people <file>
+
+Options:
+    -h, --help    Show usage info.
+"""
+
+from docopt import docopt
+import yaml
+import csv
+import itertools
+
+if __name__ == '__main__':
+    arguments = docopt(__doc__, version='0.1')
+
+filename = arguments["<file>"]
+file = open(filename, 'r')
+dataset = yaml.load(file)
+
+filename_without_extension = filename.split(".")[0]
+csvfile = open("{}_people_edges.csv".format(filename_without_extension), "w")
+csv_output = csv.writer(csvfile, delimiter = ",")
+csv_output.writerow(["PERSON_1", "PERSON_2","PROJECT_TITLE"])
+
+def clean_up():
+    global file
+    file.close()
+    global csvfile
+    csvfile.close()
+
+def extract_people(project):
+    return project["project_lead"] + project["project_team"] + project["collaborators"]
+
+def extract_names(people):
+    # we are removing duplicate org names
+    # by converting the list to a set
+    return set([person["name"] for person in people])
+
+for project in dataset:
+    all_the_people = extract_people(project)
+    names = extract_names(all_the_people)
+    edges = itertools.combinations(names, 2)
+    for edge in edges:
+        edge_list = list(edge)
+        edge_list.append(project["title"].title())
+        csv_output.writerow(edge_list)
+
+clean_up()
