@@ -60,3 +60,12 @@
   project_team: []
   collaborators: [{"org": "Cold Ocean Salmon Inc", "country": "Canada"}, {"org": "Fish, Food and Allied Workers", "country": "Canada"}]
   contact: ["Dounia.Hamoutene@dfo-mpo.gc.ca", "Pierre.Goulet@dfo-mpo.gc.ca"]
+
+- title: "DEVELOPMENT OF HIGH PERFORMANCE CHINOOK SALMON STOCKS FOR COMMERCIAL AQUACULTURE: GENETIC HYBRIDIZATION TO MAXIMIZE CULTURE EFFICIENCY AND MINIMIZE ENVIRONMENTAL IMPACT"
+  period: "OCT. 2013 –OCT. 2016"
+  funded_by: ["Natural Sciences and Engineering Council of Canada"]
+  cofunded_by: []
+  project_lead: [{"name":"Daniel Heath", "org":"University of Windsor", "country":"Canada"}]
+  project_team: [{"name":"Trevor Pitcher", "org":"University of Windsor", "country":"Canada"},{"name":"Christina Semeniuk", "org":"University of Windsor", "country":"Canada"}, {"name":"Oliver Love", "org":"University of Windsor", "country":"Canada"}, {"name":"Dennis Higgs", "org":"University of Windsor", "country":"Canada"}, {"name":"Bryan Neff", "org":"University of Western Ontario", "country":"Canada"}, {"name":"Brian Dixon", "org":"University of Waterloo", "country":"Canada"}]
+  collaborators: [{"org": "Yellow Island Aquaculture Ltd.", "country": "Canada"}]
+  contact: ["dheath@uwindsor.ca"]
