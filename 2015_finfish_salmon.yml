@@ -79,7 +79,7 @@
   cofunded_by: [{"org": "Fish, Food and Allied Workers", "program": "undefined"}, {"org": "Cold Ocean Salmon Inc.", "program":"undefined"}]
   project_lead: [{"name":"Dounia Hamoutene", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Pierre Goulet", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
   project_team: []
-  collaborators: [{"org": "Cold Ocean Salmon Inc", "country": "Canada"}, {"org": "Fish, Food and Allied Workers", "country": "Canada"}]
+  collaborators: [{"org": "Cold Ocean Salmon Inc.", "country": "Canada"}, {"org": "Fish, Food and Allied Workers", "country": "Canada"}]
   contact: ["Dounia.Hamoutene@dfo-mpo.gc.ca", "Pierre.Goulet@dfo-mpo.gc.ca"]
 
 - title: "DEVELOPMENT OF HIGH PERFORMANCE CHINOOK SALMON STOCKS FOR COMMERCIAL AQUACULTURE: GENETIC HYBRIDIZATION TO MAXIMIZE CULTURE EFFICIENCY AND MINIMIZE ENVIRONMENTAL IMPACT"
