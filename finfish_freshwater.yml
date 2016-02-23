@@ -3,8 +3,8 @@
   category: ["Freshwater finfish"]
   species: ["Brook trout"]
   period: "SEP. 2013–AUG. 2015"
-  funded_by: ["Fonds de recherche du Québec Nature et Technologies", "Team grants program"]
-  cofunded_by: ["Ressources Aquatiques Québec"]
+  funded_by: [{"org":"Fonds de recherche du Québec Nature et Technologies", "program":"Team grants program"}]
+  cofunded_by: [{"org":"Ressources Aquatiques Québec", "program":"undefined"}]
   project_lead: [{"name":"Céline Audet", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski"}]
   project_team: [{"name":"Laurence Deneault-Tremblay", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski"},{"name":"Nadia Aubin-Horth", "org":"Université Laval"}]
   collaborators: []
@@ -14,8 +14,8 @@
   category: ["Freshwater finfish"]
   species: ["Walleye"]
   period: "SEP. 2011–APR. 2013"
-  funded_by: ["Société de Recherche et de Développement en Aquaculture Continentale Inc.", "Ressources Aquatiques Québec"]
-  cofunded_by: ["Fonds de Recherche Nature et Technologies", "BMP Innovation scholarship"]
+  funded_by: [{"org":"Société de Recherche et de Développement en Aquaculture Continentale Inc.", "program":"undefined"}, {"org":"Ressources Aquatiques Québec", "program":"undefined"}]
+  cofunded_by: [{"org":"Fonds de Recherche Nature et Technologies", "program":"undefined"}, {"org":"BMP Innovation scholarship", "program":"undefined"}]
   project_lead: [{"name":"Réjean Tremblay", "org":"Université du Québec à Rimouski"}]
   project_team: [{"name":"Céline Audet", "org":"Université du Québec à Rimouski"}, {"name":"Grant Vandenberg", "org":"Université Laval"},{"name":"Marco Blanchet", "org":"Station piscicole Trois-Lacs"}]
   collaborators: [{"name":"Ines Ben Khemis", "org":"National Institute of Marine Sciences and Technologies"},{"name":"Mari Moren", "org":"Nofima"}]
@@ -25,19 +25,19 @@
   category: ["Freshwater finfish"]
   species: ["Cisco"]
   period: "FEB. 2012–NOV. 2015"
-  funded_by: ["Ontario Ministry of Natural Resources"]
-  cofunded_by: ["US Fish and Wildlife Service", "Great Lakes Restoration Initiative"]
+  funded_by: [{"org":"Ontario Ministry of Natural Resources", "program":"undefined"}]
+  cofunded_by: [{"org":"US Fish and Wildlife Service", "program":"Great Lakes Restoration Initiative"}]
   project_lead: [{"name":"Tim Drew", "org":"Ontario Ministry of Natural Resources and Forestry"}]
   project_team: [{"name":"Laura Metcalf", "org":"University of Guelph"}, {"name":"Dominique Bureau", "org":"University of Guelph"}, {"name":"Jim Brumpton", "org":"Ontario Ministry of Natural Resources and Forestry"}]
-  collaborators: [{"org":"Fisheries and Oceans Canada"}, {"org":"Chippewa Ottawa Resource Authority"},{"org":"Paragon Fish Corporation"}, {"org":"University of Guelph"}] # missing names of collaborators
+  collaborators: [{"name":"undefined", "org":"Fisheries and Oceans Canada"}, {"name":"undefined", "org":"Chippewa Ottawa Resource Authority"},{"name":"undefined","org":"Paragon Fish Corporation"}, {"name":"undefined","org":"University of Guelph"}] # missing names of collaborators
 
 - title: "PHYSIOLOGICAL RESPONSES OF TWO CANADIAN STRAINS OF ARCTIC CHARR AT DIFFERENT LIFE STAGES TO DIETS FORMULATED WITH PLANT PROTEIN INGREDIENTS"
   year: "2015"
   category: ["Freshwater finfish"]
   species: ["Arctic charr"]
   period: "MAY 2013–JUN. 2014"
-  funded_by: ["Atlantic Canada Opportunities Agency - Atlantic Innovation Fund"]
-  cofunded_by: ["Manitoba Association of Agricultural Societies Inc.", "Agri-Food Research & Development Initiative"]
+  funded_by: [{"org":"Atlantic Canada Opportunities Agency", "program":"Atlantic Innovation Fund"}]
+  cofunded_by: [{"org":"Manitoba Association of Agricultural Societies Inc.", "program":"Agri-Food Research & Development Initiative"}]
   project_lead: [{"name":"André Dumas", "org":"Coastal Zones Research Institute"}]
   project_team: [{"name":"Amanda Smith", "org":"University of Guelph"}, {"name":"Dominique Bureau", "org":"University of Guelph"}, {"name":"Luc Desjardins", "org":"New Brunswick Community College"},{"name":"Pascale Comeau", "org":"Coastal Zones Research Institute"},{"name":"Caroline Roussel", "org":"Coastal Zones Research Institute"}]
   collaborators: [{"name":"Ken Overturf", "org":"University of Idaho"}]
@@ -47,8 +47,8 @@
   category: ["Freshwater finfish"]
   species: ["Brook trout"]
   period: "JUL. 2011–JUL. 2014"
-  funded_by: ["org":"Ministère de l’Agriculture, des Pêcheries et de l’Alimentation du Québec"]
-  cofunded_by: ["Société de développement de l’industrie maricole Inc.", "Société de recherche et de développement en aquaculture continentale Inc.", "Ministère du Développement économique, de l’Innovation et de l’Exportation", "Ministère des Affaires municipales, des Régions et de l’Occupation du territoire", "Ressources Aquatiques Québec"]
+  funded_by: [{"org":"Ministère de l’Agriculture, des Pêcheries et de l’Alimentation du Québec", "program":"undefined"}]
+  cofunded_by: [{"org":"Société de développement de l’industrie maricole Inc.", "program":"undefined"}, {"org":"Société de recherche et de développement en aquaculture continentale Inc.", "program":"undefined"}, {"org":"Ministère du Développement économique, de l’Innovation et de l’Exportation", "program":"undefined"}, {"org":"Ministère des Affaires municipales, des Régions et de l’Occupation du territoire", "program":"undefined"}, {"org":"Ressources Aquatiques Québec", "program":"undefined"}]
   project_lead: [{"name":"Luc Picard", "org":"Centre de transfert et de sélection des salmonidés"}]
   project_team: [{"name":"François Lavigne", "org":"Centre de transfert et de sélection des salmonidés"}, {"name":"Louis Bernatchez", "org":"Université Laval"}, {"name":"Dany Proteau", "org":"Pisciculture Lac St-François"},  {"name":"Michel Fournier", "org":"Pisciculture des Appalaches"},  {"name":"Karl Nolin", "org":"Pisciculture Mont-Tremblant"}]
   collaborators: []
@@ -58,7 +58,7 @@
   category: ["Freshwater finfish"]
   species: ["Atlantic sturgeon"]
   period: "AUG. 2014–JAN. 2015"
-  funded_by: ["Natural Sciences and Engineering Research Council"]
+  funded_by: [{"org":"Natural Sciences and Engineering Research Council", "program":"undefined"}]
   cofunded_by: []
   project_lead: [{"name":"Mark Fast", "org":"University of Prince Edward Island"}]
   project_team: [{"name":"Tiago Hori", "org":"Center for Aquaculture Technologies Canada"}, {"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada"}, {"name":"John Buchanan", "org":"Center for Aquaculture Technologies"}]
@@ -69,8 +69,8 @@
   category: ["Freshwater finfish"]
   species: ["Rainbow trout"]
   period: "MAY 2012–AUG. 2014"
-  funded_by: ["Evonik Industries"]
-  cofunded_by: ["Ontario Ministry of Agriculture Food and Rural Affairs"]
+  funded_by: [{"org":"Evonik Industries", "program":"undefined"}]
+  cofunded_by: [{"org":"Ontario Ministry of Agriculture Food and Rural Affairs", "program":"undefined"}]
   project_lead: [{"name":"Christopher Powell", "org":"University of Guelph"}, {"name":"Dominique Bureau", "org":"University of Guelph"}]
   project_team: [{"name":"Kabir Chowdhury", "org":"undefined"}] # missing organization
   collaborators: [{"name":"Andreas Lemme", "org":"undefined"}] # missing organization
@@ -80,7 +80,7 @@
   category: ["Freshwater finfish"]
   species: ["Walleye"]
   period: "MAY 2014–DEC. 2015"
-  funded_by: ["org":"Ministère de l’agriculture, des pêcheries et de l’alimentation du Québec", "program":"INNOVAMER"]
+  funded_by: [{"org":"Ministère de l’agriculture, des pêcheries et de l’alimentation du Québec", "program":"INNOVAMER"}]
   cofunded_by: ["", ""]
   project_lead: [{"name":"Grant Vandenberg", "org":"Université Laval"}]
   project_team: [{"name":"Émilie Proulx", "org":"Université Laval"}, {"name":"Benjamin Laramée", "org":"Université Laval"}]
@@ -102,8 +102,8 @@
   category: ["Freshwater finfish"]
   species: ["Rainbow trout"]
   period: "SEP. 2010–AUG. 2014"
-  funded_by: ["Ministère du développement économique, de l’innovation et de l’exportation", "Programme de soutien à des initiatives internationales de recherche et d’innovation"]
-  cofunded_by: [{"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}, {"org":"Ministère de l'agriculture, pêcheries et alimentation du Québec", "program":"Programme de recherche et de développement en aquaculture continentale"},{"org":"Réseau Aquaculture Québec"},{"org":"Natural Sciences and Engineering Research Council of Canada", "program":"CREATE Program"}, {"org":"Université Laval", "program":"Programme de bourse du bureau international"}]
+  funded_by: [{"org":"Ministère du développement économique, de l’innovation et de l’exportation", "program":"Programme de soutien à des initiatives internationales de recherche et d’innovation"}]
+  cofunded_by: [{"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}, {"org":"Ministère de l'agriculture, pêcheries et alimentation du Québec", "program":"Programme de recherche et de développement en aquaculture continentale"},{"org":"Réseau Aquaculture Québec", "program":"undefined"},{"org":"Natural Sciences and Engineering Research Council of Canada", "program":"CREATE Program"}, {"org":"Université Laval", "program":"Programme de bourse du bureau international"}]
   project_lead: [{"name":"Grant Vandenberg", "org":"Université Laval"}]
   project_team: [{"name":"Marie-Hélène Deschamps", "org":"Université Laval"}, {"name":"Jérémy Le Luyer", "org":"Université Laval"}, {"name":"Noémie Poirier Stewart", "org":"Université Laval"}, {"name":"Émilie Proulx", "org":"Université Laval"}]
   collaborators: [{"name":"Nadia Aubin-Horth", "org":"Université Laval"}, {"name":"Claude Robert", "org":"Université Laval"}, {"name":"Arnaud Droit", "org":"Université Laval"}, {"name":"Dominique Bureau", "org":"University of Guelph"}, {"name":"Ann Huysseune", "org":"Universiteit Gent"}, {"name":"Eckhard Witten", "org":"Universiteit Gent"}, {"name":"Jean-Yves Sire", "org":"Université Pierre et Marie Curie"}, {"name":"Chantal Cah", "org":"Institut français de recherche pour l'exploitation de la mer"}, {"name":"Dominique Mazurais", "org":"Institut français de recherche pour l'exploitation de la mer"}, {"name":"Kenneth Overturf", "org":"University of Idaho"}, {"name":"Ron Hardy", "org":"University of Idaho"}, {"name":"Tom Hansen", "org":"Havforskningsinstituttet"}, {"name":"Anna Wargelius", "org":"Havforskningsinstituttet"}, {"name":"P.E. Fjelldal", "org":"Havforskningsinstituttet"}]
@@ -113,19 +113,19 @@
   category: ["Freshwater finfish"]
   species: [""]
   period: "APR. 2008 –MAR. 2015"
-  funded_by: [{"org":"Fisheries and Oceans Canada","org":"Aquaculture Collaborative Research and Development Program"}]
-  cofunded_by: ["Wild West Steelhead"]
+  funded_by: [{"org":"Fisheries and Oceans Canada","program":"Aquaculture Collaborative Research and Development Program"}]
+  cofunded_by: [{"org":"Wild West Steelhead", "program":"undefined"}]
   project_lead: [{"name":"Cheryl Podemski", "org":"Fisheries and Oceans Canada"}]
   project_team: []
-  collaborators: [{"name":"", "org":"Wild West Steelhead"}] # missing name of collaborator
+  collaborators: [{"name":"undefined", "org":"Wild West Steelhead"}] # missing name of collaborator
 
 - title: "TOWARD EARLY DETECTION OF VERTEBRAL ANOMALIES LINKED TO PHOSPHORUS DEFICIENCY IN FARMED RAINBOW TROUT THROUGH MORPHOMETRIC MEASUREMENTS TAKEN FROM X-RAYS"
   year: "2015"
   category: ["Freshwater finfish"]
   species: ["Rainbow trout"]
   period: "SEP. 2010–AUG. 2014"
-  funded_by: [{"org":"Ministère du développement économique, de l’innovation et de l’exportation"},{"program":"Programme de soutien à des initiatives internationales de recherche et d’innovation"}]
-  cofunded_by: [{"org":"Fisheries and Oceans Canada","program":"Aquaculture Collaborative Research and Development Program"}, {"program":"Programme de recherche et de développement en aquaculture continentale"}, {"org":"Réseau Aquaculture Québec"},{"org":"Natural Sciences and Engineering Research Council of Canada", "program":"CREATE Program"}, {"org":"Université Laval", "program":"Programme de bourse du bureau international"}]
+  funded_by: [{"org":"Ministère du développement économique, de l’innovation et de l’exportation", "program":"Programme de soutien à des initiatives internationales de recherche et d’innovation"}]
+  cofunded_by: [{"org":"Fisheries and Oceans Canada","program":"Aquaculture Collaborative Research and Development Program"}, {"org":"Minsitère de l'agriculture, des pêcheries et de l'alimentation du Québec", "program":"Programme de recherche et de développement en aquaculture continentale"}, {"org":"Réseau Aquaculture Québec", "program":"undefined"},{"org":"Natural Sciences and Engineering Research Council of Canada", "program":"CREATE Program"}, {"org":"Université Laval", "program":"Programme de bourse du bureau international"}]
   project_lead: [{"name":"Grant Vandenberg", "org":"Université Laval"}]
   project_team: [{"name":"Marie-Hélène Deschamps", "org":"Université Laval"}, {"name":"Jérémy Le Luyer", "org":"Université Laval"}, {"name":"Noémie Poirier Stewart", "org":"Université Laval"}, {"name":"Émilie Proulx", "org":"Université Laval"}]
   collaborators: [{"name":"Nadia Aubin-Horth", "org":"Université Laval"}, {"name":"Claude Robert", "org":"Université Laval"}, {"name":"Arnaud Droit", "org":"Université Laval"}, {"name":"Dominique Bureau", "org":"University of Guelph"}, {"name":"Ann Huysseune", "org":"Universiteit Gent"}, {"name":"Eckhard Witten", "org":"Universiteit Gent"}, {"name":"Jean-Yves Sire", "org":"Université Pierre et Marie Curie"}, {"name":"Chantal Cahu", "org":"Institut français de recherche pour l'exploitation de la mer"}, {"name":"Dominique Mazurais", "org":"Institut français de recherche pour l'exploitation de la mer"}, {"name":"Kenneth Overturf", "org":"University of Idaho"}, {"name":"Ron Hardy", "org":"University of Idaho"}, {"name":"Tom Hansen", "org":"Havforskningsinstituttet"}, {"name":"Anna Wargelius", "org":"Havforskningsinstituttet"}, {"name":"P.E. Fjelldal", "org":"Havforskningsinstituttet"}]
@@ -136,7 +136,7 @@
   species: [""]
   period: "APR. 2009–MAR. 2013"
   funded_by: [{"org":"Fisheries and Oceans Canada","program":"Aquaculture Collaborative Research and Development Program"}]
-  cofunded_by: ["Industrial Action Plan of the Interprovincial Partnership for Sustainable Freshwater Aquaculture Development"]
+  cofunded_by: [{"org":"Interprovincial Partnership for Sustainable Freshwater Aquaculture Development", "program":"Industrial Action Plan"}]
   project_lead: [{"name":"Grant Vandenberg", "org":"Université Laval"}]
   project_team: [{"name":"Éric Boucher", "org":"Université Laval"}, {"name":"Annie Dubé", "org":"Université Laval"}, {"name":"Émilie Proulx", "org":"Université Laval"}]
   collaborators: [{"org":"Industrial Action Plan of the Interprovincial Partnership for Sustainable Freshwater Aquaculture Development"}]
@@ -146,7 +146,7 @@
   category: ["Freshwater finfish"]
   species: [""]
   period: "AUG. 2014–MAR. 2015"
-  funded_by: ["org":"Fisheries and Oceans Canada", "program":"Program for Aquaculture Regulatory Research"]
+  funded_by: [{"org":"Fisheries and Oceans Canada", "program":"Program for Aquaculture Regulatory Research"}]
   cofunded_by: []
   project_lead: [{"name":"Cheryl Podemski", "org":"Fisheries and Oceans Canada"}]
   project_team: []
@@ -157,7 +157,7 @@
   category: ["Freshwater finfish"]
   species: ["Rainbow trout"]
   period: "MAY 2014–JAN. 2015"
-  funded_by: ["Jefo Nutrition Inc."]
+  funded_by: [{"org":"Jefo Nutrition Inc.", "program":"undefined"}]
   cofunded_by: []
   project_lead: [{"name":"Dominique Bureau", "org":"University of Guelph"}]
   project_team: [{"name":"Xinwen Yi", "org":"University of Guelph"}, {"name":"Patricio Saez", "org":"University of Guelph"}]
@@ -168,7 +168,7 @@
   category: ["Freshwater finfish"]
   species: [""]
   period: "SEP. 2013–ONGOING"
-  funded_by: ["Atlantic Innovation Fund"]
+  funded_by: [{"org":"Atlantic Canada Opportunity Agency", "program":"Atlantic Innovation Fund"}]
   cofunded_by: ["", ""]
   project_lead: [{"name":"Jim Duston", "org":"Dalhousie University"}]
   project_team: [{"name":"Qi Liu", "org":"Dalhousie University"}]
@@ -179,7 +179,7 @@
   category: ["Freshwater finfish"]
   species: ["Rainbow trout"]
   period: "MAY 2010–MAR. 2013"
-  funded_by: ["Fisheries and Oceans Canada Centre for Aquatic Biotechnology Regulatory Research"]
+  funded_by: [{"org":"Fisheries and Oceans Canada", "program":"Centre for Aquatic Biotechnology Regulatory Research"}]
   cofunded_by: ["", ""]
   project_lead: [{"name":"Paul Blanchfield", "org":"Fisheries and Oceans Canada"}]
   project_team: [{"name":"Robert Devlin", "org":"Fisheries and Oceans Canada"}, {"name":"Alex Wall", "org":"Fisheries and Oceans Canada"}]
@@ -190,8 +190,8 @@
   category: ["Freshwater finfish"]
   species: ["Arctic charr"]
   period: "JUL. 2014–DEC. 2015"
-  funded_by: ["Department of Agriculture, Aquaculture and Fisheries of New Brunswick"]
-  cofunded_by: [{"org":"National Research Council Canada", "program":"Industrial Research Assistance Program"}, {"org":"Pisciculture Acadienne"},{"org":"Coastal Zones Research Institute"}]
+  funded_by: [{"org":"Department of Agriculture, Aquaculture and Fisheries of New Brunswick", "program":"undefined"}]
+  cofunded_by: [{"org":"National Research Council Canada", "program":"Industrial Research Assistance Program"}, {"org":"Pisciculture Acadienne", "program":"undefined"},{"org":"Coastal Zones Research Institute", "program":"undefined"}]
   project_lead: [{"name":"Claude Pelletier", "org":"Coastal Zones Research Institute"}]
   project_team: [{"name":"Luc Desjardins", "org":"New Brunswick Community College"}, {"name":"Michel Desjardins", "org":"New Brunswick Department of Agriculture, Aquaculture and Fisheries"}, {"name":"Emmanuel Chiasson", "org":"Pisciculture Acadienne"}, {"name":"André Vienneau", "org":"Pisciculture Acadienne"}, {"name":"Robert Mallet", "org":"Pisciculture Acadienne"}, {"name":"André Dumas", "org":"Coastal Zones Research Institute"}]
   collaborators: [{"name":"", "org":"Pisciculture Acadienne"}]
@@ -201,8 +201,8 @@
   category: ["Freshwater finfish"]
   species: ["Rainbow trout"]
   period: "JAN. 2013–OCT. 2013"
-  funded_by: ["Martin Mills Inc."]
-  cofunded_by: ["Ontario Ministry of Agriculture, Food and Rural Affairs"]
+  funded_by: [{"org":"Martin Mills Inc.", "program":"undefined"}]
+  cofunded_by: [{"org":"Ontario Ministry of Agriculture, Food and Rural Affairs", "program":"undefined"}]
   project_lead: [{"name":"Richard Moccia", "org":"University of Guelph"}]
   project_team: [{"name":"Mark Wagner", "org":"Martin Mills Inc."}]
   collaborators: [{"name":"Alma Aquaculture Research Station", "org":"University of Guelph"}]
@@ -212,8 +212,8 @@
   category: ["Freshwater finfish"]
   species: [""]
   period: "JAN. 2013–MAR. 2013"
-  funded_by: ["Ontario Ministry of Natural Resources"]
-  cofunded_by: ["Ontario Ministry of Agriculture, Food and Rural Affairs"]
+  funded_by: [{"org":"Ontario Ministry of Natural Resources", "program":"undefined"}]
+  cofunded_by: [{"org":"Ontario Ministry of Agriculture, Food and Rural Affairs", "program":"undefined"}]
   project_lead: [{"name":"Richard Moccia", "org":"University of Guelph"}]
   project_team: [{"name":"David Bevan", "org":"University of Guelph"}]
   collaborators: [{"name":"Sarah Desjardins", "org":"undefined"}] # missing organization
