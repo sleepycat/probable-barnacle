@@ -105,3 +105,39 @@
   project_team: [{"name":"Lynn Lush", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Kimberely Burt", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Julia Bungay", "org":"Cold Ocean Salmon Inc.", "country":"Canada"}, {"name":"Jennifer Caines", "org":"Northern Harvest Sea Farms NL Ltd.", "country":"Canada"}]
   collaborators: [{"org": "Cold Ocean Salmon Inc.", "country": "Canada"}, {"org": "Northern Harvest Sea Farms NL Ltd.", "country": "Canada"}]
   contact: ["dounia.hamoutene@dfo-mpo.gc.ca"]
+
+- title: "DETECTING HYBRIDIZATION AMONG WILD AND FARMED ESCAPED ATLANTIC SALMON IN SOUTHERN NEWFOUNDLAND: FIELD COLLECTIONS"
+  period: "AUG. 2014 –SEP. 2014"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}]
+  cofunded_by: []
+  project_lead: [{"name":"Ian Bradbury", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  project_team: [{"name":"Lorraine Hamilton", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Geoff Perry", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Martha Roberston", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  collaborators: []
+  contact: ["ian.bradbury@dfo-mpo.gc.ca"]
+
+- title: "INVESTIGATION OF FARM-ORIGIN ESCAPED ATLANTIC SALMON IN NEWFOUNDLAND"
+  period: "OCT. 2013 –ONGOING"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "Fisheries and Oceans Canada", "program": "undefined"}]
+  cofunded_by: []
+  project_lead: [{"name":"Chris Hendry", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  project_team: [{"name":"Geoff Perry", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Ellen Careen", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Carole Grant", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Ian Bradbury", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  collaborators: []
+  contact: ["chris.hendry@dfo-mpo.gc.ca"]
+
+- title: "DEVELOPMENT OF A LOW DENSITY SNP ARRAY FOR PARENTAGE ASSIGNMENT IN ATLANTIC SALMON"
+  period: "OCT. 2013 –FEB. 2014"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "PEI Aquaculture and Fisheries Research Initiative Inc.", "program": "undefined"}]
+  cofunded_by: [{"org": "Natural Sciences and Engineering Research Council", "program": "undefined"}, {"org": "Natural Sciences and Engineering Research Council", "program": "Industrial Post-Doctoral Award"}]
+  project_lead: [{"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"}]
+  project_team: [{"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"},{"name":"Marcia Chiasson", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"}, {"name": "America Fujimoto", "org": "Center for Aquaculture Technologies", "country": "USA"}, {"name": "Jason Stannard", "org": "Center for Aquaculture Technologies", "country": "USA" }, {"name": "John Buchanan", "org": "Center for Aquaculture Technologies", "country": "USA"}]
+  collaborators: []
+  contact: ["dplouffe@aquatechcenter.com"]
