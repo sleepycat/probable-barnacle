@@ -3,22 +3,13 @@
   category: [""]
   species: [""]
   period: ""
-  funded_by: [{"org":"", "program":""}]
-  cofunded_by: [{"org":"", "program":""}]
-  project_lead: [{"name":"", "org":""}]
-  project_team: [{"name":"", "org":""}, {"name":"", "org":""}, {"name":"", "org":""}]
-  collaborators: [{"name":"", "org":""}, {"name":"", "org":""}, {"name":"", "org":""}]
-
-
-- title: ""
-  year: "2015"
-  category: [""]
-  species: [""]
-  period: ""
   funded_by: [
     {"org":"", "program":""}
   ]
   cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
     {"org":"", "program":""}
   ]
   project_lead: [
@@ -34,3 +25,14 @@
     {"name":"", "org":""},
     {"name":"", "org":""}
   ]
+
+- title: ""
+  year: "2015"
+  category: [""]
+  species: [""]
+  period: ""
+  funded_by: [{"org":"", "program":""}]
+  cofunded_by: [{"org":"", "program":""}]
+  project_lead: [{"name":"", "org":""}]
+  project_team: [{"name":"", "org":""}, {"name":"", "org":""}, {"name":"", "org":""}]
+  collaborators: [{"name":"", "org":""}, {"name":"", "org":""}, {"name":"", "org":""}]
