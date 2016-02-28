@@ -22,7 +22,7 @@ dataset = yaml.load(file)
 filename_without_extension = filename.split(".")[0]
 csvfile = open("{}_org_edges.csv".format(filename_without_extension), "w")
 csv_output = csv.writer(csvfile, delimiter = ",")
-csv_output.writerow(["ORGANIZATION_1", "ORGANIZATION_2","PROJECT_TITLE"])
+csv_output.writerow(["SOURCE", "TARGET","PROJECT_TITLE"])
 
 def clean_up():
     global file
