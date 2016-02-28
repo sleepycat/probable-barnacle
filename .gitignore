@@ -6,3 +6,4 @@ PDFs/
 *_edges.csv
 *.png
 *.RData
+gephi_files/*
