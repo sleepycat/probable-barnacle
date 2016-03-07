@@ -141,3 +141,16 @@
   project_team: [{"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"},{"name":"Marcia Chiasson", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"}, {"name": "America Fujimoto", "org": "Center for Aquaculture Technologies", "country": "USA"}, {"name": "Jason Stannard", "org": "Center for Aquaculture Technologies", "country": "USA" }, {"name": "John Buchanan", "org": "Center for Aquaculture Technologies", "country": "USA"}]
   collaborators: []
   contact: ["dplouffe@aquatechcenter.com"]
+
+- title: "DEVELOPMENT OF QUANTITATIVE HISTOLOGICAL METHODS FOR UNDERSTANDING THE BONE METABOLISM OF FISH AND PREVENTING THE OCCURRENCE OF VERTEBRAL ANOMALIES IN FARMED SALMONIDS"
+  period: "SEP. 2010 –AUG. 2014"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "Ministère du Développement économique, de l’Innovation et de l’Exportation", "program": "Programme de soutien à des initiatives internationales de recherche et d’innovation"}]
+  cofunded_by: [{"org": "Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}, {"org": "Société de recherche et de développement en aquaculture continentale Inc.", "program": "undefined"}, {"org": "Ressources Aquatiques Québec", "program": "Programme de bourse FONCER"}, {"org": "Université Laval", "program": "Programme de bourse du Bureau International"}]
+  project_lead: [{"name":"Grant Vandenberg", "org":"Université de Laval", "country":"Canada"}]
+  project_team: [{"name":"Marie-Hélène Deschamps", "org":"Université de Laval", "country":"Canada"}, {"name":"Jérémy Le Luyer", "org":"Université de Laval", "country":"Canada"}, {"name":"Noémie Poirier Stewart", "org":"Université de Laval", "country":"Canada"}, {"name":"Émilie Proulx", "org":"Université de Laval", "country":"Canada"}]
+  collaborators: [{"name":"Nadia Aubin-Horth", "org":"Université de Laval", "country":"Canada"}, {"name":"Claude Robert", "org":"Université de Laval", "country":"Canada"}, {"name":"Arnaud Droit", "org":"Université de Laval", "country":"Canada"}, {"name":"Dominique Bureau", "org":"Université de Laval", "country":"Canada"},{"name":"Dominique Bureau", "org":"Université de Laval", "country":"Canada"}, {"name":"Ann
+    Huysseune", "org":"Ghent University", "country":"Belgium"}, {"name":"Eckhard Witten", "org":"Ghent University", "country":"Belgium"}, {"name":"Jean-Yves Sire", "org":"Université Pierre et Marie Curie", "country":"France"}, {"name":"Chantal Cahu", "org":"Institut français de recherche pour l'exploitation de la mer", "country":"France"}, {"name":"Dominique Mazurais", "org":"Institut français de recherche pour l'exploitation de la mer"}, {"name":"Kenneth Overturf", "org":"University of Idaho"}, {"name":"Ron Hardy", "org":"University of Idaho"}, {"name":"Tom Hansen", "org":"Havforskningsinstituttet"}, {"name":"Anna Wargelius", "org":"Havforskningsinstituttet"}, {"name":"P.E. Fjelldal", "org":"Havforskningsinstituttet"}]
+  contact: ["grant.vandenberg@fsaa.ulaval.ca"]
