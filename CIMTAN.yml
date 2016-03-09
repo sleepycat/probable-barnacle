@@ -391,13 +391,21 @@
 # Canada Ltd.; Grieg Seafood BC Ltd.
 # PROJECT LEAD: Dave Speare (UPEI-AVC)
 # PROJECT TEAM: Sarah McConnachie, Nicole Guselle (UPEI-AVC)
-# 
-# 86
-# SOCIAL IMPLICATIONS OF IMTA: SOCIAL-ECOLOGICAL RESILIENCE IN BAYNES SOUND,
-# BRITISH COLUMBIA
-# JAN. 2010–DEC. 2015
-# FUNDED BY: Natural Sciences and Engineering
-# Research Council (NSERC) Strategic Network
-# Program
-# PROJECT LEAD: Grant Murray (VIU)
-# PROJECT TEAM: Linda D’Anna (VIU)
+
+- title: "SOCIAL IMPLICATIONS OF IMTA: SOCIAL-ECOLOGICAL RESILIENCE IN BAYNES SOUND, BRITISH COLUMBIA"
+  year: "2015"
+  category: [""]
+  species: [""]
+  period: "JAN. 2010–DEC. 2015"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":"Strategic Network Program"}
+  ]
+  project_lead: [
+    {"name":"Grant Murray", "org":"Vancouver Island University"}
+  ]
+  project_team: [
+    {"name":"Linda D’Anna", "org":"Vancouver Island University"},
+  ]
+  collaborators: [
+  ]
+
