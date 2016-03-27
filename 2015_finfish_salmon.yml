@@ -154,3 +154,27 @@
   collaborators: [{"name":"Nadia Aubin-Horth", "org":"Université de Laval", "country":"Canada"}, {"name":"Claude Robert", "org":"Université de Laval", "country":"Canada"}, {"name":"Arnaud Droit", "org":"Université de Laval", "country":"Canada"}, {"name":"Dominique Bureau", "org":"Université de Laval", "country":"Canada"},{"name":"Dominique Bureau", "org":"Université de Laval", "country":"Canada"}, {"name":"Ann
     Huysseune", "org":"Ghent University", "country":"Belgium"}, {"name":"Eckhard Witten", "org":"Ghent University", "country":"Belgium"}, {"name":"Jean-Yves Sire", "org":"Université Pierre et Marie Curie", "country":"France"}, {"name":"Chantal Cahu", "org":"Institut français de recherche pour l'exploitation de la mer", "country":"France"}, {"name":"Dominique Mazurais", "org":"Institut français de recherche pour l'exploitation de la mer"}, {"name":"Kenneth Overturf", "org":"University of Idaho"}, {"name":"Ron Hardy", "org":"University of Idaho"}, {"name":"Tom Hansen", "org":"Havforskningsinstituttet"}, {"name":"Anna Wargelius", "org":"Havforskningsinstituttet"}, {"name":"P.E. Fjelldal", "org":"Havforskningsinstituttet"}]
   contact: ["grant.vandenberg@fsaa.ulaval.ca"]
+
+- title: "REPRODUCTION TRIALS BETWEEN WILD AND FARMED SALMON"
+  period: "APR. 2010 – MAR. 2013"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
+  cofunded_by: [{"org": "Gray Aqua Group Ltd.", "program": "undefined"}]
+  project_lead: [{"name":"Dounia Hamoutene", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  project_team: [{"name":"Marie-Hélène Deschamps", "org":"Université de Laval", "country":"Canada"}, {"name":"Jérémy Le Luyer", "org":"Université de Laval", "country":"Canada"}, {"name":"Noémie Poirier Stewart", "org":"Université de Laval", "country":"Canada"}, {"name":"Émilie Proulx", "org":"Université de Laval", "country":"Canada"}]
+  collaborators: [{"name":"undefined", "org":"Gray Aqua Group Ltd.", "country":"Canada"}]
+  contact: ["dounia.hamoutene@dfo-mpo.gc.ca"]
+
+- title: "MIGRATION TIMING AND DISTRIBUTION OF JUVENILE SALMON IN DISCOVERY ISLANDS AND JOHNSTONE STRAIT"
+  period: "APR. 2014 – MAR. 2016"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
+  confunded_by: [{"org": "Marine Harvest Canada Inc.", "program": "undefined"}, {"org": "Grieg Seafood BC Ltd.", "program": "undefined"}, {"org": "Grieg Seafood BC Ltd.", "program": "undefined"}, {"org": "Cermaq Canada", "program": "undefined"}]
+  project_lead: [{"name":"Stewart Johnson", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  project_team: [{"name":"Marc Trudel", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Chrys Neville", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Diane Morrison", "org":"Marine Harvest Canada Inc.", "country":"Canada"}, {"name":"Barry Milligan", "org":"Grieg Seafood BC Ltd.", "country":"Canada"}, {"name":"Peter McKenzie", "org":"Cermaq Canada", "country":"Canada"}]
+  collaborators: [{"name":"undefined", "org":"Marine Harvest Canada Inc.", "country":"Canada"}, {"name":"undefined", "org":"Grieg Seafood BC Ltd.", "country":"Canada"}, {"name":"undefined", "org":"Cermaq Canada", "country":"Canada"}]
+  contact: ["stewart.johnson@dfo-mpo.gc.ca"]
