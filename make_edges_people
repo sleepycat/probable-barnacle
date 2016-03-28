@@ -22,7 +22,7 @@ dataset = yaml.load(file)
 filename_without_extension = filename.split(".")[0]
 csvfile = open("{}_people_edges.csv".format(filename_without_extension), "w")
 csv_output = csv.writer(csvfile, delimiter = ",")
-csv_output.writerow(["SOURCE", "TARGET","PROJECT_TITLE"])
+csv_output.writerow(["SOURCE", "TARGET", "TYPE", "PROJECT_TITLE"])
 
 def clean_up():
     global file
@@ -44,6 +44,7 @@ for project in dataset:
     edges = itertools.combinations(names, 2)
     for edge in edges:
         edge_list = list(edge)
+        edge_list.append("undirected")
         edge_list.append(project["title"].title())
         csv_output.writerow(edge_list)
 
