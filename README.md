@@ -18,3 +18,4 @@ igraph to work with is done with the make_edges script.
 ## Making graph
 
 Transforming the edge data file in a graph is done with Gephi.
+~/Téléchargements/gephi-0.9.1/bin❤ ./gephi
