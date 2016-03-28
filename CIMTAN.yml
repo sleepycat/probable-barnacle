@@ -163,13 +163,13 @@
     {"org":"Natural Sciences and Engineering Research Coucil", "program":"Strategic Network Program"}
   ]
   cofunded_by: [
-    {"org":"Fisheries and Oceans Canada", "program":""},
-    {"org":"University of New Brunswick", "program":""},
-    {"org":"New Brunswick Research Productivity Council", "program":""},
-    {"org":"Cooke Aquaculture Inc.", "program":""},
-    {"org":"Kyuquot SEAfoods Ltd.", "program":""},
-    {"org":"Marine Harvest Canada Ltd.", "program":""},
-    {"org":"Grieg Seafood BC Ltd.", "program":""}
+    {"org":"Fisheries and Oceans Canada", "program":"undefined"},
+    {"org":"University of New Brunswick", "program":"undefined"},
+    {"org":"New Brunswick Research Productivity Council", "program":"undefined"},
+    {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
+    {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
+    {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Thierry Chopin", "org":"University of New Brunswick Saint John"}
@@ -181,7 +181,7 @@
     {"name":"Adrian Hamer", "org":"University of New Brunswick Saint John"}
   ]
   collaborators: [
-    {"name":"", "org":"Cooke Aquaculture Inc."}
+    {"name":"undefined", "org":"Cooke Aquaculture Inc."}
   ]
 
 - title: "DEVELOPING TOOLS TO QUANTIFY SALMON AQUACULTURE NUTRIENTS IN WILD AND CULTURED ALTERNATIVE SPECIES"
@@ -193,13 +193,13 @@
     {"org":"Natural Sciences and Engineering Research Council", "program":"Strategic Network Program"}
   ]
   cofunded_by: [
-    {"org":"Fisheries and Oceans Canada", "program":""},
-    {"org":"University of New Brunswick", "program":""},
-    {"org":"New Brunswick Research Productivity Council", "program":""},
-    {"org":"Cooke Aquaculture Inc.", "program":""},
-    {"org":"Kyuquot SEAfoods Ltd.", "program":""},
-    {"org":"Marine Harvest Canada Ltd.", "program":""},
-    {"org":"Grieg Seafood BC Ltd.", "program":""}
+    {"org":"Fisheries and Oceans Canada", "program":"undefined"},
+    {"org":"University of New Brunswick", "program":"undefined"},
+    {"org":"New Brunswick Research Productivity Council", "program":"undefined"},
+    {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
+    {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
+    {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Andrew Cooper", "org":"Fisheries and Oceans Canada"}
@@ -221,13 +221,13 @@
     {"org":"Natural Sciences and Engineering Research Council", "program":"Strategic Network Program"}
   ]
   cofunded_by: [
-    {"org":"Fisheries and Oceans Canada", "program":""},
-    {"org":"University of New Brunswick", "program":""},
-    {"org":"New Brunswick Research Productivity Council", "program":""},
-    {"org":"Cooke Aquaculture Inc.", "program":""},
-    {"org":"Kyuquot SEAfoods Ltd.", "program":""},
-    {"org":"Marine Harvest Canada Ltd.", "program":""},
-    {"org":"Grieg Seafood BC Ltd.", "program":""}
+    {"org":"Fisheries and Oceans Canada", "program":"undefined"},
+    {"org":"University of New Brunswick", "program":"undefined"},
+    {"org":"New Brunswick Research Productivity Council", "program":"undefined"},
+    {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
+    {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
+    {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Maycira Costa", "org":"University of Victoria"}
@@ -241,161 +241,273 @@
 # XXX: Does this imply that those 2 organizations are collaborating?
   ]
   collaborators: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
   ]
 
+- title: "DESIGN AND INVESTIGATION OF FEASIBILITY OF DEMAND SIDE MANAGEMENT CONTROL OF A RENEWABLE ENERGY SYSTEM AT AN IMTA SITE"
+  year: "2015"
+  category: ["CIMTAN"]
+  species: [""]
+  period: "JAN. 2010–DEC. 2015"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":"Strategic Network Program"}
+  ]
+  cofunded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"undefined"},
+    {"org":"University of New Brunswick", "program":"undefined"},
+    {"org":"New Brunswick Research Productivity Council", "program":"undefined"},
+    {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
+    {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
+    {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Curran Crawford", "org":"University of Victoria"}
+  ]
+  project_team: [
+    {"name":"Stephen Cross", "org":"University of Victoria"},
+    {"name":"Adam Gray", "org":"University of Victoria"},
+    {"name":"Nima Tehrani", "org":"University of Victoria"}
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Kyuquot SEAfoods Ltd."},
+  ]
 
-# 
-# 75
-# DESIGN AND INVESTIGATION OF FEASIBILITY OF DEMAND SIDE MANAGEMENT
-# CONTROL OF A RENEWABLE ENERGY SYSTEM AT AN IMTA SITE
-# JAN. 2010–DEC. 2015
-# FUNDED BY: Natural Sciences and Engineering
-# Research Coucil (NSERC) Strategic Network
-# Program CO-FUNDED BY: Fisheries and
-# Oceans Canada (DFO); University of New
-# Brunswick; New Brunswick Research
-# Productivity Council; Cooke Aquaculture Inc.;
-# Kyuquot SEAfoods Ltd.; Marine Harvest
-# Canada Ltd.; Grieg Seafood BC Ltd.
-# PROJECT LEAD: Curran Crawford (UVic)
-# PROJECT TEAM: Stephen Cross, Adam Gray,
-# Nima Tehrani (UVic)
-# COLLABORATORS: Kyuquot SEAfoods Ltd.
-# 
-# 76
-# ECONOMIC IMPLICATIONS OF IMTA
-# JAN. 2010–DEC. 2015
-# FUNDED BY: Natural Sciences and Engineering
-# Research Coucil (NSERC) Strategic Network
-# Program 
-# CO-FUNDED BY: Fisheries and
-# Oceans Canada (DFO); University of New
-# Brunswick; New Brunswick Research
-# Productivity Council; Cooke Aquaculture Inc.;
-# Kyuquot SEAfoods Ltd.; Marine Harvest
-# Canada Ltd.; Grieg Seafood BC Ltd.
-# PROJECT LEAD: Duncan Knowler (SFU)
-# PROJECT TEAM: Winnie Yip, Kim Irwin, Stefan
-# Crampton, Hossein Ayouqi, Mark Carras (SFU)
-# 
-# 77
-# EVALUATING THE PERFORMANCE OF PROPOSED AND EXISTING IMTA SITES USING AN
-# ECOSYSTEM MODELLING APPROACH
-# SEP. 2012–DEC. 2015
-# FUNDED BY: Natural Sciences and Engineering
-# Research Coucil (NSERC) Strategic Network
-# Program 
-# CO-FUNDED BY: Fisheries and
-# Oceans Canada (DFO); University of New
-# Brunswick; New Brunswick Research
-# Productivity Council; Cooke Aquaculture Inc.;
-# Kyuquot SEAfoods Ltd.; Marine Harvest
-# Canada Ltd.; Grieg Seafood BC Ltd.
-# PROJECT LEAD: Jonathan Grant (Dalhousie U)
-# PROJECT TEAM: Ramón Filgueira, Thomas
-# Guyondet, Peter Cranford (DFO); Gregor
-# Reid (UNBSJ, DFO)
-# COLLABORATORS: Cooke Aquaculture Inc.
-# CONTACT: Jon.Grant@dal.ca
-# 
-# 78
-# CAN FILTER-FEEDING BIVALVES INGEST PLANKTONIC SEA LICE, LEADING TO REDUCED
-# SEA LICE NUMBERS ON CULTIVATED SALMON?
-# JAN. 2010–DEC. 2015
-# FUNDED BY: Natural Sciences and Engineering
-# Research Coucil (NSERC) Strategic Network
-# Program 
-# CO-FUNDED BY: Fisheries and
-# Oceans Canada (DFO); University of New
-# Brunswick; New Brunswick Research
-# Productivity Council; Cooke Aquaculture Inc.;
-# Kyuquot SEAfoods Ltd.; Marine Harvest
-# Canada Ltd.; Grieg Seafood BC Ltd.
-# PROJECT LEAD: Chris Pearce (DFO)
-# PROJECT TEAM: Stephen Cross, Allison Byrne,
-# Janis Webb (UVic); Simon Jones, Shawn
-# Robinson (DFO)
-# COLLABORATORS: Grieg Seafood BC Ltd.;
-# 
-# 79
-# EFFECTS OF ANTI-SEA LICE PESTICIDES ON MARINE INVERTEBRATES
-# JAN. 2010–DEC. 2015
-# FUNDED BY: Natural Sciences and Engineering
-# Research Coucil (NSERC) Strategic Network
-# Program 
-# CO-FUNDED BY: Fisheries and
-# Oceans Canada (DFO); University of New
-# Brunswick; New Brunswick Research
-# Productivity Council; Cooke Aquaculture Inc.;
-# Kyuquot SEAfoods Ltd.; Marine Harvest
-# Canada Ltd.; Grieg Seafood BC Ltd.
-# PROJECT LEAD: Karen Kidd (UNBSJ)
-# PROJECT TEAM: Les Burridge, Jordana Van
-# Geest (DFO); Geoff McBriarty (UNBSJ)
-# 
-# 80
-# QUANTIFYING THE CAPTURE AND CONVERSION EFFICIENCIES OF SPECIES BEING
-# CONSIDERED FOR ORGANIC EXTRACTION IN OPEN-WATER IMTA SYSTEMS
-# JAN. 2010–DEC. 2015
-# FUNDED BY: Natural Sciences and Engineering
-# Research Coucil (NSERC) Strategic Network
-# Program CO-FUNDED BY: Fisheries and
-# Oceans Canada (DFO); University of New
-# Brunswick; New Brunswick Research
-# Productivity Council; Cooke Aquaculture Inc.;
-# Kyuquot SEAfoods Ltd.; Marine Harvest
-# Canada Ltd.; Grieg Seafood BC Ltd.
-# PROJECT LEAD: Bruce MacDonald (UNBSJ)
-# PROJECT TEAM: Shawn Robinson, Chris
-# Pearce, Dan Curtis (DFO); Gregor Reid, Emily
-# Nelson (UNBSJ, DFO); Stephen Cross, Sarah
-# Sprague (UVic); Helen Gurney-Smith
-# (VIU-CSR); Shannon Balfry (UBC-Vancouver
-# Aquarium); Kurt Simmons (UNBSJ); Steve
-# Pace (UBC)
-# COLLABORATORS: Cooke Aquaculture Inc.;
-# 
-# 81
-# EXTENSIVE VERSUS INTENSIVE IMTA SYSTEMS–HYDROGRAPHIC INFLUENCES AND THE
-# IMPLICATIONS TO INFRASTRUCTURE DESIGN AND OPERATIONAL EFFICIENCY
-# JAN. 2010–DEC. 2015
-# FUNDED BY: Natural Sciences and Engineering
-# Research Coucil (NSERC) Strategic Network
-# Program 
-# CO-FUNDED BY: Fisheries and
-# Oceans Canada (DFO); University of New
-# Brunswick; New Brunswick Research
-# Productivity Council; Cooke Aquaculture Inc.;
-# Kyuquot SEAfoods Ltd.; Marine Harvest
-# Canada Ltd.; Grieg Seafood BC Ltd.
-# PROJECT LEAD: Gregor Reid (UNBSJ, DFO)
-# PROJECT TEAM: Tiger Jeans, Adam Turner
-# (UNBF); Mike Foreman (DFO); Stephen
-# Cross, Di Wan (UVic)
-# COLLABORATORS: SEA Vision Group Ltd.;
-# 
-# 82
-# MATHEMATICAL MODELLING FOR OPEN-WATER IMTA–DEVELOPING TOOLS TO
-# SUPPORT SYSTEM DESIGN AND MEASURES OF SUSTAINABILITY
-# JAN. 2010–DEC. 2015
-# FUNDED BY: Natural Sciences and Engineering
-# Research Coucil (NSERC) Strategic Network
-# Program 
-# CO-FUNDED BY: Fisheries and
-# Oceans Canada (DFO); University of New
-# Brunswick; New Brunswick Research
-# Productivity Council; Cooke Aquaculture Inc.;
-# Kyuquot SEAfoods Ltd.; Marine Harvest
-# Canada Ltd.; Grieg Seafood BC Ltd.
-# PROJECT LEAD: Gregor Reid (UNBSJ, DFO)
-# PROJECT TEAM: Bruce MacDonald,
-# Thierry Chopin (UNBSJ); Shawn Robinson,
-# Peter Cranford (DFO); Margaret Quinton
-# (U Guelph)
-# COLLABORATORS: Cooke Aquaculture Inc.
+- title: "ECONOMIC IMPLICATIONS OF IMTA"
+  year: "2015"
+  category: ["CIMTAN"]
+  species: [""]
+  period: "JAN. 2010–DEC. 2015"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":"Strategic Network Program"}
+  ]
+  cofunded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"undefined"},
+    {"org":"University of New Brunswick", "program":"undefined"},
+    {"org":"New Brunswick Research Productivity Council", "program":"undefined"},
+    {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
+    {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
+    {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Duncan Knowler", "org":"Simon Fraser University"}
+  ]
+  project_team: [
+    {"name":"Winnie Yip", "org":"Simon Fraser University"},
+    {"name":"Kim Irwin", "org":"Simon Fraser University"},
+    {"name":"Stefan Crampton", "org":"Simon Fraser University"},
+    {"name":"Hossein Ayouqi", "org":"Simon Fraser University"},
+    {"name":"Mark Carras", "org":"Simon Fraser University"}
+  ]
+  collaborators: [
+  ]
+
+- title: "EVALUATING THE PERFORMANCE OF PROPOSED AND EXISTING IMTA SITES USING AN ECOSYSTEM MODELLING APPROACH"
+  year: "2015"
+  category: ["CIMTAN"]
+  species: [""]
+  period: "SEP. 2012–DEC. 2015"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":"Strategic Network Program"}
+  ]
+  cofunded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"undefined"},
+    {"org":"University of New Brunswick", "program":"undefined"},
+    {"org":"New Brunswick Research Productivity Council", "program":"undefined"},
+    {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
+    {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
+    {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Jonathan Grant", "org":"Dalhousie University"}
+  ]
+  project_team: [
+    {"name":"Ramón Filgueira", "org":"Fisheries and Oceans Canada"},
+    {"name":"Thomas Guyondet", "org":"Fisheries and Oceans Canada"},
+    {"name":"Peter Cranford", "org":"Fisheries and Oceans Canada"},
+    {"name":"Gregor Reid", "org":"University of New Brunswick Saint John"},
+    {"name":"Gregor Reid", "org":"Fisheries and Oceans Canada"}
+# XXX:Gregor Reid is from 2 organizations: UNBSJ and DFO
+# XXX: Does this imply that those 2 organizations are collaborating?
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Cooke Aquaculture Inc."}
+  ]
+
+- title: "CAN FILTER-FEEDING BIVALVES INGEST PLANKTONIC SEA LICE, LEADING TO REDUCED SEA LICE NUMBERS ON CULTIVATED SALMON?"
+  year: "2015"
+  category: ["CIMTAN"]
+  species: [""]
+  period: "JAN. 2010–DEC. 2015"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":"Strategic Network Program"}
+  ]
+  cofunded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"undefined"},
+    {"org":"University of New Brunswick", "program":"undefined"},
+    {"org":"New Brunswick Research Productivity Council", "program":"undefined"},
+    {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
+    {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
+    {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Chris Pearce", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Stephen Cross", "org":"University of Victoria"},
+    {"name":"Allison Byrne", "org":"University of Victoria"},
+    {"name":"Janis Webb", "org":"University of Victoria"},
+    {"name":"Simon Jones", "org":"Fisheries and Oceans Canada"},
+    {"name":"Shawn Robinson", "org":"Fisheries and Oceans Canada"}
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Grieg Seafood BC Ltd."}
+  ]
+
+- title: "EFFECTS OF ANTI-SEA LICE PESTICIDES ON MARINE INVERTEBRATES"
+  year: "2015"
+  category: ["CIMTAN"]
+  species: [""]
+  period: "JAN. 2010–DEC. 2015"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":"Strategic Network Program"}
+  ]
+  cofunded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"undefined"},
+    {"org":"University of New Brunswick", "program":"undefined"},
+    {"org":"New Brunswick Research Productivity Council", "program":"undefined"},
+    {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
+    {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
+    {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Karen Kidd", "org":"University of New Brunswick Saint John"}
+  ]
+  project_team: [
+    {"name":"Les Burridge", "org":"Fisheries and Oceans Canada"},
+    {"name":"Jordana Van Geest", "org":"Fisheries and Oceans Canada"},
+    {"name":"Geoff McBriarty", "org":"University of New Brunswick Saint John"}
+  ]
+  collaborators: [
+    {"name":"", "org":"Grieg Seafood BC Ltd."}
+  ]
+
+- title: "QUANTIFYING THE CAPTURE AND CONVERSION EFFICIENCIES OF SPECIES BEING CONSIDERED FOR ORGANIC EXTRACTION IN OPEN-WATER IMTA SYSTEMS"
+  year: "2015"
+  category: ["CIMTAN"]
+  species: [""]
+  period: "JAN. 2010–DEC. 2015"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":"Strategic Network Program"}
+  ]
+  cofunded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"undefined"},
+    {"org":"University of New Brunswick", "program":"undefined"},
+    {"org":"New Brunswick Research Productivity Council", "program":"undefined"},
+    {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
+    {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
+    {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Bruce MacDonald", "org":"University of New Brunswick Saint John"}
+  ]
+  project_team: [
+    {"name":"Shawn Robinson", "org":"Fisheries and Oceans Canada"},
+    {"name":"Chris Pearce", "org":"Fisheries and Oceans Canada"},
+    {"name":"Dan Curtis", "org":"Fisheries and Oceans Canada"},
+    {"name":"Gregor Reid", "org":"University of New Brunswick Saint John"},
+    {"name":"Gregor Reid", "org":"Fisheries and Oceans Canada"},
+# XXX:Gregor Reid is from 2 organizations: UNBSJ and DFO
+# XXX: Does this imply that those 2 organizations are collaborating?
+    {"name":"Emily Nelson", "org":"University of New Brunswick Saint John"},
+    {"name":"Emily Nelson", "org":"Fisheries and Oceans Canada"},
+# XXX:Emily Nelson is from 2 organizations: UNBSJ and DFO
+# XXX: Does this imply that those 2 organizations are collaborating?
+    {"name":"Stephen Cross", "org":"University of Victoria"},
+    {"name":"Sarah Sprague", "org":"University of Victoria"},
+    {"name":"Helen Gurney-Smith", "org":"Vancouver Island University - Centre for Shellfish Research"},
+# XXX:Should we track the organisation to the level of the Centre for Shellfish Research or leave it at VIU?
+    {"name":"Shannon Balfry", "org":"University of British Columbia"},
+# XXX:What Shannon Balfry at UBC in 2015?
+    {"name":"Shannon Balfry", "org":"Vancouver Aquarium"},
+    {"name":"Kurt Simmons", "org":"University of New Brunswick Saint John"},
+    {"name":"Steve Pace", "org":"University of British Columbia"}
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Cooke Aquaculture Inc."}
+  ]
+
+- title: "EXTENSIVE VERSUS INTENSIVE IMTA SYSTEMS–HYDROGRAPHIC INFLUENCES AND THE IMPLICATIONS TO INFRASTRUCTURE DESIGN AND OPERATIONAL EFFICIENCY"
+  year: "2015"
+  category: ["CIMTAN"]
+  species: [""]
+  period: "JAN. 2010–DEC. 2015"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":"Strategic Network Program"}
+  ]
+  cofunded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"undefined"},
+    {"org":"University of New Brunswick", "program":"undefined"},
+    {"org":"New Brunswick Research Productivity Council", "program":"undefined"},
+    {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
+    {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
+    {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Gregor Reid", "org":"University of New Brunswick Saint John"},
+    {"name":"Gregor Reid", "org":"Fisheries and Oceans Canada"},
+# XXX:Gregor Reid is from 2 organizations: UNBSJ and DFO
+# XXX: Does this imply that those 2 organizations are collaborating?
+  ]
+  project_team: [
+    {"name":"Tiger Jeans", "org":"University of New Brunswick Fredericton"},
+    {"name":"Adam Turner", "org":"University of New Brunswick Fredericton"},
+    {"name":"Mike Foreman", "org":"Fisheries and Oceans Canada"},
+    {"name":"Stephen Cross", "org":"University of Victoria"},
+    {"name":"Di Wan", "org":"University of Victoria"}
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"SEA Vision Group Ltd."}
+  ]
+
+- title: "MATHEMATICAL MODELLING FOR OPEN-WATER IMTA–DEVELOPING TOOLS TO SUPPORT SYSTEM DESIGN AND MEASURES OF SUSTAINABILITY"
+  year: "2015"
+  category: ["CIMTAN"]
+  species: [""]
+  period: "JAN. 2010–DEC. 2015"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":"Strategic Network Program"}
+  ]
+  cofunded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"undefined"},
+    {"org":"University of New Brunswick", "program":"undefined"},
+    {"org":"New Brunswick Research Productivity Council", "program":"undefined"},
+    {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
+    {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
+    {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Gregor Reid", "org":"University of New Brunswick Saint John"},
+    {"name":"Gregor Reid", "org":"Fisheries and Oceans Canada"},
+# XXX:Gregor Reid is from 2 organizations: UNBSJ and DFO
+# XXX: Does this imply that those 2 organizations are collaborating?
+  ]
+  project_team: [
+    {"name":"Bruce MacDonald", "org":"University of New Brunswick Saint John"},
+    {"name":"Thierry Chopin", "org":"University of New Brunswick Saint John"},
+    {"name":"Shawn Robinson", "org":"Fisheries and Oceans Canada"},
+    {"name":"Peter Cranford", "org":"Fisheries and Oceans Canada"},
+    {"name":"Margaret Quinton", "org":"University of Guelph"}
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Cooke Aquaculture Inc."}
+  ]
 
 - title: "QUANTIFYING THE ROLE OF MICROBES IN THE NUTRIENT RECYCLING OF ORGANIC MATERIAL FROM IMTA SITES"
   year: "2015"
@@ -406,13 +518,13 @@
     {"org":"Natural Sciences and Engineering Research Coucil", "program":"Strategic Network Program"}
   ]
   cofunded_by: [
-    {"org":"Fisheries and Oceans Canada", "program":""},
-    {"org":"University of New Brunswick", "program":""},
-    {"org":"New Brunswick Research Productivity Council", "program":""},
-    {"org":"Cooke Aquaculture Inc.", "program":""},
-    {"org":"Kyuquot SEAfoods Ltd.", "program":""},
-    {"org":"Marine Harvest Canada Ltd.", "program":""},
-    {"org":"Grieg Seafood BC Ltd.", "program":""}
+    {"org":"Fisheries and Oceans Canada", "program":"undefined"},
+    {"org":"University of New Brunswick", "program":"undefined"},
+    {"org":"New Brunswick Research Productivity Council", "program":"undefined"},
+    {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
+    {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
+    {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Shawn Robinson", "org":"Fisheries and Oceans Canada"}
@@ -426,7 +538,7 @@
     {"name":"Chris Pearce", "org":"Fisheries and Oceans Canada"}
   ]
   collaborators: [
-    {"name":"Cooke Aquaculture Inc.", "org":""}
+    {"name":"undefined", "org":"Cooke Aquaculture Inc."}
   ]
  
 - title: "OPTIMIZING IMTA SPECIES COMPONENT STOCKING DENSITIES AND INFRASTRUCTURE ORIENTATION TO MAXIMIZE OVERALL SYSTEM EFFICIENCY"
@@ -438,13 +550,13 @@
     {"org":"Natural Sciences and Engineering Research Coucil", "program":"Strategic Network Program"}
   ]
   cofunded_by: [
-    {"org":"Fisheries and Oceans Canada", "program":""},
-    {"org":"University of New Brunswick", "program":""},
-    {"org":"New Brunswick Research Productivity Council", "program":""},
-    {"org":"Cooke Aquaculture Inc.", "program":""},
-    {"org":"Kyuquot SEAfoods Ltd.", "program":""},
-    {"org":"Marine Harvest Canada Ltd.", "program":""},
-    {"org":"Grieg Seafood BC Ltd.", "program":""}
+    {"org":"Fisheries and Oceans Canada", "program":"undefined"},
+    {"org":"University of New Brunswick", "program":"undefined"},
+    {"org":"New Brunswick Research Productivity Council", "program":"undefined"},
+    {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
+    {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
+    {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Shawn Robinson", "org":"Fisheries and Oceans Canada"}
@@ -475,13 +587,13 @@
     {"org":"Natural Sciences and Engineering Research Coucil (NSERC)", "program":"Strategic Network Program"}
   ]
   cofunded_by: [
-    {"org":"Fisheries and Oceans Canada", "program":""},
-    {"org":"University of New Brunswick", "program":""},
-    {"org":"New Brunswick Research Productivity Council", "program":""},
-    {"org":"Cooke Aquaculture Inc.", "program":""},
-    {"org":"Kyuquot SEAfoods Ltd.", "program":""},
-    {"org":"Marine Harvest Canada Ltd.", "program":""},
-    {"org":"Grieg Seafood BC Ltd.", "program":""}
+    {"org":"Fisheries and Oceans Canada", "program":"undefined"},
+    {"org":"University of New Brunswick", "program":"undefined"},
+    {"org":"New Brunswick Research Productivity Council", "program":"undefined"},
+    {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
+    {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
+    {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Dave Speare", "org":"University of Prince Edward Island – Atlantic Veterinary College"}
