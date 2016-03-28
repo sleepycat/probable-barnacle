@@ -173,8 +173,128 @@
   category: ["finfish: salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
-  confunded_by: [{"org": "Marine Harvest Canada Inc.", "program": "undefined"}, {"org": "Grieg Seafood BC Ltd.", "program": "undefined"}, {"org": "Grieg Seafood BC Ltd.", "program": "undefined"}, {"org": "Cermaq Canada", "program": "undefined"}]
+  cofunded_by: [{"org": "Marine Harvest Canada Inc.", "program": "undefined"}, {"org": "Grieg Seafood BC Ltd.", "program": "undefined"}, {"org": "Grieg Seafood BC Ltd.", "program": "undefined"}, {"org": "Cermaq Canada", "program": "undefined"}]
   project_lead: [{"name":"Stewart Johnson", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
   project_team: [{"name":"Marc Trudel", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Chrys Neville", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Diane Morrison", "org":"Marine Harvest Canada Inc.", "country":"Canada"}, {"name":"Barry Milligan", "org":"Grieg Seafood BC Ltd.", "country":"Canada"}, {"name":"Peter McKenzie", "org":"Cermaq Canada", "country":"Canada"}]
   collaborators: [{"name":"undefined", "org":"Marine Harvest Canada Inc.", "country":"Canada"}, {"name":"undefined", "org":"Grieg Seafood BC Ltd.", "country":"Canada"}, {"name":"undefined", "org":"Cermaq Canada", "country":"Canada"}]
   contact: ["stewart.johnson@dfo-mpo.gc.ca"]
+
+- title: "INDIVIDUAL AND FAMILY RESISTANCE TO BACTERIAL KIDNEY DISEASE IN SAINT JOHN RIVER STRAIN ATLANTIC SALMON"
+  period: "OCT. 2010 – SEP. 2015"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "Atlantic Canada Opportunities Agency", "program": "Atlantic Innovation Fund"}]
+  cofunded_by: []
+  project_lead: [{"name":"Amber Garber", "org": "Huntsman Marine Science Centre"}]
+  project_team: []
+  collaborators: []
+  contact: ["agarber@huntsmanmarine.ca"]
+
+- title: "ECOLOGICAL EFFECTS OF BLUE LED LIGHTS USED AT MARINE FINFISH AQUACULTURE SITES IN BRITISH COLUMBIA"
+  period: "APR. 2011 – DEC. 2013"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
+  cofunded_by: [{"org": "Grieg Seafood BC Ltd.", "program": "undefined"}]
+  project_lead: [{"name":"Hannah Stewart", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  project_team: []
+  collaborators: [{"name":"undefined", "org":    "Grieg Seafood BC Ltd.", "country":"Canada"}]
+  contact: ["hannah.stewart@dfo-mpo.gc.ca"]
+
+- title: "DEVELOPING STANDARD OPERATING PROCEDURES TO QUANTIFY SPERM DENSITY AND DILUTE OR EXTEND MILT FROM MALE SAINT JOHN RIVER STOCK ATLANTIC SALMON TO ENHANCE MANAGEMENT OF A BROODSTOCK PROGRAM"
+  period: "OCT. 2014 – MAR. 2015"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "National Research Council", "program": "Industrial Research Assistance Program"}]
+  cofunded_by: []
+  project_lead: [{"name":"Amber Garber", "org": "Huntsman Marine Science Centre"}]
+  project_team: [{"name":"Susan Hodkinson", "org": "Huntsman Marine Science Centre"}, {"name":"Chris Bridger", "org": "Huntsman Marine Science Centre"}, {"name":"Maureen Ritter", "org": "Canada Cryogenetics Services"}, {"name":"Jorn Ulheim", "org": "Cryogenetics"}]
+  collaborators: []
+  contact: ["agarber@huntsmanmarine.ca"]
+
+- title: "GENETIC AND GENOMIC IMPACTS OF ESCAPED FARMED SALMON IN ATLANTIC CANADA: EVALUATING THE USE OF ARCHIVED ATLANTIC SALMON SCALES AS A SOURCE OF PRE-IMPACT DNA"
+  period: "SEP. 2014 – MAR. 2015"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}]
+  cofunded_by: []
+  project_lead: [{"name":"Ian Bradbury", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  project_team: [{"name":"Lorraine Hamilton", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Geoff Perry", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Patrick O’Reilly", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  collaborators: []
+  contact: ["ian.bradbury@dfo-mpo.gc.ca"]
+
+- title: "SPATIAL AND TEMPORAL DISTRIBUTION AND SURVIVAL OF FARMED ATLANTIC SALMON AFTER EXPERIMENTAL RELEASE FROM SEA CAGE LOCATIONS"
+  period: "AUG. 2014 – MAR. 2017"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}]
+  cofunded_by: []
+  project_lead: [{"name":"Dounia Hamoutene", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  project_team: [{"name":"Brian Dempson", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Geoff Perry", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Keith Clarke", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Curtis Pennell", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Kimberley Burt", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Lynn Lush", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  collaborators: []
+  contact: ["dounia.hamoutene@dfo-mpo.gc.ca"]
+
+- title: "SALMON AND CHIPS: COMMERCIAL APPLICATION OF GENOMICS TO MAXIMIZE GENETIC IMPROVEMENT OF FARMED ATLANTIC SALMON ON THE EAST COAST OF CANADA"
+  period: "APR. 2014 – MAR. 2017"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "Genome Canada", "program": "undefined"}, {"org": "Genome Atlantic", "program": "undefined"}]
+  cofunded_by: [{"org": "National Research Council", "program": "Industrial Research Assistance Program"}]
+  project_lead: [{"name":"Keng Pee Ang", "org":"Cooke Aquaculture/Kelly Cove Salmon", "country":"Canada"}, {"name":"Elizabeth Boulding", "org":"University of Guelph", "country":"Canada"}]
+  project_team: [{"name":"Jake Elliott", "org":"Cooke Aquaculture/Kelly Cove Salmon", "country":"Canada"}, {"name":"Frank Powell", "org":"Cooke Aquaculture/Kelly Cove Salmon", "country":"Canada"}, {"name":"Larry Schaeffer", "org":"University of Guelph", "country":"Canada"}]
+  collaborators: []
+  contact: ["Keng.Pee.Ang@cookeaqua.com"]
+
+- title: "RAPID GENOMIC SCREENING FOR ATLANTIC SALMON AQUACULTURE ESCAPEES AND HYBRIDS USING A HIGH THROUGHPUT NANOFLUIDIC DYNAMIC ARRAY"
+  period: "SEP. 2014 – MAR. 2015"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}]
+  cofunded_by: []
+  project_lead: [{"name":"Ian Bradbury", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  project_team: [{"name":"Dounia Hamoutene", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Geoff Perry", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Patrick O’Reilly", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Dounia Hamoutene", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Martha Robertson", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  collaborators: [{"name":"Elizabeth Barlow", "org":"Newfoundland and Labrador", "country":"Canada"}, {"name":"Jon Carr", "org":"Atlantic Salmon Federation", "country":"Canada"}, {"name":"Ross Hinks", "org":"Miawpukek First Nation", "country":"Canada"}]
+  contact: ["ian.bradbury@dfo-mpo.gc.ca"]
+
+- title: "SUSTAINABILITY OF FISH FARMING: AN ECOSYSTEM APPROACH"
+  period: "JAN. 2014 – JAN. 2019"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "Natural Sciences and Engineering Research Council", "program": "undefined"}]
+  cofunded_by: [{"org": "Cooke Aquaculture Inc.", "program": "undefined"}]
+  project_lead: [{"name":"Jon Grant", "org":"Dalhousie University", "country":"Canada"}]
+  project_team: []
+  collaborators: []
+  contact: ["jon.grant@dal.ca"]
+
+- title: "BETTER FEED FOR BETTER FISH: BIOMARKER PLATFORM FOR COMMERCIAL AQUACULTURE FEED DEVELOPMENT"
+  period: "OCT. 2014 – SEP. 2017"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "Genome Canada", "program": "undefined"}, {"org": "Genome Atlantic", "program": "undefined"}]
+  cofunded_by: [{"org": "EWOS Innovation", "program": "undefined"}]
+  project_lead: [{"name":"Richard Taylor", "org":"EWOS Innovation", "country":"Norway"}, {"name": "Matthew Rise", "org": "Memorial University of Newfoundland"}]
+  project_team: [{"name":"Simon Wadsworth", "org":"EWOS Innovation", "country":"Norway"}, {"name":"Adel El-Mowafi", "org":"EWOS Innovation", "country":"Norway"}, {"name":"Jason Mann", "org":"EWOS Innovation", "country":"Norway"}, {"name":"Christopher Parrish", "org":"Memorial University of Newfoundland", "country":"Canada"}]
+  collaborators: []
+  contact: ["richard.taylor@ewos.com", "mrise@mun.ca"]
+
+- title: "CYCLICAL FEEDING STRATEGY TO REDUCE ENVIRONMENTAL IMPACT OF MARINE SALMON FARMING"
+  period: "APR. 2013 – MAR. 2015"
+  year: "2015"
+  category: ["finfish: salmon"]
+  species: ["salmon"]
+  funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}]
+  cofunded_by: []
+  project_lead: [{"name":"Ian Bradbury", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  project_team: [{"name":"Lawrence Albright", "org":"Agrimarine", "country":"Canada"}, {"name":"Robert Walker", "org":"Agri", "country":"Canada"}, {"name":"Biswas Biswajit", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Mahmoud Rowshandeli", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
+  collaborators: []
+  contact: ["ian.forster@dfo-mpo.gc.ca"]
