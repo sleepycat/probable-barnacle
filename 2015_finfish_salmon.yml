@@ -39,7 +39,7 @@
   year: "2015"
   category: ["finfish"]
   species: ["salmon"]
-  funded_by: [{"org": "Natural Sciences and Engineering Research Council Partnerships Program", "program": "Engage Grant"}]
+  funded_by: [{"org": "Natural Sciences and Engineering Research Council", "program": "Partnerships Program – Engage Grant"}]
   cofunded_by: []
   project_lead: [{"name":"Tillmann Benfey", "org": "University of New Brunswick", "country":"Canada"}]
   project_team: [{"name":"Krista Latimer", "org":"University of New Brunswick", "country":"Canada"},{"name":"Amber Garber", "org":"Huntsman Marine Science Centre", "country":"Canada"}, {"name":"Chris Bridger", "org":"Huntsman Marine Science Centre", "country":"Canada"}, {"name":"Anne McCarthy", "org":"Huntsman Marine Science Centre", "country":"Canada"}]
