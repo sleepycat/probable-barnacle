@@ -11,6 +11,7 @@ from docopt import docopt
 import yaml
 import csv
 import itertools
+from collections import Counter
 
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='0.1')
@@ -22,7 +23,7 @@ dataset = yaml.load(file)
 filename_without_extension = filename.split(".")[0]
 csvfile = open("{}_org_edges.csv".format(filename_without_extension), "w")
 csv_output = csv.writer(csvfile, delimiter = ",")
-csv_output.writerow(["SOURCE", "TARGET", "TYPE"])
+csv_output.writerow(["SOURCE", "TARGET", "TYPE", "WEIGHT"])
 
 def clean_up():
     global file
@@ -38,14 +39,23 @@ def extract_organizations(people):
     # by converting the list to a set
     return set([person["org"] for person in people])
 
+weighted_edges = []
+
 for project in dataset:
     all_the_people = extract_people(project)
     organizations = extract_organizations(all_the_people)
     edges = itertools.combinations(organizations, 2)
     for edge in edges:
         edge_list = list(edge)
-        edge_list.append("undirected")
-        edge_list.append(project["title"].title())
-        csv_output.writerow(edge_list)
+        edge_list.sort()
+        weighted_edges.append(edge_list)
+
+edges_and_weights = Counter(map(tuple,weighted_edges))
+
+for edge in edges_and_weights.items():
+    row = list(edge[0])
+    row.append("undirected")
+    row.append(edge[1])
+    csv_output.writerow(row)
 
 clean_up()
