@@ -1,9 +1,14 @@
+time.ods
 *~
 *.swp
-PDFs/
 .Rhistory
 .ropeproject
 *_edges.csv
 *.png
 *.RData
-gephi_files/*
+gephi_files/
+R&D_reviews/
+literature/
+text_files/
+csv_files/
+network_vizs/
