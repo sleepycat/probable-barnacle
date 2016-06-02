@@ -1,0 +1,364 @@
+- title: "BAY-SCALE FILTRATION OF CULTIVATED OYSTERS IN RELATION TO TIDAL FLUSHING AND PHYTOPLANKTON RENEWAL"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["Oysters"]
+  period: "APR. 2010–MAR. 2013"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"King Aquaculture", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Rémi Sonier", "org":"Fisheries and Oceans Canada"},
+    {"name":"Luc Comeau", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"King Aquaculture"}
+  ]
+
+
+- title: "INVESTIGATING POLYDORA OUTBREAK IN NEW BRUNSWICK OFF-BOTTOM CULTURED OYSTERS"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["Polydora"]
+  period: "APR. 2014–MAR. 2016"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Huîtres Aquador Oysters Inc.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Daniel Bourque", "org":"Fisheries and Oceans Canada"},
+    {"name":"Mary Stephenson", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Huîtres Aquador Oysters Inc."}
+  ]
+
+
+- title: "OYSTER CULTURE AS ADDITIONAL PRODUCTION TO SHELLFISH AQUACULTURE"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["Oysters"]
+  period: "OCT. 2011–DEC. 2014"
+  funded_by: [
+    {"org":"Economic Development Canada for Quebec Regions", "program":"undefined"},
+    {"org":"Agriculture, Pêcheries et Alimentation Québec", "program":"Innovamer program"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Lisandre Solomon", "org":"Merinov"}
+  ]
+  project_team: [
+    {"name":"Isabelle Lemieux", "org":"Gaspé Peninsula lead"},
+    {"name":"Carole Cyr", "org":"Gaspé Peninsula lead"},
+    {"name":"Aurelie Licois", "org":"Gaspé Peninsula lead"}
+  ]
+# XXX:Organisation of project team members to be verified
+  collaborators: [
+    {"name":"undefined", "org":"La moule du large Inc."},
+    {"name":"undefined", "org":"Moule de Culture des Îles Inc."}
+  ]
+
+
+- title: "SEDIMENT-COVERED EASTERN OYSTERS, CRASSOSTREA VIRGINICA"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["Oysters"]
+  period: "JUL. 2014–MAR. 2016"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"L’Étang Ruisseau Bar Ltd.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Luc Comeau", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"André Mallet", "org":"L’Étang Ruisseau Bar Ltd."},
+    {"name":"Claire Carver", "org":"L’Étang Ruisseau Bar Ltd."}
+  ]
+  collaborators: [
+    {"name":"Jeffrey Davidson", "org":"University of Prince Edward Island"},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+
+- title: "USE OF EELGRASS AS A MITIGATION STRATEGY FOR EFFECTS OF OCEAN ACIDIFICATION ON OYSTER FARMS"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["Oysters", "eelgrass"]
+  period: "MAY 2014–APR. 2015"
+  funded_by: [
+    {"org":"University of Prince Edward Island", "program":"Canada Excellence Research Chair in Aquatic Epidemiology"}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"Maya Groner", "org":"University of Prince Edward Island"},
+    {"name":"Jeff Davidson", "org":"University of Prince Edward Island"}
+  ]
+  project_team: [
+    {"name":"John Bucci", "org":"University of New Hampshire"},
+    {"name":"Colleen Burge", "org":"University of Maryland"},
+    {"name":"Carolyn Friedman", "org":"University of Washington"},
+    {"name":"Sandy Wyllie-Echeverria", "org":"University of Washington"},
+    {"name":"Ruth Cox", "org":"University of Prince Edward Island"}
+  ]
+  collaborators: [
+  ]
+
+
+- title: "IMPACTS OF AQUACULTURE OPERATIONS ON THE GENETIC HEALTH OF NATURAL POPULATIONS OF THE EASTERN OYSTER, CRASSOSTREA VIRGINICA"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["oyster"]
+  period: "APR. 2013–MAR. 2017"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"L’Étang Ruisseau Bar Ltd.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Mark LaFlamme", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"L’Étang Ruisseau Bar Ltd."}
+  ]
+
+
+- title: "INVESTIGATION INTO THE SURVIVAL AND SPAWNING POTENTIAL OF THE SELECTED F1 OYSTERS - FOLLOW UP TO THE BRAS D’OR LAKES OYSTER BREEDING PROGRAM FOR MSX"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["oyster"]
+  period: "APR. 2013–MAR. 2015"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Eskasoni Fish and Wildlife Commission", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Benedikte Vercaemer", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Eskasoni Fish and Wildlife Commission"}
+  ]
+
+
+- title: "IMPROVING PHYSIOLOGICAL HEALTH OF OYSTERS BY SELECTING SEED FOR STRESS RESILIENCE"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["oyster"]
+  period: "APR. 2014–MAR. 2017"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"L’ Écloserie Acadienne Ltd.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Denise Méthé", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"L’Écloserie Acadienne Ltd."}
+  ]
+
+
+- title: "IMPROVING OYSTER (CRASSOSTREA VIRGINICA) SEEDSTOCK PRODUCTION IN NOVA SCOTIA"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["oyster"]
+  period: "MAR. 2012–OCT. 2012"
+  funded_by: [
+    {"org":"Nova Scotia Department of Fisheries and Aquaculture", "program":"undefined"}
+  ]
+  cofunded_by: [
+    {"org":"Gulf Aquaculture Association", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Jesse Ronquillo", "org":"University of British Columbia"}
+  ]
+  project_team: [
+    {"name":"Audrie-Jo McConkey", "org":"Dalhousie University"}
+  ]
+  collaborators: [
+    {"name":"Paul Budrewski", "org":"Gulf Aquaculture Association"},
+    {"name":"Ronakkumar Desai", "org":"Dalhousie University"}
+  ]
+
+
+- title: "ASSESSMENT OF OYSTER SPAT COLLECTION POTENTIAL IN BOUCTOUCHE BAY, NEW BRUNSWICK"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["oyster"]
+  period: "APR. 2013–MAR. 2015"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Entreprise Baie Acadienne Ltd.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Thomas Guyondet", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Luc Comeau", "org":"Fisheries and Oceans Canada"},
+    {"name":"Marie-Josée Maillet", "org":"Department of Agriculture, Aquaculture and Fisheries"},
+    {"name":"Serge Jolicoeur", "org":"University of Moncton"},
+    {"name":"Dominique Bérubé", "org":"Department of Natural Resources, NB"}
+  ]
+  collaborators: [
+    {"name":"Serge Leblanc", "org":"Entreprise Baie Acadienne Ltd."}
+  ]
+
+
+- title: "ASSESSING SEASONAL VARIATIONS IN THE PHYSIOLOGICAL HEALTH OF THE EASTERN OYSTER, CRASSOSTREA VIRGINICA"
+  year: "2015"
+  category: ["Oysters"]
+  species: [""]
+  period: "APR. 2012–MAR. 2015"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"La Maison BeauSoleil Inc.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Daniel Bourque", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"La Maison BeauSoleil Inc."}
+  ]
+
+
+- title: "DEVELOPMENT OF TOOLS TO EVALUATE AMERICAN OYSTER, CRASSOSTREA VIRGINICA, SHELF LIFE"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["Oyster"]
+  period: "APR. 2011–MAR. 2013"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"La Maison BeauSoleil Inc.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Daniel Bourque", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"La Maison BeauSoleil Inc."}
+  ]
+
+
+- title: "DEVELOPMENT OF A MODIFIED ASSAY FOR USE IN TEMPERATE WATERS AND ITS APPLICATION THROUGH AN ASSESSMENT OF STRESS TOLERANCES AMONG OYSTER STOCKS (CRASSOSTREA VIRGINICA) WITH VARYING LEVELS OF HETEROZYGOSITY"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["Oyster"]
+  period: "APR. 2011–MAR. 2013"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Elsipogtog Fisheries", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Carla Hicks", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Elsipogtog Fisheries"}
+  ]
+
+
+- title: "DIETS OF BOTTOM AND SUSPENDED OYSTERS"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["Oyster"]
+  period: "MAY 2012–MAR. 2015"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Program for Aquaculture Regulatory Research"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Rémi Sonier", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Luc Comeau", "org":"Fisheries and Oceans Canada"},
+    {"name":"Thomas Guyondet", "org":"Fisheries and Oceans Canada"},
+    {"name":"Réjean Tremblay", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski"}
+  ]
+  collaborators: [
+  ]
+
+
+- title: "EARLY CONDITIONING OF AMERICAN OYSTER (CRASSOSTREA VIRGINICA)"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["Oyster"]
+  period: "APR. 2014–APR. 2015"
+  funded_by: [
+    {"org":"New Brunswick Department of Agriculture, Aquaculture and Fisheries", "program":"undefined"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Rémy Haché", "org":"Coastal Zones Research Institute"}
+  ]
+  project_team: [
+    {"name":"Mélanie DeGrâce", "org":"Coastal Zones Research Institute"},
+    {"name":"Raoul Lanteigne", "org":"Coastal Zones Research Institute"},
+    {"name":"Pascale Comeau", "org":"Coastal Zones Research Institute"},
+    {"name":"André Dumas", "org":"Coastal Zones Research Institute"}
+  ]
+  collaborators: [
+  ]
+
+
+- title: "AMERICAN OYSTER (CRASSOSTREA VIRGINICA) GENETIC SELECTION PROGRAM AT THE COASTAL ZONES RESEARCH INSTITUTE"
+  year: "2015"
+  category: ["Oysters"]
+  species: ["Oyster"]
+  period: "MAY 2012–AUG. 2014"
+  funded_by: [
+    {"org":"New Brunswick Department of Agriculture, Aquaculture and Fisheries", "program":"undefined"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Rémy Haché", "org":"Coastal Zones Research Institute"}
+  ]
+  project_team: [
+    {"name":"Mélanie DeGrâce", "org":"Coastal Zones Research Institute"},
+    {"name":"Raoul Lanteigne", "org":"Coastal Zones Research Institute"},
+    {"name":"Pascale Comeau", "org":"Coastal Zones Research Institute"}
+  ]
+  collaborators: [
+  ]
+
