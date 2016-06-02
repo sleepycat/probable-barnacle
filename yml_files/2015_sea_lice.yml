@@ -1,0 +1,47 @@
+- title: "VARIATION IN SEA LICE SETTLEMENT WITHIN AND BETWEEN FAMILIES OF COMMERCIALLY REARED SAINT JOHN RIVER STOCK ATLANTIC SALMON"
+  period: "OCT. 2010 - SEP. 2015"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice", "salmon"]
+  funded_by: [{"org": "Atlantic Canada Opportunities Agency", "program": "Atlantic Innovation Fund"}]
+  cofunded_by: [{"org":"New Brunswick Innovation Foundation", "program": "undefined", "country": "Canada"}, {"org": "Northern Harvest Sea Farms NL Ltd.", "program": "undefined", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "program": "undefined", "country": "Canada"}]
+  project_lead: [{"name":"Amber Garber", "org": "Huntsman Marine Science Centre", "country":"Canada"}]
+  project_team: [{"name":"Susan Hodkinson", "org":"Huntsman Marine Science Centre", "country":"Canada"},{"name":"Chris Bridger", "org":"Huntsman Marine Science Centre", "country":"Canada"}, {"name": "Jane Tosh", "org": "University of Guelph", "country": "Canada"}, {"name": "Aaron Craig", "org": "Northern Harvest Sea Farms NL Ltd.", "country": "Canada"}, {"name": "Robin Muzzerall", "org": "Northern Harvest Sea Farms NL Ltd.", "country": "Canada"}]
+  collaborators: []
+  contact: ["agarber@huntsmanmarine.ca"]
+
+- title: "PREDICTING TRANSMISSION OF SEA LICE BETWEEN AQUACULTURE SITES IN THE EAST COAST OF CANADA"
+  period: "MAY 2014 - APR. 2015"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice", "salmon"]
+  funded_by: [{"org": "Canada Excellence Research Chair", "program": "University of Prince Edward Island Aquatic Epidemiology"}]
+  cofunded_by: []
+  project_lead: [{"name":"Raphael Vanderstichel", "org": "University of Prince Edward Island", "country":"Canada"}]
+  project_team: [{"name":"Fred Page", "org":"Department of Fisheries and Oceans", "country":"Canada"},{"name":"Erin Rees", "org":"University of Prince Edward Island", "country":"Canada"}, {"name": "Larry Hammell", "org": "University of Prince Edward Island", "country": "Canada"}, {"name": "Crawford Revie", "org": "University of Prince Edward Island", "country": "Canada"}, {"name": "Sophie St. Hilaire", "org": "University of Prince Edward Island", "country": "Canada"}]
+  collaborators: []
+  contact: ["rvanderstich@upei.ca"]
+
+- title: "DEVELOPING A NON-CHEMICAL MEANS TO EFFECTIVELY REMOVE ALL FORMS OF SEA LICE FROM AQUACULTURE SALMON USING WARM WATER"
+  period: "APR. 2014 - MAR. 2016"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["salmon", "sea lice"]
+  funded_by: [{"org": "Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}]
+  cofunded_by: [{"org": "Kelly Cove Salmon Ltd."}]
+  project_lead: [{"name":"Shawn Robinson", "org": "Department of Fisheries and Oceans", "country":"Canada"}]
+  project_team: [{"name":"Steve Neil", "org":"Department of Fisheries and Oceans", "country":"Canada"}, {"name":"Keng Pee Ang", "org":"Kelly Cove Salmon Ltd.", "country":"Canada"}]
+  collaborators: [{"name": "undefined", "org": "Kelly Cove Salmon Ltd.", "country": "Canada"}]
+  contact: ["shawn.robinson@dfo-mpo.gc.ca"]
+
+- title: "FIELD TESTING “GREEN TECHNOLOGY” SEA LICE TRAPS AND DOCUMENTING ON-SITE DYNAMICS OF SEA LICE EARLY LIFE HISTORY"
+  period: "APR. 2012 - MAR. 2014"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice"]
+  funded_by: [{"org": "Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}]
+  cofunded_by: [{"org": "Kelly Cove Salmon Ltd."}]
+  project_lead: [{"name":"Shawn Robinson", "org": "Department of Fisheries and Oceans", "country":"Canada"}]
+  project_team: [{"name":"Frank Powell", "org":"Cooke Aquaculture", "country":"Canada"}]
+  collaborators: [{"name": "Keng Pee Ang","org":"Kelly Cove Salmon Ltd.", "country":"Canada"}]
+  contact: ["shawn.robinson@dfo-mpo.gc.ca"]
