@@ -39,8 +39,11 @@ def extract_organizations(orgs):
     return set([org["org"] for org in orgs])
 
 for project in dataset:
-    all_the_funding_orgs = extract_funding_orgs(project)
-    organizations = extract_organizations(all_the_funding_orgs)
+    try:
+        all_the_funding_orgs = extract_funding_orgs(project)
+        organizations = extract_organizations(all_the_funding_orgs)
+    except KeyError:
+        print(project["title"])
     edges = itertools.combinations(organizations, 2)
     for edge in edges:
         edge_list = list(edge)
