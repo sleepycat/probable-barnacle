@@ -39,8 +39,11 @@ def extract_names(people):
     return set([person["name"] for person in people])
 
 for project in dataset:
-    all_the_people = extract_people(project)
-    names = extract_names(all_the_people)
+    try:
+        all_the_people = extract_people(project)
+        names = extract_names(all_the_people)
+    except KeyError:
+        print(project["title"])
     edges = itertools.combinations(names, 2)
     for edge in edges:
         edge_list = list(edge)
