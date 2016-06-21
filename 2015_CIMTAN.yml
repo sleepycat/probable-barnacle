@@ -336,7 +336,7 @@
     {"name":"Geoff McBriarty", "org":"University of New Brunswick Saint John"}
   ]
   collaborators: [
-    {"name":"", "org":"Grieg Seafood BC Ltd."}
+    {"name":"undefined", "org":"Grieg Seafood BC Ltd."}
   ]
 
 - title: "QUANTIFYING THE CAPTURE AND CONVERSION EFFICIENCIES OF SPECIES BEING CONSIDERED FOR ORGANIC EXTRACTION IN OPEN-WATER IMTA SYSTEMS"
@@ -556,6 +556,8 @@
   period: "JAN. 2010–DEC. 2015"
   funded_by: [
     {"org":"Natural Sciences and Engineering Research Council", "program":"Strategic Network Program"}
+  ]
+  cofunded_by: [
   ]
   project_lead: [
     {"name":"Grant Murray", "org":"Vancouver Island University"}
