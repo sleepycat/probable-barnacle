@@ -1,0 +1,1273 @@
+- title: "PATHOGEN SUSCEPTIBILITY OF SOCKEYE SALMON – PHASE 1: INFECTIOUS SALMON ANEMIA (ISAV) AND ALPHAVIRUS (SPDV)"
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: "APR. 2014–MAR. 2018"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Nellie Gagné", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Francis Leblanc", "org":"Fisheries and Oceans Canada"},
+    {"name":"Phil Byrne", "org":"Fisheries and Oceans Canada"},
+    {"name":"Diane Morrison", "org":"Marine Harvest Canada"}
+  ]
+  collaborators: [
+  ]
+
+
+- title: "STUDY OF GENOMIC DIVERSITY IN AEROMONAS SALMONICIDA, THE ETIOLOGICAL AGENT THAT CAUSES FURUNCULOSIS, TO ESTABLISH ITS RESISTOME, EPIDEMIOLOGICAL MARKERS AND POTENTIAL TREATMENTS"
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: "NOV. 2012–MAR. 2019"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council of Canada", "program":"undefined"}
+  ]
+  cofunded_by: [
+    {"org":"Ressources Aquatiques Québec", "program":"undefined"},
+    {"org":"Ministère de l’agriculture, des pêcheries et de l’alimentation du Québec", "program":"Innovamer"},
+    {"org":"Société de recherche et de développement en aquaculture continentale", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Steve Charette", "org":"Université Laval"}
+  ]
+  project_team: [
+    {"name":"Antony Vincent", "org":"Université Laval"},
+    {"name":"Valérie Paquet", "org":"Université Laval"},
+    {"name":"Mélanie Trudel", "org":"Université Laval"},
+    {"name":"Katherine Tanaka", "org":"Université Laval"},
+    {"name":"Jean-Guillaume Edmond-Rheault", "org":"Université Laval"},
+    {"name":"Sabrina Attéré", "org":"Université Laval"}
+  ]
+  collaborators: [
+    {"name":"Nicolas Derome", "org":"Université Laval"},
+    {"name":"Michel Frenette", "org":"Université Laval"},
+    {"name":"Andrée Lafaille", "org":"Université de Montréal"}
+  ]
+
+
+- title: "ESTIMATING THE POTENTIAL FOR WATERBORNE TRANSMISSION OF INFECTIOUS HEMATOPOIETIC NECROSIS VIRUS (IHNV) BETWEEN SALMON FARMS AND WILD SOCKEYE IN THE DISCOVERY ISLANDS, BRITISH COLUMBIA"
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: "JUN. 2013–APR. 2015"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Marine Harvest Canada", "program":"undefined"},
+    {"org":"Grieg Seafood", "program":"undefined"},
+    {"org":"Cermaq", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Kyle Garver", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Mike Foreman", "org":"Fisheries and Oceans Canada"}
+  ]
+  collaborators: [
+    {"name":"Barry Milligan", "org":"undefined"},
+    {"name":"Diane Morrison", "org":"undefined"},
+    {"name":"Peter McKenzie", "org":"undefined"}
+  ]
+
+
+- title: "DETERMINATION OF CRYPTOSPORIDIUM SPP. OOCYST LEVELS IN THE HILLSBOROUGH RIVER, PRINCE EDWARD ISLAND"
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: "MAY 2014–APR. 2015"
+  funded_by: [
+    {"org":"University of Prince Edward Island", "program":"Canada Excellence Research Chair in Aquatic Epidemiology"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Spencer Greenwood", "org":"University of Prince Edward Island"}
+  ]
+  project_team: [
+    {"name":"Javier Sanchez", "org":"University of Prince Edward Island"},
+    {"name":"Henrik Stryhn", "org":"University of Prince Edward Island"},
+    {"name":"T. McClure", "org":"University of Prince Edward Island"},
+    {"name":"Jeffrey Davidson", "org":"University of Prince Edward Island"},
+    {"name":"Jessica Willis", "org":"University of Prince Edward Island"}
+  ]
+  collaborators: [
+    {"name":"Juan Aguirre Garcia", "org":"undefined"}
+  ]
+
+
+- title: "INFECTIOUS SALMON ANEMIA VIRUS SUSCEPTIBILITY AND HEALTH STATUS OF WILD VERSUS CULTURED ATLANTIC SALMON: A COMPARATIVE STUDY"
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: "APR. 2014–MAR. 2017"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Nellie Gagné", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Francis Leblanc", "org":"Fisheries and Oceans Canada"},
+    {"name":"Gérald Chaput", "org":"Fisheries and Oceans Canada"},
+    {"name":"Steven Leadbeater", "org":"Fisheries and Oceans Canada"},
+    {"name":"Royce Steves", "org":"Fisheries and Oceans Canada"}
+  ]
+  collaborators: [
+    {"name":"John Whitelaw", "org":"Fisheries and Oceans Canada"},
+    {"name":"Mark Hambrook", "org":"Miramichi Salmon Association"},
+    {"name":"Darryl Murrant", "org":"Nova Scotia Department of Fisheries & Aquaculture"}
+    {"name":"Darryl Murrant", "org":"Margaree Fish Hatchery"}
+# XXX:Darryl Murrant is from 2 organizations: NS DFA and Margaree Fish Hatchery
+# XXX: Does this imply that those 2 organizations are collaborating?
+  ]
+
+
+- title: "INVESTIGATING PROBIOTIC BACTERIA AND THEIR BACTERIOCINS AS PART OF A DISEASE MANAGEMENT STRATEGY IN SALMON AQUACULTURE"
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: "APR. 2014–MAR. 2015"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Cermaq Canada", "program":"undefined"},
+    {"org":"Marine Harvest Canada", "program":"undefined"},
+    {"org":"National Strategic Research and Engineering Council", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Simon Jones", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Peter McKenzie", "org":"Cermaq Canada"},
+    {"name":"Diane Morrison", "org":"Marine Harvest Canada"},
+    {"name":"Marije Booman", "org":"Fisheries and Oceans Canada"},
+    {"name":"John Vederas", "org":"University of Alberta"},
+    {"name":"Lynn McMullen", "org":"University of Alberta"}
+  ]
+  collaborators: [
+    {"name":"Cermaq Canada", "org":"undefined"},
+    {"name":"Marine Harvest Canada", "org":"undefined"}
+  ]
+
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+DOES CHALLENGE WITH THE BRITISH COLUMBIA STRAIN OF PISCINE REOVIRUS AFFECT ATLANTIC OR SOCKEYE SALMON?
+APR. 2013–MAR. 2015
+FUNDED BY: 
+DFO – Aquaculture Collaborative Research and Development Program (DFO – ACRDP) 
+CO-FUNDED BY: 
+Marine Harvest Canada
+PROJECT LEAD:
+Stewart Johnson (DFO)
+PROJECT TEAM: 
+Kyle Garver (DFO)
+Diane Morrison (Marine Harvest Canada)
+COLLABORATORS: 
+Marine Harvest Canada
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+COMPARISON OF FIELD ISOLATES OF MORITELLA VISCOSA: CHARACTERIZATION AND IN VIVO CHALLENGE MODEL DEVELOPMENT TO ADDRESS WINTER ULCER MITIGATION IN CANADA
+APR. 2014–MAR. 2015
+FUNDED BY: 
+DFO – Aquaculture Collaborative Research and Development Program (DFO – ACRDP)
+CO-FUNDED BY: 
+Cooke Aquaculture Inc.
+Novartis Animal Health Canada Inc.
+PROJECT LEAD: 
+Steven Leadbeater (DFO)
+PROJECT TEAM:
+Anthony Manning (RPC);
+Leighanne Hawkins (Cooke Aquaculture Inc.);
+Allison MacKinnon (Novartis Animal Health Canada Inc.)
+COLLABORATORS: 
+Cooke Aquaculture Inc.,
+Novartis Animal Health Canada Inc.
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+LOW PATHOGENIC INFECTIOUS SALMON ANEMIA VIRUS (ISAV) IN VIVO: A COMPARATIVE GENOMIC STUDY
+APR. 2011–MAR. 2015
+FUNDED BY: 
+DFO – Aquaculture Collaborative Research and Development Program (DFO – ACRDP) 
+CO-FUNDED BY: 
+Kelly Cove Salmon Ltd.
+PROJECT LEAD: 
+Nellie Gagné (DFO)
+PROJECT TEAM: 
+Mark LaFlamme (DFO)
+Francis Leblanc (DFO)
+Mélanie Roy (DFO)
+Keng Pee Ang (Kelly Cove Salmon Ltd.)
+COLLABORATORS: 
+Kelly Cove Salmon Ltd.
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+DESCRIPTION OF OCEANOGRAPHIC CONDITIONS WITHIN HERMITAGE BAY, NEWFOUNDLAND, AT SITES WITH AND WITHOUT THE OCCURRENCE OF ISA OUTBREAK
+APR. 2014–MAR. 2015
+FUNDED BY: 
+DFO – Aquaculture Collaborative Research and Development Program (DFO – ACRDP) 
+CO-FUNDED BY: 
+Cold Ocean Salmon
+Newfoundland Aquaculture Industry Alliance (NAIA)
+PROJECT LEAD: Andry Ratsimandresy (DFO)
+PROJECT TEAM: 
+Sebastien Donnet (DFO)
+Kevin Le Morzadec (DFO)
+Julia Bungay (Cold Ocean Salmon)
+Miranda Pryor (NAIA)
+COLLABORATORS: 
+Cold Ocean Salmon, NAIA
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+DEVELOPMENT OF A NOVEL RNA-BASED TREATMENT AGAINST THE INFECTIOUS SALMON ANEMIA VIRUS (ISAV)
+APR. 2009–MAR. 2013
+FUNDED BY: 
+DFO – Aquaculture Collaborative Research and Development Program (DFO – ACRDP) 
+CO-FUNDED BY: 
+Kelly Cove Salmon Ltd.
+PROJECT LEAD: Mark LaFlamme (DFO)
+PROJECT TEAM: 
+Nellie Gagné (DFO)
+Gilles Robichaud (U Moncton)
+Keng Pee Ang (Kelly Cove Salmon Ltd.)
+COLLABORATORS: 
+Kelly Cove Salmon Ltd.
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+FIELD VALIDATION OF DIETARY MEDICATION TO REDUCE THE SEVERITY OF KUDOA THYRSITES IN FARMED ATLANTIC SALMON
+APR. 2011–OCT. 2013
+FUNDED BY: 
+DFO – Aquaculture Collaborative Research and Development Program (DFO – ACRDP) 
+CO-FUNDED BY:
+Marine Harvest Canada
+PROJECT LEAD: 
+Simon Jones (DFO)
+COLLABORATORS: 
+Marine Harvest Canada
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+IDENTIFICATION AND TREATMENT OF GYRODACTYLID INFECTIONS IN CULTURED WOLF-EELS (ANARRHICHTHYS OCELLATUS)
+APR. 2012–MAR. 2013
+FUNDED BY: 
+DFO – Aquaculture Collaborative Research and Development Program (DFO – ACRDP) 
+CO-FUNDED BY:
+Kyuquot SEAfoods Ltd.
+Vancouver Aquarium
+PROJECT LEAD: 
+Simon Jones (DFO)
+COLLABORATORS: 
+Kyuquot SEAfoods Ltd.;
+Vancouver Aquarium
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+DOES INFECTION WITH PISCINE REOVIRUS (PRV) EFFECT HOW SALMON RESPOND TO CHALLENGE WITH AND VACCINATION AGAINST INFECTIOUS HEMATOPOIETIC NECROSIS VIRUS (IHNV)?
+SEP. 2014–DEC. 2016
+FUNDED BY:
+DFO – Program for Aquaculture Regulatory Research (DFO – PARR)
+PROJECT LEAD: 
+Stewart Johnson (DFO)
+Kyle Garver (DFO)
+PROJECT TEAM: 
+Jon Richards (DFO)
+Julia Bradshaw (DFO)
+COLLABORATORS: 
+Mathew Rise (MUN)
+Rune Adnreassen (Oslo and Akershus University College of Applied Sciences)
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+THE EFFECTS OF PRIOR EXPOSURE AND BODY SIZE ON THE INTENSITY OF KUDOA THYRSITES INFECTIONS IN ATLANTIC SALMON
+APR. 2013–MAR. 2015
+FUNDED BY: 
+DFO – Aquaculture Collaborative Research and Development Program (DFO – ACRDP) 
+CO-FUNDED BY: 
+Marine Harvest Canada
+Mainstream Canada
+PROJECT LEAD: 
+Simon Jones (DFO)
+COLLABORATORS: 
+Marine Harvest Canada
+Mainstream Canada
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+FISH PEST AND PATHOGEN CULTURED TO WILD TRANSFER POTENTIAL: STOCKING DENSITY EFFECT
+MAR. 2014–MAR. 2017
+FUNDED BY: 
+DFO – Program for Aquaculture Regulatory Research (DFO – PARR)
+PROJECT LEAD:
+Fred Page (DFO)
+Nellie Gagné (DFO)
+PROJECT TEAM: 
+Blythe Chang (DFO)
+Francis Leblanc (DFO)
+Steven Leadbeater (DFO)
+Kyle Garver (DFO)
+COLLABORATORS: 
+Michael Beattie (NBAAF)
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+IDENTIFICATION OF VECTORS OF MSX TO SUPPORT I&T DECISIONS RELATED TO INTERPROVINCIAL MOVEMENTS OF MUSSELS: IS MUSSEL INTRA-VALVULAR LIQUID A VECTOR FOR MSX TRANSMISSION?
+APR. 2013–MAR. 2015
+FUNDED BY: 
+DFO – Program for Aquaculture Regulatory Research (DFO – PARR)
+PROJECT LEAD: 
+Mary Stephenson (DFO)
+CONTACT: 
+Mary.Stephenson@dfo-mpo.gc.ca
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+SALMON PANCREAS DISEASE (ALPHAVIRUS) CHALLENGE AND VALIDATION OF RT-qPCR AND VIROLOGY TESTING
+APR. 2012–MAR. 2015
+FUNDED BY: 
+DFO – Centre for Aquatic Animal Health Research and Diagnostics (DFO – CAAHRD)
+PROJECT LEAD: 
+Nellie Gagné (DFO)
+PROJECT TEAM: 
+Phil Byrne (DFO)
+Mark Laflamme (DFO)
+Melanie Roy (DFO)
+COLLABORATORS:
+Nils Stein (Pharmaq)
+Ann Aas Eng (Pharmaq)
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+VALIDATION OF A REVERSE TRANSCRIPTION QUANTITATIVE POLYMERASE CHAIN REACTION (RT-qPCR) ASSAY TO DETECT INFECTIOUS PANCREATIC NECROSIS VIRUS (IPNV)
+APR. 2012–MAR. 2014
+FUNDED BY: 
+DFO – Centre for Aquatic Animal Health Research and Diagnostics (DFO – CAAHRD)
+PROJECT LEAD: 
+Sharon Clouthier (DFO)
+CONTACT: 
+Sharon.Clouthier@dfo-mpo.gc.ca
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+DESIGN OF PROTOCOLS FOR THE OZONE DISINFECTION OF FISH EGGS FOR ERADICATION OF VERTICALLY TRANSMITTED DISEASES
+APR. 2010–MAR. 2013
+FUNDED BY: 
+DFO – Aquaculture Collaborative Research and Development Program (ACRDP)
+CO-FUNDED BY: 
+Newfoundland Cod Broodstock Company
+PROJECT LEAD: 
+Dounia Hamoutene (DFO)
+PROJECT TEAM: 
+Jessica Fry
+Cyr Couturier (MUN)
+Juan Carlos Perez-Casanova
+Lynn Lush (DFO)
+Andy Walsh (Sapphire Sea Farms)
+COLLABORATORS: 
+Newfoundland Cod Broodstock Company
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+REFINEMENT OF AN INFECTIOUS HEMATOPOIETIC NECROSIS VIRUS DISPERSION MODEL FOR THE DISCOVERY ISLANDS AREA AND AN EXTENSION TO WEST COAST OF VANCOUVER ISLAND
+APR. 2011–MAR. 2013
+FUNDED BY: 
+DFO – Aquaculture Collaborative Research and Development Program (DFO – ACRDP) 
+CO-FUNDED BY: 
+Grieg Seafoods
+Mainstream Canada
+Marine Harvest
+PROJECT LEAD: 
+Kyle Garver (DFO)
+COLLABORATORS: 
+Grieg Seafoods;
+Mainstream Canada; 
+Marine Harvest
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+RAPID DETECTION OF REPLICATING INFECTIOUS SALMON ANEMIA VIRUS – PHASE 2
+APR. 2013–MAR. 2015
+FUNDED BY: 
+DFO – Centre for Aquatic Animal Health Research and Diagnostics (DFO – CAAHRD)
+PROJECT LEAD: 
+Mark LaFlamme (DFO)
+PROJECT TEAM: 
+Nellie Gagné
+Jean-René Arseneau (DFO)
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+REFERENCE GENE MEASUREMENT AS A PROXY FOR VIRUS DEGRADATION
+APR. 2013–MAR. 2014
+FUNDED BY: 
+DFO – Centre for Aquatic Animal Health Research and Diagnostics (DFO – CAAHRD)
+PROJECT LEAD: 
+Nellie Gagné (DFO)
+PROJECT TEAM: 
+Mark Laflamme,
+Mélanie Robichaud-Haché (DFO)
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+SUB-CLINICAL EFFECTS AND METABOLISM OF THE FEEDBORNE FUSARIUM MYCOTOXIN DEOXYNIVALENOL (DON) IN RAINBOW TROUT
+SEP. 2010–NOV. 2014
+FUNDED BY: Biomin (B.R.A.I.N. program)
+PROJECT LEAD: 
+Dominique Bureau (U Guelph)
+PROJECT TEAM: 
+Jamie Hooft (University of Guelph) 
+Cristina Ferreira (University of Guelph)
+John Lumsden (University of Guelph)
+John Cant (University of Guelph)
+James Squires (University of Guelph)
+Yanping Lou (University of Guelph)
+COLLABORATORS: 
+Rudolf Krska (U Natural Resources and Life Sciences, Vienna)
+Michael Sulyok (U Natural Resources and Life Sciences, Vienna)
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+DETERMINING THE LONG TERM VIABILITY OF WHITE SPOT DISEASE IN LOBSTER EXPERIMENTALLY INFECTED THROUGH DIET
+APR. 2013–MAR. 2014
+FUNDED BY: 
+DFO – Centre for Aquatic Animal Health Research and Diagnostics (DFO – CAAHRD)
+PROJECT LEAD: 
+Phil Byrne (DFO)
+PROJECT TEAM: 
+Mark LaFlamme (DFO)
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+CONFIRMATION OF THE VIABILITY AND INFECTIVITY OF WSSV-INFECTED SHRIMP USED IN A FEED CHALLENGE TRIAL INVOLVING AMERICAN LOBSTER
+MAY 2014–MAR. 2015
+FUNDED BY: 
+DFO – Centre for Aquatic Animal Health Research and Diagnostics (DFO – CAAHRD)
+PROJECT LEAD: Phil Byrne (DFO)
+PROJECT TEAM: Mark LaFlamme (DFO)
+CONTACT: Phil.Byrne@dfo-mpo.gc.ca
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+THE USE OF RNAlater FOR THE INACTIVATION OF THE INFECTIOUS SALMON ANEMIA VIRUS
+APR. 2013–MAR. 2015
+FUNDED BY: 
+DFO – Centre for Aquatic Animal Health Research and Diagnostics (DFO – CAAHRD)
+PROJECT LEAD: 
+Mark LaFlamme (DFO)
+PROJECT TEAM: 
+Nellie Gagné (DFO)
+Jean-René Arseneau (DFO) 
+Adrien Boudreau (DFO)
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+DEVELOPMENT AND DIAGNOSTIC VALIDATION OF A qPCR ASSAY TO DETECT MIKROCYTOS MACKINI
+MAY 2007–MAR. 2015
+FUNDED BY: 
+DFO – Centre for Aquatic Animal Health Research and Diagnostics (DFO – CAAHRD)
+PROJECT LEAD: 
+Cathryn Abbott (DFO)
+PROJECT TEAM: 
+Gary Meyer (DFO)
+Geoff Lowe (DFO)
+COLLABORATORS: 
+Charles Caraguel (U Adelaide)
+Nils Toft (Technical University of Denmark)
+Serge Corbeil (CSIRO, Australia)
+Axel Colling (CSIRO, Australia)
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+MEGALOCYTIVIRUS/RED SEA BREAM IRIDOVIRUS QUANTITATIVE PCR ASSAY DEVELOPMENT: PHASE I – MEGALOCYTIVIRUS ISOLATE COLLECTION, VIRUS AMPLIFICATION, AND STAKEHOLDER CONSULTATION
+MAY 2013–MAR. 2015
+FUNDED BY: 
+DFO – Centre for Aquatic Animal Health Research and Diagnostics (DFO – CAAHRD)
+PROJECT LEAD: 
+Sharon Clouthier (DFO)
+PROJECT TEAM: 
+Tamara Schroeder (DFO)
+Adrian Zetner (DFO)
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+ESTABLISH AN EXPERIMENTAL HOST-PATHOGEN MODEL INVOLVING RED SEA BREAM IRIDOVIRAL DISEASE AGENT (RSIV) IN FINFISH AND PRODUCE RSIV-INFECTED TISSUE
+MAY 2013–MAR. 2015	
+FUNDED BY: 
+DFO – Centre for Aquatic Animal Health Research and Diagnostics (DFO – CAAHRD)
+PROJECT LEAD: Phil Byrne (DFO)
+
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+REVERSE TRANSCRIPTION QUANTITATIVE POLYMERASE CHAIN REACTION (RT-qPCR) DIAGNOSTIC ASSAY FOR DETECTION OF SPRING VIREMIA OF CARP VIRUS (SVCV) – DIAGNOSTIC VALIDATION PHASE IIA (SAMPLE GENERATION AND DISTRIBUTION)
+MAY 2013–APR. 2016
+FUNDED BY: 
+DFO – Centre for Aquatic Animal Health Research and Diagnostics (DFO – CAAHRD)
+PROJECT LEAD: 
+Sharon Clouthier (DFO)
+PROJECT TEAM: 
+Adrian Zetner
+Tamara Schroeder (DFO)
+COLLABORATORS: 
+Carol McClure (AVC)
+
+- title: ""
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+
+THE EPIDEMIOLOGY OF WINTER ULCER DISEASE IN FARMED ATLANTIC SALMON IN CANADA
+SEP. 2014–JUN. 2015
+FUNDED BY: Canada Excellence Research Chair (CERC) – Aquatic Epidemiology, UPEI
+PROJECT LEAD: 
+Sophie St. Hilaire (UPEI)
+PROJECT TEAM: 
+Allison MacKinnon (Novartis)
+COLLABORATORS: 
+Novartis
+
+- title: "RAPID DETECTION OF REPLICATING INFECTIOUS SALMON ANEMIA VIRUS"
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: "APR. 2013–MAR. 2015"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Centre for Aquatic Animal Health Research and Diagnostics"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Mark LaFlamme", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Jean René Arseneau", "org":"Fisheries and Oceans Canada"},
+    {"name":"Nellie Gagné", "org":"Fisheries and Oceans Canada"},
+    {"name":"Mélanie Roy", "org":"Fisheries and Oceans Canada"}
+  ]
+  collaborators: [
+  ]
+
+
+- title: "DETERMINE IF THE PRESENCE OF HPR0 GENOMIC MATERIAL (DETECTED USING RT-qPCR IS ASSOCIATED WITH THE CONCURRENT PHYSICAL PRESENCE OF VIRAL MATERIAL (I.E., DISTINCT VIRIONS OR PARTIAL VIRUS ASSEMBLY, EVIDENCE OF VIRUS REPLICATION AND LOCALIZED TISSUES OR CELL-SPECIFIC PATHOLOGICAL CHANGES) THAT IS CONSISTENT WITH INFECTIOUS SALMON ANAEMIA VIRUS (ISAV)"
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: "MAY 2013–MAR. 2015"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Centre for Aquatic Animal Health Research and Diagnostics"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Phil Byrne", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Nellie Gagné", "org":"Fisheries and Oceans Canada"}
+  ]
+  collaborators: [
+  ]
+
+
+- title: "DEVELOPMENT OF ARTIFICIAL REFERENCE MATERIAL FOR ASSESSING IHNV AND VHSV RT-qPCR ASSAYS"
+  year: "2015"
+  category: ["Fish health"]
+  species: [""]
+  period: "MAY 2014–MAR. 2015"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Centre for Aquatic Animal Health Research and Diagnostics"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Kyle Garver", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+  ]
