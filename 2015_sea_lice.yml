@@ -45,3 +45,100 @@
   project_team: [{"name":"Frank Powell", "org":"Cooke Aquaculture", "country":"Canada"}]
   collaborators: [{"name": "Keng Pee Ang","org":"Kelly Cove Salmon Ltd.", "country":"Canada"}]
   contact: ["shawn.robinson@dfo-mpo.gc.ca"]
+
+- title: "AN INVESTIGATION OF THE RELATIONSHIP BETWEEN ENVIRONMENTAL PARAMETERS, OCEANOGRAPHIC ZONES OF INFLUENCE, AND THE PREVALENCE OF PARASITIC COPEPODS ON THREE-SPINE STICKLEBACK IN BAY D’ESPOIR NEWFOUNDLAND WITH SPECIFIC REFERENCE TO SALMONID AQUACULTURE SITES"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["three-spine stickleback", "sea lice"]
+  period: "APR. 2014 – MAR. 2016"
+  funded_by: [
+    {"org":"Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Cold Ocean Salmon Inc.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Harry Murray", "org":"Department of Fisheries and Oceans"}
+  ]
+  project_team: [
+    {"name":"Andry Ratsimandresy", "org":"Department of Fisheries and Oceans"},
+    {"name":"Alexandra Eaves", "org":"Department of Fisheries and Oceans"},
+    {"name":"Sebastien Donnet", "org":"Department of Fisheries and Oceans"},
+    {"name":"Dwight Drover", "org":"Department of Fisheries and Oceans"},
+    {"name":"Sharon Kenny", "org":"Department of Fisheries and Oceans"},
+    {"name":"Dwight Drover", "org":"Department of Fisheries and Oceans"},
+    {"name":"Keng Pee Ang", "org":"Cold Ocean Salmon Inc."}
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Cold Ocean Salmon Inc."}
+  ]
+
+- title: "ASSESSING SENSITIVITY TO EMAMECTIN BENZOATE (SLICE®) IN SEA LICE LEPEOPHTHEIRUS SALMONIS FROM FARMED ATLANTIC SALMON IN BRITISH COLUMBIA"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice", "salmon"]
+  period: "APR. 2014 – MAR. 2015"
+  funded_by: [
+    {"org":"Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Marine Harvest Canada Inc.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Simon Jones", "org":"Department of Fisheries and Oceans"}
+  ]
+  project_team: [
+    {"name":"Simon Jones", "org":"Department of Fisheries and Oceans"},
+    {"name":"Brad Boyce", "org":"Marine Harvest Canada Inc."},
+    {"name":"Diane Morrison", "org":"Marine Harvest Canada Inc."}
+  ]
+  collaborators: [
+    {"org":"Marine Harvest Canada Inc.", "name":"undefined"}
+  ]
+
+- title: "MONITORING AND MODELLING OF SEA LICE INTERACTION WITH WILD AND FARMED SALMON IN THE BROUGHTON ARCHIPELAGO"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice", "salmon"]
+  period: "APR. 2012 – MAR. 2014"
+  funded_by: [
+    {"org":"Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Marine Harvest Canada Inc.", "program":"undefined"},
+    {"org":"Grieg Seafood BC", "program":"undefined"},
+    {"org":"Mainstream Canada", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Peter Chandler", "org":"Department of Fisheries and Oceans"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+    {"org":"Marine Harvest Canada Inc.", "name":"undefined"},
+    {"org":"Grieg Seafood BC", "name":"undefined"},
+    {"org":"Mainstream Canada", "name":"undefined"}
+  ]
+
+- title: "EVALUATION OF THE SEASONAL ABUNDANCE, PREVALENCE AND SPECIES DIVERSITY OF SEA LICE ON NON-SALMONID MARINE FISH SPECIES FROM BAY D’ESPOIR, NEWFOUNDLAND, WITH SPECIFIC REFERENCE TO AREAS NEIGHBOURING ATLANTIC SALMON CAGE SITES"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice", "salmon", "atlantic cod", "pollock", 'herring', "mackerel", "stickleback"]
+  period: "APR. 2013 – MAR. 2014"
+  funded_by: [
+    {"org":"Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Cold Ocean Salmon Inc.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Harry Murray", "org":"Department of Fisheries and Oceans"}
+  ]
+  project_team: [
+    {"name":"Alexandra Eaves", "org":"Department of Fisheries and Oceans"},
+    {"name":"Dwight Drover", "org":"Department of Fisheries and Oceans"},
+    {"name":"Sharon Kenny", "org":"Department of Fisheries and Oceans"}
+  ]
+  collaborators: [
+    {"name":"Keng Pee Ang", "org":"Cold Ocean Salmon Inc."}
+  ]
