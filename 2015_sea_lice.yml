@@ -142,3 +142,223 @@
   collaborators: [
     {"name":"Keng Pee Ang", "org":"Cold Ocean Salmon Inc."}
   ]
+
+- title: "DEVELOPMENT AND PROGRESS OF THE CUNNER BREEDING PROGRAM"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice", "cunner"]
+  period: "MAY 2012 – DEC. 2015"
+  funded_by: [
+    {"org":"National Research Council", "program": "Industrial Research Assistance Program"}
+  ]
+  cofunded_by: [
+    {"org":"Kelly Cove Salmon Ltd.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Keng Pee Ang", "org":"Kelly Cove Salmon Ltd."}
+  ]
+  project_team: [
+    {"name":"Geoffrey McBriarty", "org":"Kelly Cove Salmon Ltd."},
+    {"name":"Joshua Francis", "org":"Kelly Cove Salmon Ltd."},
+    {"name":"Erin Carpenter", "org":"Kelly Cove Salmon Ltd."},
+    {"name":"Arianna Smith", "org":"Kelly Cove Salmon Ltd."},
+    {"name":"Jessica Binney", "org":"Kelly Cove Salmon Ltd."},
+    {"name":"Ashton Bradley", "org":"Kelly Cove Salmon Ltd."}
+  ]
+  collaborators: [
+  ]
+
+- title: "DEVELOPMENT OF BACTERIAL BIOMARKERS OF SALMON MICROBIOTA MEDIATED RESISTANCE AGAINST SEA LOUSE LEPEOPHTHEIRUS SALMONIS"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice", "salmon"]
+  period: "APR. 2013 – MAR. 2015"
+  funded_by: [
+    {"org": "Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Kelly Cove Salmon Ltd.", "program":"undefined"},
+    {"org":"Université Laval", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Steven Leadbeater", "org":"Department of Fisheries and Oceans"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+    {"org":"Kelly Cove Salmon Ltd.", "name":"undefined"},
+    {"org":"Université Laval", "name":"undefined"}
+  ]
+
+- title: "THE EFFECTS OF SEA LICE IN MODULATING SALMONID SUSCEPTIBILITY TO VIRUSES"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice", "salmon"]
+  period: "SEP. 2014 –MAR. 2016"
+  funded_by: [
+    {"org": "Department of Fisheries and Oceans", "program": "Program for Aquaculture Regulatory Research"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Simon Jones", "org":"Department of Fisheries and Oceans"}
+  ]
+  project_team: [
+    {"name":"Kyle Garver", "org":"Department of Fisheries and Oceans"}
+  ]
+  collaborators: [
+    {"name":"Mark Fast", "org":"Atlantic Veterinary College"}
+  ]
+
+- title: "SEA LICE INFECTION LEVELS ON JUVENILE SALMON DURING EARLY SEAWATER RESIDENCY AND MIGRATION OUT OF THE STRAIT OF GEORGIA"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice", "salmon"]
+  period: "APR. 2010 – MAR. 2014"
+  funded_by: [
+    {"org": "Department of Fisheries and Oceans", "program": "Program for Aquaculture Regulatory Research"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Stewart Johnson", "org":"Department of Fisheries and Oceans"},
+    {"name":"Richard Beamish", "org":"Department of Fisheries and Oceans"},
+    {"name":"Marc Trudel", "org":"Department of Fisheries and Oceans"},
+  ]
+  project_team: [
+    {"name":"Kyle Garver", "org":"Department of Fisheries and Oceans"},
+    {"name":"Chrys Neville", "org":"Department of Fisheries and Oceans"},
+    {"name":"Simon Jones", "org":"Department of Fisheries and Oceans"}
+  ]
+  collaborators: [
+  ]
+
+- title: "DEFINING THE RISK OF SEA LICE INFECTIONS THROUGH THE DEVELOPMENT OF AN UNDERSTANDING OF THE EARLY LIFE HISTORY POPULATION DYNAMICS OF SEA LICE ASSOCIATED WITH ATLANTIC SALMON AQUACULTURE SITES IN THE BAY OF FUNDY"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice", "salmon"]
+  period: "JUL. 2014 – MAR. 2017"
+  funded_by: [
+    {"org": "Department of Fisheries and Oceans", "program": "Program for Aquaculture Regulatory Research"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Shawn Robinson", "org":"Department of Fisheries and Oceans"}
+  ]
+  project_team: [
+    {"name":"Terralynn Lander", "org":"Department of Fisheries and Oceans"},
+    {"name":"Emily Nelson", "org":"Department of Fisheries and Oceans"},
+    {"name":"Fred Page", "org":"Department of Fisheries and Oceans"}
+  ]
+  collaborators: [
+    {"name":"Keng Pee Ang", "org":"Cooke Aquaculture Inc."},
+    {"name":"Gregor Reid", "org":"University of New Brunswick"}
+  ]
+
+- title: "TRANSPORT AND DISPERSAL OF DISCHARGED SEA LICE CHEMICAL THERAPEUTANTS IN SOUTHWEST NEW BRUNSWICK"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice"]
+  period: "APR. 2010 – MAR. 2014"
+  funded_by: [
+    {"org": "Department of Fisheries and Oceans", "program": "Program for Aquaculture Regulatory Research"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Fred Page", "org":"Department of Fisheries and Oceans"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+  ]
+
+- title: "THE EFFECTS OF SINGLE AND REPEAT LEPEOPHTHEIRUS SALMONIS (SEA LICE) INFECTIONS ON THE HEALTH OF JUVENILE PACIFIC SALMON"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice", "salmon"]
+  period: "APR. 2010 – MAR. 2014"
+  funded_by: [
+    {"org": "Department of Fisheries and Oceans", "program": "Program for Aquaculture Regulatory Research"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Stewart Johnson", "org":"Department of Fisheries and Oceans"},
+    {"name":"Simon Jones", "org":"Department of Fisheries and Oceans"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+  ]
+
+- title: "BIOASSAYS WITH FARM COLLECTED SEA LICE FROM ALL NEW BRUNSWICK AQUACULTURE BAY MANAGEMENT AREAS USING ALL APPROVED SEA LICE TREATMENT OPTIONS"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice"]
+  period: "JUL. 2014 – DEC. 2014"
+  funded_by: [
+    {"org": "New Brunswick Department of Agriculture, Aquaculture and Fisheries", "program": "undefined"}
+  ]
+  cofunded_by: [
+    {"org": "Huntsman Marine Science Centre", "program": "undefined"}
+  ]
+  project_lead: [
+    {"name":"Chris Bridger", "org":"Huntsman Marine Science Centre"},
+  ]
+  project_team: [
+    {"name":"Mike Beattie", "org":"New Brunswick Department of Agriculture, Aquaculture and Fisheries"}
+  ]
+  collaborators: [
+  ]
+
+- title: "THE POTENTIAL OF USING NEWFOUNDLAND STOCK CUNNERS TO CONTROL SEA LICE (LEPEOPHTHEIRUS SALMONIS) ON INFECTED ATLANTIC SALMON SMOLTS: TANK TRIALS"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice", "cunners"]
+  period: "APR. 2013 – MAR. 2014"
+  funded_by: [
+    {"org": "Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org": "Cold Ocean Salmon Inc.", "program": "undefined"}
+  ]
+  project_lead: [
+    {"name":"Dounia Hamoutene", "org":"Department of Fisheries and Oceans"},
+    {"name":"Harry Murray", "org":"Department of Fisheries and Oceans"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Cold Ocean Salmon Inc."}
+  ]
+
+- title: "DISEASE GENOMICS FOR SALMON LOUSE RESISTANCE IN A COMMERCIAL STRAIN OF ATLANTIC SALMON"
+  year: "2015"
+  category: ["sea lice"]
+  species: ["sea lice", "salmon"]
+  period: "APR. 2014 – MAR. 2017"
+  funded_by: [
+    {"org": "Genome Canada", "program": "undefined"}
+  ]
+  cofunded_by: [
+    {"org": "Cooke Aquaculture Inc.", "program": "undefined"},
+    {"org":"National Research Council", "program": "Industrial Research Assistance Program"},
+    {"org": "Atlantic Canada Opportunities Agency", "program": "undefined"}
+  ]
+  project_lead: [
+    {"name":"Elizabeth Boulding", "org":"University of Guelph"}
+  ]
+  project_team: [
+    {"name":"Melissa Holborn", "org":"University of Guelph"},
+    {"name":"Larry Schaeffer", "org":"University of Guelph"},
+    {"name":"Sarah Loker", "org":"University of Guelph"},
+    {"name":"Keng Pee Ang", "org":"Cooke Aquaculture Inc."},
+    {"name":"Jake Elliott", "org":"Cooke Aquaculture Inc."},
+    {"name":"Frank Powell", "org":"Cooke Aquaculture Inc."},
+    {"name":"Brian Glebe", "org":"Genome Atlantic"},
+    {"name":"Steven Leadbeater", "org":"Department of Fisheries and Oceans"}
+  ]
+  collaborators: [
+  ]
