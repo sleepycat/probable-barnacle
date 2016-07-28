@@ -1,0 +1,845 @@
+- title: "PHYSIOLOGY OF TRIPLOID FISH"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "ONGOING"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":"Discovery"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Tillmann Benfey", "org":"University of New Brunswick"}
+  ]
+  project_team: [
+    {"name":"Chris Small", "org":"University of New Brunswick"},
+    {"name":"Nicole Nader", "org":"University of New Brunswick"},
+    {"name":"Kathleen O’Donnell", "org":"University of New Brunswick"}
+  ]
+  collaborators: [
+  ]
+
+
+- title: "FISH-KELP CO-CULTURE: A FEASIBILITY STUDY FOR THE COMMERCIAL SCALE INTEGRATION OF KELP CULTURE WITH FINFISH PRODUCTION IN COASTAL BRITISH COLUMBIA"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "JUL. 2013–JUN. 2018"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":"undefined"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Stephen Cross", "org":"Centre for Applied Research, Technology, and Innovation"},
+    {"name":"Stephen Cross", "org":"North Island College"}
+# XXX:Stephen Cross is from 2 organizations: NIC and CARTI
+  ]
+  project_team: [
+    {"name":"Nicholas Sherrington", "org":"University of Victoria"}
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Creative Salmon"},
+    {"name":"undefined", "org":"Marine Harvest Canada"},
+    {"name":"undefined", "org":"Grieg Seafood"},
+    {"name":"undefined", "org":"Cermaq"},
+    {"name":"undefined", "org":"SEA Vision Group"}
+  ]
+
+
+- title: "HIGHER TROPHIC LEVEL RESPONSES TO SHELLFISH AQUACULTURE HABITAT MODIFICATIONS"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "SEP. 2013–AUG. 2015"
+  funded_by: [
+    {"org":"Canada Research Chairs", "program":"undefined"}
+  ]
+  cofunded_by: [
+    {"org":"Canada Foundation for Innovation", "program":"undefined"},
+    {"org":"British Columbia Knowledge Development Fund", "program":"undefined"},
+    {"org":"Vancouver Island University", "program":"undefined"},
+    {"org":"University of Victoria, Natural Sciences and Engineering Research Council", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Sarah Dudas", "org":"Vancouver Island University"}
+  ]
+  project_team: [
+    {"name":"Robert Bourdon", "org":"University of Victoria"},
+    {"name":"Robert Bourdon", "org":"Vancouver Island University"},
+# XXX:Robert Bourdon is from 2 organizations: UVI and UVic
+    {"name":"Brenda Collicutt", "org":"University of Victoria"},
+    {"name":"Brenda Collicutt", "org":"Vancouver Island University"},
+# XXX:Brenda Collicutt is from 2 organizations: UVI and UVic
+    {"name":"Katie Davidson", "org":"Vancouver Island University"}
+  ]
+  collaborators: [
+    {"name":"Francis Juanes", "org":"University of Victoria"}
+  ]
+
+
+- title: "THE FARMS OF OPPORTUNITY PROGRAM – AN INTEGRATED WATER QUALITY MONITORING AND MANAGEMENT NETWORK FOR COASTAL AQUACULTURE"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "JUL. 2013–JUN. 2018"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":"undefined"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Stephen Cross", "org":"Centre for Applied Research, Technology, and Innovation"},
+    {"name":"Stephen Cross", "org":"North Island College"}
+# XXX:Stephen Cross is from 2 organizations: NIC and CARTI
+  ]
+  project_team: [
+    {"name":"Steve Morgan", "org":"Island Telemetrics"}
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Creative Salmon"},
+    {"name":"undefined", "org":"Marine Harvest Canada"},
+    {"name":"undefined", "org":"Grieg Seafood"},
+    {"name":"undefined", "org":"Cermaq"},
+    {"name":"undefined", "org":"SEA Vision Group"},
+    {"name":"undefined", "org":"Island Telemetrics"},
+  ]
+
+
+- title: "BRINGING THE FARM TO THE CITY: AN INTERACTVE LIVE VIDEO PLATFORM FOR PUBLIC AWARENESS AND EDUCATION INITIATIVES"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "JUL. 2013–JUN. 2018"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":""}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Stephen Cross", "org":"Centre for Applied Research, Technology, and Innovation"},
+    {"name":"Stephen Cross", "org":"North Island College"}
+# XXX:Stephen Cross is from 2 organizations: NIC and CARTI
+  ]
+  project_team: [
+    {"name":"undefined", "org":"North Island College - Remote Web-Based Science Laboratory"}
+  ]
+  collaborators: [
+    {"name":"", "org":"SEA Vision Group"},
+    {"name":"", "org":"Odyssey Shellfish"},
+    {"name":"", "org":"Creative Salmon"}, 
+    {"name":"", "org":"Marine Harvest Canada"}, 
+    {"name":"", "org":"Grieg Seafood"}, 
+    {"name":"", "org":"Cermaq"}, 
+  ]
+
+
+- title: "TECHNICAL, ECONOMIC, AND REGULATORY GUIDES FOR PART-TIME MARINE AQUACULTURE FISHERS IN THE ÎLES DE LA MADELEINE AND THE GASPÉ PENINSULA"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "APR. 2014–MAR. 2015"
+  funded_by: [
+    {"org":"Ministère de l’Économie, de l’Innovation et de l’Exportation du Québec", "program":"undefined"}
+  ]
+  cofunded_by: [
+    {"org":"Ministère de l’Agriculture, des Pêcheries et de l'Alimentation du Québec", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Jean-François LaPlante", "org":"Merinov"}
+  ]
+  project_team: [
+    {"name":"Estelle Pedneault", "org":"undefined"},
+    {"name":"François Bourque", "org":"undefined"},
+    {"name":"Claude Forest", "org":"undefined"}
+  ]
+  collaborators: [
+    {"name":"", "org":"Regroupement des pêcheurs propriétaires du sud de la Gaspésie"},
+    {"name":"", "org":"Culti-Mer"},
+    {"name":"", "org":"Grande-Entrée Aquaculture"},
+    {"name":"", "org":"Moules de culture des Îles"}
+  ]
+
+
+- title: "INTEGRATION OF A GENETIC SEX MARKER INTO BREEDING PROGRAMS TO PRODUCE SINGLE-SEX POPULATIONS OF FISH"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "SEP. 2013–MAY 2014"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":"Partnerships Program – Engage Grant"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Tilmann Benfey", "org":"University of New Brunswick"}
+  ]
+  project_team: [
+    {"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies"},
+    {"name":"Matthew Bryenton", "org":"Center for Aquaculture Technologies"}
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Center for Aquaculture Technologies"}
+  ]
+
+
+- title: "CERES: A RELATIONAL DATABASE MANAGEMENT PROGRAM"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "OCT. 2011–SEP. 2015"
+  funded_by: [
+    {"org":"Atlantic Canada Opportunities Agency", "program":"Atlantic Innovation Fund"}
+  ]
+  cofunded_by: [
+    {"org":"New Brunswick Innovation Foundation", "program":"undefined"},
+    {"org":"Huntsman Marine Science Centre", "program":"undefined"},
+    {"org":"AquaBounty Canada", "program":"undefined"},
+    {"org":"Center for Aquaculture Technologies", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Amber Garber", "org":"Huntsman Marine Science Centre"}
+  ]
+  project_team: [
+    {"name":"Gilbert Babin", "org":"Huntsman Marine Science Centre"},
+    {"name":"Susan Hodkinson", "org":"Huntsman Marine Science Centre"},
+    {"name":"Chris Bridger", "org":"Huntsman Marine Science Centre"}
+  ]
+  collaborators: [
+    {"name":"Dawn Runighan", "org":"AquaBounty Canada"},
+    {"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies"}
+  ]
+
+
+- title: "THE HISTORICAL AND SOCIAL DIMENSIONS OF SALMON AQUACULTURE SCIENCE"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "JUN. 2007–JUL. 2016"
+  funded_by: [
+    {"org":"Social Sciences and Humanities Research Council of Canada", "program":"undefined"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Stephen Bocking", "org":"undefined"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+  ]
+
+
+- title: "PHYSIOLOGICAL INDICES AS INDICATORS OF ECOSYSTEM STATUS IN SHELLFISH AQUACULTURE SITES"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "APR. 2011–MAR. 2014"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Program for Aquaculture Regulatory Research"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Ramón Filgueira", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Luc Comeau", "org":"Fisheries and Oceans Canada"},
+    {"name":"Thomas Guyondet", "org":"Fisheries and Oceans Canada"},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"Thomas Landry", "org":"Fisheries and Oceans Canada"},
+    {"name":"Jonathan Grant", "org":"Dalhousie University"}
+  ]
+
+
+- title: "OMEGA-3 FATTY ACIDS FROM SALMON PROCESSING WASTE PRODUCED FROM NEWFOUNDLAND AQUACULTURE INDUSTRY"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "MAR. 2013–MAR. 2014"
+  funded_by: [
+    {"org":"Canadian Centre for Fisheries Innovation", "program":"undefined"}
+  ]
+  cofunded_by: [
+    {"org":"Marine Institute of Memorial University of Newfounland", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Deepika Dave", "org":"undefined"}
+# XXX: organisation of Deepika Dave TBD
+  ]
+  project_team: [
+    {"name":"Vegneshwaran Ramakrishnan", "org":"undefined"},
+    {"name":"Julia Pohling", "org":"undefined"},
+    {"name":"Sheila Trenholm", "org":"undefined"},
+    {"name":"Heather Manuel", "org":"undefined"},
+    {"name":"Wade Murphy", "org":"undefined"}
+# XXX: organisation of people above TBD
+  ]
+  collaborators: [
+  ]
+# XXX: What to do with organizations like CCFI which is a non-profit organization owned by Memorial University of Newfoundland and funded by the Government of Newfoundland and Labrador
+
+
+- title: "WAVE POWERED LAND-BASED INTERGRATED MULTI-TROPHIC AQUACULTURE"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "SEP. 2011–SEP. 2016"
+  funded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":"undefined"}
+  ]
+  cofunded_by: [
+    {"org":"Research Development Corporation Newfoundland and Labrador", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Leon Fiander", "org":"College of the North Atlantic"}
+  ]
+  project_team: [
+    {"name":"Mike Graham", "org":"undefined"}
+# XXX: organisation of people above TBD
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Municipality of Lord’s Cove"}
+  ]
+
+
+- title: ""
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+USE OF THE OILSEED CAMELINA SATIVA AS A SOURCE OF LIPID AND PROTEIN IN DIETS FOR RAINBOW TROUT, ATLANTIC SALMON, AND ATLANTIC COD
+MAY 2010–MAR. 2015
+FUNDED BY: 
+Atlantic Canada Opportunities Agency 
+CO-FUNDED BY: 
+Genome Atlantic, Research and Development Corporation of Newfoundland and Labrador
+PROJECT LEADS: 
+Christopher Parrish,
+Matthew Rise (MUN); 
+Derek Anderson (Dalhousie U)
+PROJECT TEAM: 
+Stefanie Hixson, 
+Xi Xue,
+Marije Booman, 
+Tyler Brown, 
+Tiago Hori (MUN); 
+Chang Lin Ye, 
+Stephanie Collins,
+Jing Lu, 
+Jamie Fraser, 
+Christina Bullerwell (Dalhousie U)
+COLLABORATORS: 
+Claude Caldwell (Dalhousie U); 
+Isobel Parkin, 
+Dwayne Hegedus (AAFC); 
+Cara Kirkpatrick, 
+David Spurrell,
+Kim Johnstone (Genome Atlantic)
+
+
+- title: "RESILIENCE OF COASTAL ECOSYSTEMS TO GREEN CRAB INTRODUCTION AND REMOVAL"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "MAY 2014–APR. 2015"
+  funded_by: [
+    {"org":"Canada Excellence Research Chair", "program":"Aquatic Epidemiology"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Sophie St. Hilaire", "org":"University of Prince Edward Island"}
+  ]
+  project_team: [
+    {"name":"Maya Groner", "org":"University of Prince Edward Island"},
+    {"name":"Ruth Cox", "org":"University of Prince Edward Island"}
+  ]
+  collaborators: [
+  ]
+
+
+- title: ""
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+CAPTURING SOCIAL VALUES IN OCEAN MANAGEMENT AND PLANNING: NEW TOOLS FOR NEW TIMES
+NOV. 2011–DEC. 2013
+FUNDED BY: 
+Social Sciences and Humanities Research Council (SSHRC)
+PROJECT LEAD: 
+Patricia MacDonald (VIU)
+PROJECT TEAM: 
+Grant Murray,
+Michele Patterson (VIU)
+COLLABORATORS: 
+Jim McIsaac (BC Commercial Fishing Caucus); 
+Heather Coleman (Pacific Marine Analysis and Research Association)
+
+
+- title: "DEVELOPMENT OF DIET AND FEEDING REGIMES FOR COPPER ROCKFISH LARVAE"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "APR. 2011–MAR. 2013"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Totem Marine Farms Inc.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Ian Forster", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Totem Marine Farms Inc."}
+  ]
+
+
+- title: ""
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+SHELLFISH MICROBIAL ELIMINATION THROUGH THE AQUALIFE FACILITY
+FEB. 2012–AUG. 2012
+FUNDED BY: 
+Nova Scotia Economic and Rural Development (NSERD) – Productivity and Innovation Program
+PROJECT LEAD: 
+Jesse Ronquillo (UBC)
+PROJECT TEAM: 
+Audrie-Jo McConkey,
+Sadish Srinivassane (Dalhousie U)
+COLLABORATORS: 
+Bernhard Benkel, 
+Katherine Rutherford (Dalhousie U); 
+Gordon Neal (Aqualife North America, Inc.)
+
+
+- title: ""
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+CENTER FOR AQUACULTURE TECHNOLOGIES CANADA AQUACULTURE RESEARCH FACILITY
+SEP. 2014–JUN. 2015
+FUNDED BY: 
+Prince Edward Island
+CO-FUNDING BY: 
+ACOA; 
+Center for Aquaculture Technologies Canada (CATC);
+Regis Duffy Bioscience Fund
+PROJECT LEAD: 
+Debbie Plouffe (CATC)
+PROJECT TEAM: 
+Matt Bryenton (CATC);
+John Buchanan (Center for Aquaculture Technologies)
+
+
+- title: ""
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+OPTIMAL PROGRAM: LAYING THE GROUNDWORK FOR AN INTEGRATED APPROACH TO DEVELOPING THE CULTURED ALGAE INDUSTRY IN QUEBEC
+JUN. 2014–MAY 2019
+FUNDED BY: 
+Natural Sciences and Engineering Research Council – College and Community Innovation (NSERC – CCI) Program
+CO-FUNDED BY: 
+FRQNT – Programme Regroupements stratégiques, 
+Ressources Aquatiques Québec (RAQ)
+PROJECT LEAD: 
+Michel Larrivée (CÉGEP de la Gaspésie et des Îles)
+PROJECT TEAM: 
+Aurélie Licois, 
+Grégory Hersant, 
+Eric Tamigneaux, 
+Karine Berger
+COLLABORATORS: 
+Roxane Bernier, 
+Jean-Claude Blais, 
+Daniel Bourdages, 
+David Fortin,
+Isabelle Gendron-Lemieux, 
+Marie Lionard,
+Henryette Michaud, 
+Lisandre Solomon,
+Marie-Pierre Turcotte
+
+
+- title: ""
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+UTILIZING ALTERNATE WAVELENGTHS TO INCREASE LEVELS OF THE OMEGA-6 ARACHIDONIC ACID (ArA) IN MICROALGAE
+MAR. 2007–NOV. 2013
+FUNDED BY: 
+Atlantic Canada Opportunities Agency – Atlantic Innovation Fund (ACOA-AIF)
+PROJECT LEAD: 
+Audrie-Jo McConkey (Dalhousie U)
+PROJECT TEAM: 
+Jesse Ronquillo (UBC)
+
+
+- title: ""
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: ""
+  funded_by: [
+    {"org":"", "program":""}
+  ]
+  cofunded_by: [
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""},
+    {"org":"", "program":""}
+  ]
+  project_lead: [
+    {"name":"", "org":""}
+  ]
+  project_team: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+  collaborators: [
+    {"name":"", "org":""},
+    {"name":"", "org":""},
+    {"name":"", "org":""}
+  ]
+IDENTIFYING CRITICAL ECOLOGICAL THRESHOLDS FOR TUNICATE INFESTATIONS ON MUSSEL FARMS
+APR. 2011–MAR. 2014	
+FUNDED BY: 
+DFO – Program for Aquaculture Regulatory Research (DFO – PARR)
+PROJECT LEAD: 
+Thomas Landry (DFO)
+PROJECT TEAM: 
+Jeff Davidson, 
+Thitiwan Patanastienkul (AVC-UPEI); 
+Luc Comeau,
+Andrea Locke, 
+Thomas Guyondet, 
+Daniel Bourque, 
+Monique Niles, 
+Chris McKindsey (DFO); 
+Aaron Ramsay (PEI Department of Fisheries, Aquaculture and Rural Development)
+
+
+- title: "ASSESSING THE EFFICIENCY OF A MACROALGAE BIOFILTER IN REGULATING NITRATE AND PHOSPHATE CONCENTRATIONS IN TANKS AT THE MONTRÉAL BIODÔME, IMITATING THE ECOSYSTEM OF THE GULF OF ST. LAWRENCE"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "JAN. 2014–APR. 2016"
+  funded_by: [
+    {"org":"Société des Amis du Biodôme", "program":"undefined"}, 
+    {"org":"Fonds de recherche Nature et technologies", "program":"undefined"}, 
+    {"org":"Fonds d’amorçage et de partenariat UQAR", "program":"undefined"},
+    {"org":"Merinov", "program":"undefined"}
+  ]
+  cofunded_by: [
+    {"org":"Natural Sciences and Engineering Research Council", "program":""},
+    {"org":"Industrial Research Chair for Colleges in the Conversion of Marine Macroalgae", "program":""},
+    {"org":"Montréal Biodôme", "program":""},
+    {"org":"OrganicOcéan Inc.", "program":""},
+    {"org":"Ressources Aquatiques Québec", "program":""}
+  ]
+  project_lead: [
+    {"name":"Nathalie Le François", "org":"Université Laval"}
+  ]
+  project_team: [
+    {"name":"Anne Tremblay-Gratton", "org":"Université Laval"}
+  ]
+  collaborators: [
+    {"name":"Éric Tamigneaux", "org":"École des Pêches de l'Aquaculture"},
+    {"name":"Jean-Christophe Boussin", "org":"Grant Vandenberg"},
+    {"name":"Grant Vandenberg", "org":"Université Laval"}
+  ]
+
+
+- title: "ANAEROBIC DIGESTION OF FISH OFFAL AND SAWDUST"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "APR. 2011–MAR. 2013"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Meeker’s Aquaculture", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Doug Geiling", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Richard Moccia", "org":"University of Guelph"},
+    {"name":"David Bevan", "org":"University of Guelph"},
+    {"name":"Anna Crolla", "org":"University of Guelph"},
+    {"name":"Chris Kinsley", "org":"University of Guelph"}
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Meeker’s Aquaculture"}
+  ]
+
+
+- title: "ESTABLISHING AN ECOTOXICOLOGY WET LAB TO COLLECT NON-TARGET THERAPEUTANT DATA FOR PHARMACEUTICAL COMPANIES AND REGULATORS"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "JAN. 2014–MAR. 2014"
+  funded_by: [
+    {"org":"NB Department of Agriculture, Aquaculture and Fisheries", "program":"undefined"}
+  ]
+  cofunded_by: [
+    {"org":"Huntsman Marine Science Centre", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Chris Bridger", "org":"Huntsman Marine Science Centre"}
+  ]
+  project_team: [
+    {"name":"Les Burridge", "org":"Huntsman Marine Science Centre"},
+    {"name":"Mike Beattie", "org":"NB Department of Agriculture, Aquaculture and Fisheries"}
+  ]
+  collaborators: [
+  ]
+
+
+- title: "BENTHIC CULTURE OF SEA CUCUMBERS: ASSESSING INTERACTIONS BETWEEN CULTURED AND WILD POPULATIONS AND THE MITIGATION OF ENVIRONMENTAL IMPACTS IN SHELLFISH CO-CULTURE"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "APR. 2012–MAR. 2015"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Fan Seafoods Ltd.", "program":"undefined"},
+    {"org":"Klahoose First Nation", "program":"undefined"},
+    {"org":"Pacific Sea Cucumbers Harvesters Association", "program":"undefined"},
+    {"org":"Viking Bay Ventures", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Chris Pearce", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Dan Curtis", "org":"Fisheries and Oceans Canada"},
+    {"name":"Nick Duprey", "org":"Fisheries and Oceans Canada"},
+    {"name":"Claudia Hand", "org":"Fisheries and Oceans Canada"},
+    {"name":"Scott McKinley", "org":"University of British Columbia"}
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Fan Seafoods Ltd."},
+    {"name":"undefined", "org":"Klahoose First Nation"},
+    {"name":"undefined", "org":"Pacific Sea Cucumbers Harvesters Association"},
+    {"name":"undefined", "org":"Viking Bay Ventures"}
+  ]
+
+
+- title: "ISOLATION, CULTURE, AND GENOMIC ANALYSIS OF HARMFUL ALGAL SPECIES AFFECTING AQUACULTURE ON THE WEST COAST OF CANADA AND ANALYSIS OF THE HARMFUL ALGAE MONITORING PROGRAM HISTORICAL DATABASE"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "APR. 2012 – MAR. 2014"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
+  ]
+  cofunded_by: [
+    {"org":"Cleanwater Shellfish Ltd.", "program":"undefined"},
+    {"org":"Creative Salmon Company Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"},
+    {"org":"Island Scallops Ltd.", "program":"undefined"},
+    {"org":"Little Wing Oysters Ltd.", "program":"undefined"},
+    {"org":"Mac’s Oysters Ltd.", "program":"undefined"},
+    {"org":"Mainstream Canada", "program":"undefined"},
+    {"org":"Marine Harvest Canada Inc.", "program":"undefined"},
+    {"org":"Nelson Island Sea Farms Ltd.", "program":"undefined"},
+    {"org":"Taylor Shellfish Canada ULC.", "program":"undefined"}
+  ]
+  project_lead: [
+    {"name":"Chris Pearce", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Kristi Miller", "org":"Fisheries and Oceans Canada"},
+    {"name":"Amy Tabata", "org":"Fisheries and Oceans Canada"},
+    {"name":"Laurie Keddy", "org":"Fisheries and Oceans Canada"},
+    {"name":"Nicky Haigh", "org":"Microthalassia Consultants Inc."},
+    {"name":"Svetlana Esenkulova", "org":"Microthalassia Consultants Inc."}
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Cleanwater Shellfish Ltd."},
+    {"name":"undefined", "org":"Creative Salmon Company Ltd."},
+    {"name":"undefined", "org":"Grieg Seafood BC Ltd."},
+    {"name":"undefined", "org":"Island Scallops Ltd."},
+    {"name":"undefined", "org":"Little Wing Oysters Ltd."},
+    {"name":"undefined", "org":"Mac’s Oysters Ltd."},
+    {"name":"undefined", "org":"Mainstream Canada"},
+    {"name":"undefined", "org":"Marine Harvest Canada Inc."},
+    {"name":"undefined", "org":"Nelson Island Sea Farms Ltd."},
+    {"name":"undefined", "org":"Taylor Shellfish Canada ULC."}
+  ]
+
+
+- title: "INNOVATIVE APPROACHES TO WATER TREATMENT FOR LAND BASED FISH FARMS FOR RECIRCULTION AND DISCHARGE"
+  year: "2015"
+  category: ["Miscellaneous"]
+  species: [""]
+  period: "JUN. 2012–JUN. 2015"
+  funded_by: [
+    {"org":"Ontario Ministry of Agriculture, Food and Rural Affairs ", "program":"undefined"}
+  ]
+  cofunded_by: [
+    {"org":"Natural Sciences and Engineering Research Council of Canada", "program":"undefined"},
+  ]
+  project_lead: [
+    {"name":"Brent Wootton", "org":"Fleming College"}
+  ]
+  project_team: [
+    {"name":"Bruce Anderson", "org":"Queen’s University"},
+    {"name":"Robin Slawson", "org":"Wilfrid Laurier University"},
+    {"name":"Christopher Murray", "org":"Lakehead University"},
+    {"name":"Rob Davis", "org":"Ecoethics"},
+    {"name":"Stewart Hayes", "org":"Trojan UV"},
+    {"name":"John Gillis", "org":"Measuremax"},
+    {"name":"Karen Tracey", "org":"NOAA"},
+    {"name":"Joe Garbin", "org":"Contech"}
+  ]
+  collaborators: [
+  ]
