@@ -245,8 +245,7 @@
   ]
   project_team: [
     {"name":"Luc Comeau", "org":"Fisheries and Oceans Canada"},
-    {"name":"Thomas Guyondet", "org":"Fisheries and Oceans Canada"},
-    {"name":"", "org":""}
+    {"name":"Thomas Guyondet", "org":"Fisheries and Oceans Canada"}
   ]
   collaborators: [
     {"name":"Thomas Landry", "org":"Fisheries and Oceans Canada"},
@@ -305,61 +304,42 @@
   ]
 
 
-- title: ""
+- title: "USE OF THE OILSEED CAMELINA SATIVA AS A SOURCE OF LIPID AND PROTEIN IN DIETS FOR RAINBOW TROUT, ATLANTIC SALMON, AND ATLANTIC COD"
   year: "2015"
   category: ["Miscellaneous"]
   species: [""]
-  period: ""
+  period: "MAY 2010–MAR. 2015"
   funded_by: [
-    {"org":"", "program":""}
+    {"org":"Atlantic Canada Opportunities Agency", "program":"undefined"}
   ]
   cofunded_by: [
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""}
+    {"org":"Genome Atlantic", "program":"undefined"},
+    {"org":"Research and Development Corporation of Newfoundland and Labrador", "program":"undefined"}
   ]
   project_lead: [
-    {"name":"", "org":""}
+    {"name":"Christopher Parrish", "org":"Memorial University of Newfoundland"},
+    {"name":"Matthew Rise", "org":"Memorial University of Newfoundland"},
+    {"name":"Derek Anderson", "org":"Dalhousie University"}
   ]
   project_team: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
-  ]
+    {"name":"Stefanie Hixson", "org":"Memorial University of Newfoundland"},
+    {"name":"Xi Xue", "org":"Memorial University of Newfoundland"},
+    {"name":"Marije Booman", "org":"Memorial University of Newfoundland"},
+    {"name":"Tyler Brown", "org":"Memorial University of Newfoundland"},
+    {"name":"Tiago Hori", "org":"Memorial University of Newfoundland"},
+    {"name":"Chang Lin Ye", "org":"Dalhousie University"},
+    {"name":"Stephanie Collins", "org":"Dalhousie University"},
+    {"name":"Jing Lu", "org":"Dalhousie University"},
+    {"name":"Jamie Fraser", "org":"Dalhousie University"},
+    {"name":"Christina Bullerwell", "org":"Dalhousie University"}  ]
   collaborators: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
+    {"name":"Claude Caldwell", "org":"Dalhousie University"},
+    {"name":"Isobel Parkin", "org":"Dalhousie University"},
+    {"name":"Dwayne Hegedus", "org":"Agriculture and Agri-Food Canada"},
+    {"name":"Cara Kirkpatrick", "org":"Agriculture and Agri-Food Canada"},
+    {"name":"David Spurrell", "org":"Agriculture and Agri-Food Canada"},
+    {"name":"Kim Johnstone", "org":"Genome Atlantic"}
   ]
-USE OF THE OILSEED CAMELINA SATIVA AS A SOURCE OF LIPID AND PROTEIN IN DIETS FOR RAINBOW TROUT, ATLANTIC SALMON, AND ATLANTIC COD
-MAY 2010–MAR. 2015
-FUNDED BY: 
-Atlantic Canada Opportunities Agency 
-CO-FUNDED BY: 
-Genome Atlantic, Research and Development Corporation of Newfoundland and Labrador
-PROJECT LEADS: 
-Christopher Parrish,
-Matthew Rise (MUN); 
-Derek Anderson (Dalhousie U)
-PROJECT TEAM: 
-Stefanie Hixson, 
-Xi Xue,
-Marije Booman, 
-Tyler Brown, 
-Tiago Hori (MUN); 
-Chang Lin Ye, 
-Stephanie Collins,
-Jing Lu, 
-Jamie Fraser, 
-Christina Bullerwell (Dalhousie U)
-COLLABORATORS: 
-Claude Caldwell (Dalhousie U); 
-Isobel Parkin, 
-Dwayne Hegedus (AAFC); 
-Cara Kirkpatrick, 
-David Spurrell,
-Kim Johnstone (Genome Atlantic)
 
 
 - title: "RESILIENCE OF COASTAL ECOSYSTEMS TO GREEN CRAB INTRODUCTION AND REMOVAL"
@@ -383,45 +363,27 @@ Kim Johnstone (Genome Atlantic)
   ]
 
 
-- title: ""
+- title: "CAPTURING SOCIAL VALUES IN OCEAN MANAGEMENT AND PLANNING: NEW TOOLS FOR NEW TIMES"
   year: "2015"
   category: ["Miscellaneous"]
   species: [""]
-  period: ""
+  period: "NOV. 2011–DEC. 2013"
   funded_by: [
-    {"org":"", "program":""}
+    {"org":"Social Sciences and Humanities Research Council", "program":"undefined"}
   ]
   cofunded_by: [
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""}
   ]
   project_lead: [
-    {"name":"", "org":""}
+    {"name":"Patricia MacDonald", "org":"Vancouver Island University"}
   ]
   project_team: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
+    {"name":"Grant Murray", "org":"Vancouver Island University"},
+    {"name":"Michele Patterson", "org":"Vancouver Island University"}
   ]
   collaborators: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
+    {"name":"Jim McIsaac", "org":"BC Commercial Fishing Caucus"},
+    {"name":"Heather Coleman", "org":"Pacific Marine Analysis and Research Association"}
   ]
-CAPTURING SOCIAL VALUES IN OCEAN MANAGEMENT AND PLANNING: NEW TOOLS FOR NEW TIMES
-NOV. 2011–DEC. 2013
-FUNDED BY: 
-Social Sciences and Humanities Research Council (SSHRC)
-PROJECT LEAD: 
-Patricia MacDonald (VIU)
-PROJECT TEAM: 
-Grant Murray,
-Michele Patterson (VIU)
-COLLABORATORS: 
-Jim McIsaac (BC Commercial Fishing Caucus); 
-Heather Coleman (Pacific Marine Analysis and Research Association)
 
 
 - title: "DEVELOPMENT OF DIET AND FEEDING REGIMES FOR COPPER ROCKFISH LARVAE"
@@ -445,223 +407,134 @@ Heather Coleman (Pacific Marine Analysis and Research Association)
   ]
 
 
-- title: ""
+- title: "SHELLFISH MICROBIAL ELIMINATION THROUGH THE AQUALIFE FACILITY"
   year: "2015"
   category: ["Miscellaneous"]
   species: [""]
-  period: ""
+  period: "FEB. 2012–AUG. 2012"
   funded_by: [
-    {"org":"", "program":""}
+    {"org":"Nova Scotia Economic and Rural Development", "program":"Productivity and Innovation Program"}
   ]
   cofunded_by: [
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""}
   ]
   project_lead: [
-    {"name":"", "org":""}
+    {"name":"Jesse Ronquillo", "org":"University of British Columbia"}
   ]
   project_team: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
+    {"name":"Audrie-Jo McConkey", "org":"Dalhousie University"},
+    {"name":"Sadish Srinivassane", "org":"Dalhousie University"}
   ]
   collaborators: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
+    {"name":"Bernhard Benkel", "org":"Dalhousie University"},
+    {"name":"Katherine Rutherford", "org":"Dalhousie University"},
+    {"name":"Gordon Neal", "org":"Aqualife North America, Inc."}
   ]
-SHELLFISH MICROBIAL ELIMINATION THROUGH THE AQUALIFE FACILITY
-FEB. 2012–AUG. 2012
-FUNDED BY: 
-Nova Scotia Economic and Rural Development (NSERD) – Productivity and Innovation Program
-PROJECT LEAD: 
-Jesse Ronquillo (UBC)
-PROJECT TEAM: 
-Audrie-Jo McConkey,
-Sadish Srinivassane (Dalhousie U)
-COLLABORATORS: 
-Bernhard Benkel, 
-Katherine Rutherford (Dalhousie U); 
-Gordon Neal (Aqualife North America, Inc.)
 
 
-- title: ""
+- title: "CENTER FOR AQUACULTURE TECHNOLOGIES CANADA AQUACULTURE RESEARCH FACILITY"
   year: "2015"
   category: ["Miscellaneous"]
   species: [""]
-  period: ""
+  period: "SEP. 2014–JUN. 2015"
   funded_by: [
-    {"org":"", "program":""}
+    {"org":"Prince Edward Island", "program":""}
   ]
   cofunded_by: [
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""}
+    {"org":"Atlantic Canada Opportunity Agency", "program":"undefined"},
+    {"org":"Center for Aquaculture Technologies Canada", "program":"undefined"},
+    {"org":"Regis Duffy Bioscience Fund", "program":"undefined"}
   ]
   project_lead: [
-    {"name":"", "org":""}
+    {"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada"}
   ]
   project_team: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
+    {"name":"Matt Bryenton", "org":"Center for Aquaculture Technologies Canada"},
+    {"name":"John Buchanan", "org":"Center for Aquaculture Technologies"}
   ]
   collaborators: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
   ]
-CENTER FOR AQUACULTURE TECHNOLOGIES CANADA AQUACULTURE RESEARCH FACILITY
-SEP. 2014–JUN. 2015
-FUNDED BY: 
-Prince Edward Island
-CO-FUNDING BY: 
-ACOA; 
-Center for Aquaculture Technologies Canada (CATC);
-Regis Duffy Bioscience Fund
-PROJECT LEAD: 
-Debbie Plouffe (CATC)
-PROJECT TEAM: 
-Matt Bryenton (CATC);
-John Buchanan (Center for Aquaculture Technologies)
 
 
-- title: ""
+- title: "OPTIMAL PROGRAM: LAYING THE GROUNDWORK FOR AN INTEGRATED APPROACH TO DEVELOPING THE CULTURED ALGAE INDUSTRY IN QUEBEC"
   year: "2015"
   category: ["Miscellaneous"]
   species: [""]
-  period: ""
+  period: "JUN. 2014–MAY 2019"
   funded_by: [
-    {"org":"", "program":""}
+    {"org":"Natural Sciences and Engineering Research Council", "program":"College and Community Innovation"}
   ]
   cofunded_by: [
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""}
+    {"org":"Fonds de recherche du Québec – Nature et Technologies", "program":"Programme de regroupements stratégiques"},
+    {"org":"Ressources Aquatiques Québec", "program":"undefined"}
   ]
   project_lead: [
-    {"name":"", "org":""}
+    {"name":"Michel Larrivée", "org":"CÉGEP de la Gaspésie et des Îles"}
   ]
   project_team: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
+    {"name":"Aurélie Licois", "org":"undefined"},
+    {"name":"Grégory Hersant", "org":"undefined"},
+    {"name":"Eric Tamigneaux", "org":"undefined"},
+    {"name":"Karine Berger", "org":"undefined"}
   ]
   collaborators: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
+    {"name":"Roxane Bernier", "org":"undefined"},
+    {"name":"Jean-Claude Blais", "org":"undefined"},
+    {"name":"Daniel Bourdages", "org":"undefined"},
+    {"name":"David Fortin", "org":"undefined"},
+    {"name":"Isabelle Gendron-Lemieux", "org":"undefined"},
+    {"name":"Marie Lionard", "org":"undefined"},
+    {"name":"Henryette Michaud", "org":"undefined"},
+    {"name":"Lisandre Solomon", "org":"undefined"},
+    {"name":"Marie-Pierre Turcotte", "org":"undefined"}
   ]
-OPTIMAL PROGRAM: LAYING THE GROUNDWORK FOR AN INTEGRATED APPROACH TO DEVELOPING THE CULTURED ALGAE INDUSTRY IN QUEBEC
-JUN. 2014–MAY 2019
-FUNDED BY: 
-Natural Sciences and Engineering Research Council – College and Community Innovation (NSERC – CCI) Program
-CO-FUNDED BY: 
-FRQNT – Programme Regroupements stratégiques, 
-Ressources Aquatiques Québec (RAQ)
-PROJECT LEAD: 
-Michel Larrivée (CÉGEP de la Gaspésie et des Îles)
-PROJECT TEAM: 
-Aurélie Licois, 
-Grégory Hersant, 
-Eric Tamigneaux, 
-Karine Berger
-COLLABORATORS: 
-Roxane Bernier, 
-Jean-Claude Blais, 
-Daniel Bourdages, 
-David Fortin,
-Isabelle Gendron-Lemieux, 
-Marie Lionard,
-Henryette Michaud, 
-Lisandre Solomon,
-Marie-Pierre Turcotte
 
 
-- title: ""
+- title: "UTILIZING ALTERNATE WAVELENGTHS TO INCREASE LEVELS OF THE OMEGA-6 ARACHIDONIC ACID (ArA) IN MICROALGAE"
   year: "2015"
   category: ["Miscellaneous"]
   species: [""]
-  period: ""
+  period: "MAR. 2007–NOV. 2013"
   funded_by: [
-    {"org":"", "program":""}
+    {"org":"Atlantic Canada Opportunities Agency", "program":"Atlantic Innovation Fund"}
   ]
   cofunded_by: [
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""}
   ]
   project_lead: [
-    {"name":"", "org":""}
+    {"name":"Audrie-Jo McConkey", "org":"Dalhousie University"}
   ]
   project_team: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
+    {"name":"Jesse Ronquillo", "org":"University of British Columbia"}
   ]
   collaborators: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
   ]
-UTILIZING ALTERNATE WAVELENGTHS TO INCREASE LEVELS OF THE OMEGA-6 ARACHIDONIC ACID (ArA) IN MICROALGAE
-MAR. 2007–NOV. 2013
-FUNDED BY: 
-Atlantic Canada Opportunities Agency – Atlantic Innovation Fund (ACOA-AIF)
-PROJECT LEAD: 
-Audrie-Jo McConkey (Dalhousie U)
-PROJECT TEAM: 
-Jesse Ronquillo (UBC)
 
 
-- title: ""
+- title: "IDENTIFYING CRITICAL ECOLOGICAL THRESHOLDS FOR TUNICATE INFESTATIONS ON MUSSEL FARMS"
   year: "2015"
   category: ["Miscellaneous"]
   species: [""]
-  period: ""
+  period: "APR. 2011–MAR. 2014"
   funded_by: [
-    {"org":"", "program":""}
+    {"org":"Fisheries and Oceans Canada", "program":"Program for Aquaculture Regulatory Research"}
   ]
   cofunded_by: [
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""}
   ]
   project_lead: [
-    {"name":"", "org":""}
+    {"name":"Thomas Landry", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
+    {"name":"Jeff Davidson", "org":"Atlantic Veterinary College (UPEI)"},
+    {"name":"Thitiwan Patanastienkul", "org":"Atlantic Veterinary College (UPEI)"},
+    {"name":"Luc Comeau", "org":"Fisheries and Oceans Canada"},
+    {"name":"Andrea Locke", "org":"Fisheries and Oceans Canada"},
+    {"name":"Thomas Guyondet", "org":"Fisheries and Oceans Canada"},
+    {"name":"Daniel Bourque", "org":"Fisheries and Oceans Canada"},
+    {"name":"Monique Niles", "org":"Fisheries and Oceans Canada"},
+    {"name":"Chris McKindsey", "org":"Fisheries and Oceans Canada"},
+    {"name":"Aaron Ramsay", "org":"PEI Department of Fisheries, Aquaculture and Rural Development"}
   ]
   collaborators: [
-    {"name":"", "org":""},
-    {"name":"", "org":""},
-    {"name":"", "org":""}
   ]
-IDENTIFYING CRITICAL ECOLOGICAL THRESHOLDS FOR TUNICATE INFESTATIONS ON MUSSEL FARMS
-APR. 2011–MAR. 2014	
-FUNDED BY: 
-DFO – Program for Aquaculture Regulatory Research (DFO – PARR)
-PROJECT LEAD: 
-Thomas Landry (DFO)
-PROJECT TEAM: 
-Jeff Davidson, 
-Thitiwan Patanastienkul (AVC-UPEI); 
-Luc Comeau,
-Andrea Locke, 
-Thomas Guyondet, 
-Daniel Bourque, 
-Monique Niles, 
-Chris McKindsey (DFO); 
-Aaron Ramsay (PEI Department of Fisheries, Aquaculture and Rural Development)
 
 
 - title: "ASSESSING THE EFFICIENCY OF A MACROALGAE BIOFILTER IN REGULATING NITRATE AND PHOSPHATE CONCENTRATIONS IN TANKS AT THE MONTRÉAL BIODÔME, IMITATING THE ECOSYSTEM OF THE GULF OF ST. LAWRENCE"
