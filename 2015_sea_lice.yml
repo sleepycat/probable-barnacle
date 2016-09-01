@@ -106,7 +106,7 @@
   ]
   cofunded_by: [
     {"org":"Marine Harvest Canada Inc.", "program":"undefined"},
-    {"org":"Grieg Seafood BC", "program":"undefined"},
+    {"org":"Grieg Seafood", "program":"undefined"},
     {"org":"Mainstream Canada", "program":"undefined"}
   ]
   project_lead: [
@@ -116,7 +116,7 @@
   ]
   collaborators: [
     {"org":"Marine Harvest Canada Inc.", "name":"undefined"},
-    {"org":"Grieg Seafood BC", "name":"undefined"},
+    {"org":"Grieg Seafood", "name":"undefined"},
     {"org":"Mainstream Canada", "name":"undefined"}
   ]
 

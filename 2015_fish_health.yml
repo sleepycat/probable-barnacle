@@ -484,7 +484,7 @@
     {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
-    {"org":"Grieg Seafoods", "program":"undefined"},
+    {"org":"Grieg Seafood", "program":"undefined"},
     {"org":"Mainstream Canada", "program":"undefined"},
     {"org":"Marine Harvest", "program":"undefined"}
   ]
@@ -494,7 +494,7 @@
   project_team: [
   ]
   collaborators: [
-    {"name":"undefined", "org":"Grieg Seafoods"},
+    {"name":"undefined", "org":"Grieg Seafood"},
     {"name":"undefined", "org":"Mainstream Canada"},
     {"name":"undefined", "org":"Marine Harvest"}
   ]

@@ -657,7 +657,7 @@
   cofunded_by: [
     {"org":"Cleanwater Shellfish Ltd.", "program":"undefined"},
     {"org":"Creative Salmon", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"},
+    {"org":"Grieg Seafood", "program":"undefined"},
     {"org":"Island Scallops Ltd.", "program":"undefined"},
     {"org":"Little Wing Oysters Ltd.", "program":"undefined"},
     {"org":"Mac’s Oysters Ltd.", "program":"undefined"},
@@ -679,7 +679,7 @@
   collaborators: [
     {"name":"undefined", "org":"Cleanwater Shellfish Ltd."},
     {"name":"undefined", "org":"Creative Salmon"},
-    {"name":"undefined", "org":"Grieg Seafood BC Ltd."},
+    {"name":"undefined", "org":"Grieg Seafood"},
     {"name":"undefined", "org":"Island Scallops Ltd."},
     {"name":"undefined", "org":"Little Wing Oysters Ltd."},
     {"name":"undefined", "org":"Mac’s Oysters Ltd."},

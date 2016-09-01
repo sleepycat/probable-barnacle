@@ -13,7 +13,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Thierry Chopin", "org":"University of New Brunswick Saint John"}
@@ -35,7 +35,7 @@
     {"name":"undefined", "org":"Cooke Aquaculture Inc."},
     {"name":"undefined", "org":"Kyuquot SEAfoods Ltd."},
     {"name":"undefined", "org":"Marine Harvest Canada Ltd."},
-    {"name":"undefined", "org":"Grieg Seafood BC Ltd."}
+    {"name":"undefined", "org":"Grieg Seafood"}
   ]
 
 - title: "CULTIVATION OF COMPLEMENTARY INORGANIC EXTRACTIVE SPECIES FOR INCREASED SYSTEM PERFORMANCE"
@@ -53,7 +53,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Thierry Chopin", "org":"University of New Brunswick Saint John"}
@@ -84,7 +84,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Mark Flaherty", "org":"University of Victoria"}
@@ -113,7 +113,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Thierry Chopin", "org":"University of New Brunswick Saint John"}
@@ -143,7 +143,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Andrew Cooper", "org":"Fisheries and Oceans Canada"}
@@ -171,7 +171,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Maycira Costa", "org":"University of Victoria"}
@@ -202,7 +202,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Curran Crawford", "org":"University of Victoria"}
@@ -231,7 +231,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Duncan Knowler", "org":"Simon Fraser University"}
@@ -261,7 +261,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Jonathan Grant", "org":"Dalhousie University"}
@@ -294,7 +294,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Chris Pearce", "org":"Fisheries and Oceans Canada"}
@@ -307,7 +307,7 @@
     {"name":"Shawn Robinson", "org":"Fisheries and Oceans Canada"}
   ]
   collaborators: [
-    {"name":"undefined", "org":"Grieg Seafood BC Ltd."}
+    {"name":"undefined", "org":"Grieg Seafood"}
   ]
 
 - title: "EFFECTS OF ANTI-SEA LICE PESTICIDES ON MARINE INVERTEBRATES"
@@ -325,7 +325,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Karen Kidd", "org":"University of New Brunswick Saint John"}
@@ -336,7 +336,7 @@
     {"name":"Geoff McBriarty", "org":"University of New Brunswick Saint John"}
   ]
   collaborators: [
-    {"name":"undefined", "org":"Grieg Seafood BC Ltd."}
+    {"name":"undefined", "org":"Grieg Seafood"}
   ]
 
 - title: "QUANTIFYING THE CAPTURE AND CONVERSION EFFICIENCIES OF SPECIES BEING CONSIDERED FOR ORGANIC EXTRACTION IN OPEN-WATER IMTA SYSTEMS"
@@ -354,7 +354,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Bruce MacDonald", "org":"University of New Brunswick Saint John"}
@@ -400,7 +400,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Gregor Reid", "org":"University of New Brunswick Saint John"},
@@ -434,7 +434,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Gregor Reid", "org":"University of New Brunswick Saint John"},
@@ -468,7 +468,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Shawn Robinson", "org":"Fisheries and Oceans Canada"}
@@ -500,7 +500,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Shawn Robinson", "org":"Fisheries and Oceans Canada"}
@@ -537,7 +537,7 @@
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
     {"org":"Kyuquot SEAfoods Ltd.", "program":"undefined"},
     {"org":"Marine Harvest Canada Ltd.", "program":"undefined"},
-    {"org":"Grieg Seafood BC Ltd.", "program":"undefined"}
+    {"org":"Grieg Seafood", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Dave Speare", "org":"University of Prince Edward Island – Atlantic Veterinary College"}
