@@ -60,7 +60,7 @@
   cofunded_by: [
     {"org":"Marine Harvest Canada", "program":"undefined"},
     {"org":"Grieg Seafood", "program":"undefined"},
-    {"org":"Cermaq", "program":"undefined"}
+    {"org":"Cermaq Canada", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Kyle Garver", "org":"Fisheries and Oceans Canada"}
