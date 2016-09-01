@@ -30,7 +30,7 @@
   funded_by: [{"org": "Atlantic Canada Opportunities Agency", "program": "Atlantic Innovation Fund"}]
   cofunded_by: []
   project_lead: [{"name":"Rachid Ganga", "org": "Center for Aquaculture Technologies Canada", "country":"Canada"}]
-  project_team: [{"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"},{"name":"Dawn Runighan", "org":"AquaBounty Technologies", "country":"Canada"}, {"name": "John Buchanan", "org": "Center for Aquaculture Technologies", "country": "USA"}]
+  project_team: [{"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"},{"name":"Dawn Runighan", "org":"AquaBounty Technologies", "country":"Canada"}, {"name": "John Buchanan", "org": "Center for Aquaculture Technologies Canada", "country": "USA"}]
   collaborators: [{"name": "Santosh Lall", "org": "National Research Council", "country": "Canada"}, {"name": "Sean Tibbetts", "org": "National Research Council", "country": "Canada"}, {"name": "Cheryl Wall", "org": "National Research Council", "country": "Canada"}]
   contact: ["rganga@aquatechcenter.com"]
 
@@ -138,7 +138,7 @@
   funded_by: [{"org": "PEI Aquaculture and Fisheries Research Initiative Inc.", "program": "undefined"}]
   cofunded_by: [{"org": "Natural Sciences and Engineering Research Council", "program": "undefined"}, {"org": "Natural Sciences and Engineering Research Council", "program": "Industrial Post-Doctoral Award"}]
   project_lead: [{"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"}]
-  project_team: [{"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"},{"name":"Marcia Chiasson", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"}, {"name": "America Fujimoto", "org": "Center for Aquaculture Technologies", "country": "USA"}, {"name": "Jason Stannard", "org": "Center for Aquaculture Technologies", "country": "USA" }, {"name": "John Buchanan", "org": "Center for Aquaculture Technologies", "country": "USA"}]
+  project_team: [{"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"},{"name":"Marcia Chiasson", "org":"Center for Aquaculture Technologies Canada", "country":"Canada"}, {"name": "America Fujimoto", "org": "Center for Aquaculture Technologies Canada", "country": "USA"}, {"name": "Jason Stannard", "org": "Center for Aquaculture Technologies Canada", "country": "USA" }, {"name": "John Buchanan", "org": "Center for Aquaculture Technologies Canada", "country": "USA"}]
   collaborators: []
   contact: ["dplouffe@aquatechcenter.com"]
 

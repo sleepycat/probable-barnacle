@@ -175,11 +175,11 @@
     {"name":"Tilmann Benfey", "org":"University of New Brunswick"}
   ]
   project_team: [
-    {"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies"},
-    {"name":"Matthew Bryenton", "org":"Center for Aquaculture Technologies"}
+    {"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada"},
+    {"name":"Matthew Bryenton", "org":"Center for Aquaculture Technologies Canada"}
   ]
   collaborators: [
-    {"name":"undefined", "org":"Center for Aquaculture Technologies"}
+    {"name":"undefined", "org":"Center for Aquaculture Technologies Canada"}
   ]
 
 
@@ -195,7 +195,7 @@
     {"org":"New Brunswick Innovation Foundation", "program":"undefined"},
     {"org":"Huntsman Marine Science Centre", "program":"undefined"},
     {"org":"AquaBounty Canada", "program":"undefined"},
-    {"org":"Center for Aquaculture Technologies", "program":"undefined"}
+    {"org":"Center for Aquaculture Technologies Canada", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Amber Garber", "org":"Huntsman Marine Science Centre"}
@@ -207,7 +207,7 @@
   ]
   collaborators: [
     {"name":"Dawn Runighan", "org":"AquaBounty Canada"},
-    {"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies"}
+    {"name":"Debbie Plouffe", "org":"Center for Aquaculture Technologies Canada"}
   ]
 
 
@@ -449,7 +449,7 @@
   ]
   project_team: [
     {"name":"Matt Bryenton", "org":"Center for Aquaculture Technologies Canada"},
-    {"name":"John Buchanan", "org":"Center for Aquaculture Technologies"}
+    {"name":"John Buchanan", "org":"Center for Aquaculture Technologies Canada"}
   ]
   collaborators: [
   ]
