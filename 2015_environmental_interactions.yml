@@ -379,7 +379,7 @@ MAR. 2012–APR. 2016"
     {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
-    {"org":"Cold Ocean Salmon", "program":"undefined"},
+    {"org":"Cold Ocean Salmon Inc.", "program":"undefined"},
     {"org":"Northern Harvest Sea Farms", "program":"undefined"}
   ]
   project_lead: [
@@ -388,7 +388,7 @@ MAR. 2012–APR. 2016"
   project_team: [
   ]
   collaborators: [
-    {"name":"undefined", "org":"Cold Ocean Salmon"},
+    {"name":"undefined", "org":"Cold Ocean Salmon Inc."},
     {"name":"undefined", "org":"Northern Harvest Sea Farms"}
   ]
 

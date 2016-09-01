@@ -236,7 +236,7 @@
     {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
-    {"org":"Cold Ocean Salmon", "program":"undefined"},
+    {"org":"Cold Ocean Salmon Inc.", "program":"undefined"},
     {"org":"Newfoundland Aquaculture Industry Alliance", "program":"undefined"}
   ]
   project_lead: [
@@ -245,12 +245,12 @@
   project_team: [
     {"name":"Sebastien Donnet", "org":"Fisheries and Oceans Canada"},
     {"name":"Kevin Le Morzadec", "org":"Fisheries and Oceans Canada"},
-    {"name":"Julia Bungay", "org":"Cold Ocean Salmon"},
+    {"name":"Julia Bungay", "org":"Cold Ocean Salmon Inc."},
     {"name":"Miranda Pryor", "org":"Newfoundland Aquaculture Industry Alliance"}
   ]
   collaborators: [
     {"name":"undefined", "org":"Newfoundland Aquaculture Industry Alliance"},
-    {"name":"undefined", "org":"Cold Ocean Salmon"}
+    {"name":"undefined", "org":"Cold Ocean Salmon Inc."}
   ]
 
 - title: "DEVELOPMENT OF A NOVEL RNA-BASED TREATMENT AGAINST THE INFECTIOUS SALMON ANEMIA VIRUS (ISAV)"
