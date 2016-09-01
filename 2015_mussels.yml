@@ -16,8 +16,8 @@
   ]
   project_team: [
     {"name":"Andrea Weise", "org":"Fisheries and Oceans Canada"},
-    {"name":"Philippe Archambault", "org":"ISMER"},
-    {"name":"Émilie Simard", "org":"ISMER"},
+    {"name":"Philippe Archambault", "org":"Institut des sciences de la mer de Rimouski
+    {"name":"Émilie Simard", "org":"Institut des sciences de la mer de Rimouski
     {"name":"Christian Vigneau", "org":"La moule du large Inc."}
   ]
   collaborators: [
@@ -43,7 +43,7 @@
   project_team: [
     {"name":"Annick Drouin", "org":"Fisheries and Oceans Canada"},
     {"name":"Anne-Sara Sean", "org":"Fisheries and Oceans Canada"},
-    {"name":"Philippe Archambault", "org":"ISMER"},
+    {"name":"Philippe Archambault", "org":"Institut des sciences de la mer de Rimouski
     {"name":"Christian Vigneau", "org":"La moule du large Inc."}
   ]
   collaborators: [
@@ -69,7 +69,7 @@
   project_team: [
     {"name":"Annick Drouin", "org":"Fisheries and Oceans Canada"},
     {"name":"Andrea Weise", "org":"Fisheries and Oceans Canada"},
-    {"name":"Philippe Archambault", "org":"ISMER"},
+    {"name":"Philippe Archambault", "org":"Institut des sciences de la mer de Rimouski
     {"name":"Christian Vigneau", "org":"La moule du large Inc."}
   ]
   collaborators: [
@@ -194,8 +194,8 @@
     {"name":"Thomas Guyondet", "org":"Fisheries and Oceans Canada"},
     {"name":"Angeline LeBlanc", "org":"Fisheries and Oceans Canada"},
     {"name":"Michel Starr", "org":"Fisheries and Oceans Canada"},
-    {"name":"Réjean Tremblay", "org":"ISMER"},
-    {"name":"Réjean Tremblay", "org":"ISMER"},
+    {"name":"Réjean Tremblay", "org":"Institut des sciences de la mer de Rimouski
+    {"name":"Réjean Tremblay", "org":"Institut des sciences de la mer de Rimouski
     {"name":"Frédéric Olivier", "org":"MNHN"},
     {"name":"Tarik Meziane", "org":"MNHN"}
   ]
