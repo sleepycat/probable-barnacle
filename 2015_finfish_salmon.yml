@@ -4,10 +4,10 @@
   category: ["finfish"]
   species: ["salmon"]
   funded_by: [{"org": "National Conservation Plan funding", "program": "undefined"}]
-  cofunded_by: [{"org": "Atlantic Canada Fish Farmers Association", "program": "undefined", "country":"Canada"}, {"org": "Cooke Aquaculture", "program": "undefined", "country": "Canada"}, {"org": "Fisheries and Oceans Canada", "program": "undefined", "country": "Canada"}, {"org": "Fort Folly First Nations", "program": "undefined", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "program": "undefined",  "country": "Canada"}, {"org": "New Brunswick Department of Agriculture and Aquaculture", "program": "undefined",  "country": "Canada"}]
+  cofunded_by: [{"org": "Atlantic Canada Fish Farmers Association", "program": "undefined", "country":"Canada"}, {"org": "Cooke Aquaculture Inc.", "program": "undefined", "country": "Canada"}, {"org": "Fisheries and Oceans Canada", "program": "undefined", "country": "Canada"}, {"org": "Fort Folly First Nations", "program": "undefined", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "program": "undefined",  "country": "Canada"}, {"org": "New Brunswick Department of Agriculture and Aquaculture", "program": "undefined",  "country": "Canada"}]
   project_lead: [{"name":"Corey Clarke", "org":"Parks Canada", "country":"Canada"}]
-  project_team: [{"name":"Betty House", "org":"Atlantic Canada Fish Farmers Association", "country":"Canada"},{"name":"Tom Taylor", "org":"Cooke Aquaculture", "country":"Canada"}, {"name": "Chris Bridger", "org": "Huntsman Marine Science Centre", "country": "Canada"}, {"name": "Michael Beattie", "org": "New Brunswick Department of Agriculture and Aquaculture", "country": "Canada"}, {"name": "Tim Robinson", "org": "Fort Folly First Nations", "country": "Canada"}, {"name": "John Whitelaw", "org": "Fisheries and Oceans Canada"}]
-  collaborators: [{"name":"undefined", "org": "Atlantic Canada Fish Farmers Association", "country":"Canada"}, {"name":"undefined", "org": "Cooke Aquaculture", "country": "Canada"}, {"name":"undefined", "org": "Fisheries and Oceans Canada", "country": "Canada"}, {"name":"undefined", "org": "Fort Folly First Nations", "country": "Canada"}, {"name":"undefined", "org": "Huntsman Marine Science Centre", "country": "Canada"}, {"name":"undefined", "org": "New Brunswick Department of Agriculture and Aquaculture", "country": "Canada"}]
+  project_team: [{"name":"Betty House", "org":"Atlantic Canada Fish Farmers Association", "country":"Canada"},{"name":"Tom Taylor", "org":"Cooke Aquaculture Inc.", "country":"Canada"}, {"name": "Chris Bridger", "org": "Huntsman Marine Science Centre", "country": "Canada"}, {"name": "Michael Beattie", "org": "New Brunswick Department of Agriculture and Aquaculture", "country": "Canada"}, {"name": "Tim Robinson", "org": "Fort Folly First Nations", "country": "Canada"}, {"name": "John Whitelaw", "org": "Fisheries and Oceans Canada"}]
+  collaborators: [{"name":"undefined", "org": "Atlantic Canada Fish Farmers Association", "country":"Canada"}, {"name":"undefined", "org": "Cooke Aquaculture Inc.", "country": "Canada"}, {"name":"undefined", "org": "Fisheries and Oceans Canada", "country": "Canada"}, {"name":"undefined", "org": "Fort Folly First Nations", "country": "Canada"}, {"name":"undefined", "org": "Huntsman Marine Science Centre", "country": "Canada"}, {"name":"undefined", "org": "New Brunswick Department of Agriculture and Aquaculture", "country": "Canada"}]
   contact: ["Corey.Clarke@pc.gc.ca"]
 
 - title: "ATLANTIC SALMON SELECTION AND BROODSTOCK DEVELOPMENT PROGRAM FOR USE IN COMMERCIAL SALTWATER AQUACULTURE PRODUCTION ON THE EAST COAST OF CANADA"
@@ -246,8 +246,8 @@
   species: ["salmon"]
   funded_by: [{"org": "Genome Canada", "program": "undefined"}, {"org": "Genome Atlantic", "program": "undefined"}]
   cofunded_by: [{"org": "National Research Council", "program": "Industrial Research Assistance Program"}]
-  project_lead: [{"name":"Keng Pee Ang", "org":"Cooke Aquaculture/Kelly Cove Salmon", "country":"Canada"}, {"name":"Elizabeth Boulding", "org":"University of Guelph", "country":"Canada"}]
-  project_team: [{"name":"Jake Elliott", "org":"Cooke Aquaculture/Kelly Cove Salmon", "country":"Canada"}, {"name":"Frank Powell", "org":"Cooke Aquaculture/Kelly Cove Salmon", "country":"Canada"}, {"name":"Larry Schaeffer", "org":"University of Guelph", "country":"Canada"}]
+  project_lead: [{"name":"Keng Pee Ang", "org":"Cooke Aquaculture Inc./Kelly Cove Salmon", "country":"Canada"}, {"name":"Elizabeth Boulding", "org":"University of Guelph", "country":"Canada"}]
+  project_team: [{"name":"Jake Elliott", "org":"Cooke Aquaculture Inc./Kelly Cove Salmon", "country":"Canada"}, {"name":"Frank Powell", "org":"Cooke Aquaculture Inc./Kelly Cove Salmon", "country":"Canada"}, {"name":"Larry Schaeffer", "org":"University of Guelph", "country":"Canada"}]
   collaborators: []
   contact: ["Keng.Pee.Ang@cookeaqua.com"]
 

@@ -42,7 +42,7 @@
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
   cofunded_by: [{"org": "Kelly Cove Salmon Ltd."}]
   project_lead: [{"name":"Shawn Robinson", "org": "Fisheries and Oceans Canada", "country":"Canada"}]
-  project_team: [{"name":"Frank Powell", "org":"Cooke Aquaculture", "country":"Canada"}]
+  project_team: [{"name":"Frank Powell", "org":"Cooke Aquaculture Inc.", "country":"Canada"}]
   collaborators: [{"name": "Keng Pee Ang","org":"Kelly Cove Salmon Ltd.", "country":"Canada"}]
   contact: ["shawn.robinson@dfo-mpo.gc.ca"]
 
