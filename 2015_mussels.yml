@@ -118,7 +118,7 @@
     {"name":"Chris McKindsey", "org":"Fisheries and Oceans Canada"},
     {"name":"Andrea Weise", "org":"Fisheries and Oceans Canada"}, 
     {"name":"François Bourque", "org":"Ministère de l’Agriculture, des Pêcheries et de l’Alimentation Québec"}, 
-    {"name":"Madeleine Nadeau", "org":"MERINOV – Centre d’innovation de l’aquaculture et des pêches du Québec"}, 
+    {"name":"Madeleine Nadeau", "org":"MERINOV"}, 
     {"name":"Christian Vigneau", "org":"La moule du large Inc."}
   ]
   collaborators: [
@@ -308,16 +308,16 @@
     {"org":"Ministère des Finance et Économie", "program":"undefined"}
   ]
   cofunded_by: [
-    {"org":"Merinov", "program":"undefined"},
+    {"org":"MERINOV", "program":"undefined"},
     {"org":"Grande-Entrée Aquaculture Inc.", "program":"undefined"},
     {"org":"Culti-Mer Inc.", "program":"undefined"},
     {"org":"Biomer", "program":"undefined"}
   ]
   project_lead: [
-    {"name":"Lise Chevarie", "org":"Merinov"}
+    {"name":"Lise Chevarie", "org":"MERINOV"}
   ]
   project_team: [
-    {"name":"Jean-François Laplante", "org":"Merinov"},
+    {"name":"Jean-François Laplante", "org":"MERINOV"},
     {"name":"Élisabeth Varennes", "org":"Université du Québec à Rimouski"}
   ]
   collaborators: [

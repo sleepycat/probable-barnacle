@@ -84,7 +84,7 @@
   cofunded_by: [] #missing co-funding
   project_lead: [{"name":"Grant Vandenberg", "org":"Université Laval"}]
   project_team: [{"name":"Émilie Proulx", "org":"Université Laval"}, {"name":"Benjamin Laramée", "org":"Université Laval"}]
-  collaborators: [{"name":"Réjean Tremblay", "org":"Institut des sciences de la mer de Rimouski"}, {"name":"Céline Audet", "org":"Institut des sciences de la mer de Rimouski"}, {"name":"Marie-Hélène Fournier", "org":"Merinov"},{"name":"Marco Blanchet", "org":"Station piscicole Trois-Lacs"}]
+  collaborators: [{"name":"Réjean Tremblay", "org":"Institut des sciences de la mer de Rimouski"}, {"name":"Céline Audet", "org":"Institut des sciences de la mer de Rimouski"}, {"name":"Marie-Hélène Fournier", "org":"MERINOV"},{"name":"Marco Blanchet", "org":"Station piscicole Trois-Lacs"}]
 
 - title: "STUDY OF THE DIGESTIBILITY OF FLY LARVAE PRODUCT-BASED DIETS IN RAINBOW TROUT"
   year: "2015"

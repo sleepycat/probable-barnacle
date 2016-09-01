@@ -146,7 +146,7 @@
     {"org":"Ministère de l’Agriculture, des Pêcheries et de l'Alimentation du Québec", "program":"undefined"}
   ]
   project_lead: [
-    {"name":"Jean-François LaPlante", "org":"Merinov"}
+    {"name":"Jean-François LaPlante", "org":"MERINOV"}
   ]
   project_team: [
     {"name":"Estelle Pedneault", "org":"undefined"},
@@ -546,7 +546,7 @@
     {"org":"Société des Amis du Biodôme", "program":"undefined"}, 
     {"org":"Fonds de recherche Nature et technologies", "program":"undefined"}, 
     {"org":"Fonds d’amorçage et de partenariat UQAR", "program":"undefined"},
-    {"org":"Merinov", "program":"undefined"}
+    {"org":"MERINOV", "program":"undefined"}
   ]
   cofunded_by: [
     {"org":"Natural Sciences and Engineering Research Council", "program":""},

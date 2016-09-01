@@ -27,7 +27,7 @@
   funded_by: [
     {"org":"Fonds de Recherche du Québec Nature et Technologie", "program":""},
     {"org":"UQAR", "program":"Fond d’Amorçage de Partenariat"},
-    {"org":"Merinov", "program":"Fond d’Amorçage de Partenariat"},
+    {"org":"MERINOV", "program":"Fond d’Amorçage de Partenariat"},
   ]
   cofunded_by: [
     {"org":"", "program":""},
@@ -36,10 +36,10 @@
     {"org":"", "program":""}
   ]
   project_lead: [
-    {"name":"Lisandre Solomon", "org":"Merinov"}
+    {"name":"Lisandre Solomon", "org":"MERINOV"}
   ]
   project_team: [
-    {"name":"Madeleine Nadeau", "org":"Merinov’s Centre des-Îles"}
+    {"name":"Madeleine Nadeau", "org":"MERINOV’s Centre des-Îles"}
   ]
   collaborators: [
     {"name":"Réjean Tremblay", "org":"Institut des sciences de la mer de Rimouski

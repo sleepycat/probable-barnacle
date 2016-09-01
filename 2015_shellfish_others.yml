@@ -6,12 +6,12 @@
   funded_by: [
     {"org":"Ministère des Finances et de l’Économie du Québec", "program":"Fonds d’Amorçage de Partenariat"}, 
     {"org":"Université du Québec à Rimouski", "program":"undefined"},
-    {"org":"Merinov", "program":"undefined"}
+    {"org":"MERINOV", "program":"undefined"}
   ]
   cofunded_by: [
   ]
   project_lead: [
-    {"name":"Lisandre Solomon", "org":"Merinov"}
+    {"name":"Lisandre Solomon", "org":"MERINOV"}
   ]
   project_team: [
   ]
@@ -305,11 +305,11 @@
   cofunded_by: [
   ]
   project_lead: [
-    {"name":"Carole Cyr", "org":"Merinov"}
+    {"name":"Carole Cyr", "org":"MERINOV"}
   ]
   project_team: [
-    {"name":"Lisandre G. Solomon", "org":"Merinov"},
-    {"name":"Madeleine Nadeau", "org":"Merinov"}
+    {"name":"Lisandre G. Solomon", "org":"MERINOV"},
+    {"name":"Madeleine Nadeau", "org":"MERINOV"}
   ]
   collaborators: [
   ]
