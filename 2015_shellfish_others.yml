@@ -184,7 +184,7 @@
     {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
-    {"org":"Island Scallops", "program":"undefined"},
+    {"org":"Island Scallops Ltd.", "program":"undefined"},
     {"org":"Island Sea Farms Inc.", "program":"undefined"},
     {"org":"Taylor Shellfish Farms Canada", "program":"undefined"},
     {"org":"Limberis Seafoods Ltd.", "program":"undefined"},
@@ -197,7 +197,7 @@
   project_team: [
   ]
   collaborators: [
-    {"name":"undefined", "org":"Island Scallops"},
+    {"name":"undefined", "org":"Island Scallops Ltd."},
     {"name":"undefined", "org":"Island Sea Farms Inc."},
     {"name":"undefined", "org":"Taylor Shellfish Farms Canada"},
     {"name":"undefined", "org":"Limberis Seafoods Ltd."},
