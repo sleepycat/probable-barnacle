@@ -186,7 +186,7 @@
   ]
   cofunded_by: [
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
-    {"org":"Novartis Animal Health Canada Inc.", "program":"undefined"},
+    {"org":"Novartis", "program":"undefined"},
     {"org":"", "program":""},
     {"org":"", "program":""}
   ]
@@ -196,11 +196,11 @@
   project_team: [
     {"name":"Anthony Manning", "org":"Research and Productivty Council of New Brunswick"},
     {"name":"Leighanne Hawkins", "org":"Cooke Aquaculture Inc."},
-    {"name":"Allison MacKinnon", "org":"Novartis Animal Health Canada Inc."}
+    {"name":"Allison MacKinnon", "org":"Novartis"}
   ]
   collaborators: [
     {"name":"undefined", "org":"Cooke Aquaculture Inc."},
-    {"name":"undefined", "org":"Novartis Animal Health Canada Inc."}
+    {"name":"undefined", "org":"Novartis"}
   ]
 
 - title: "LOW PATHOGENIC INFECTIOUS SALMON ANEMIA VIRUS (ISAV) IN VIVO: A COMPARATIVE GENOMIC STUDY"
