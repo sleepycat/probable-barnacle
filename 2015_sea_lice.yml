@@ -4,9 +4,9 @@
   category: ["sea lice"]
   species: ["sea lice", "salmon"]
   funded_by: [{"org": "Atlantic Canada Opportunities Agency", "program": "Atlantic Innovation Fund"}]
-  cofunded_by: [{"org":"New Brunswick Innovation Foundation", "program": "undefined", "country": "Canada"}, {"org": "Northern Harvest Sea Farms NL Ltd.", "program": "undefined", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "program": "undefined", "country": "Canada"}]
+  cofunded_by: [{"org":"New Brunswick Innovation Foundation", "program": "undefined", "country": "Canada"}, {"org": "Northern Harvest Sea Farms", "program": "undefined", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "program": "undefined", "country": "Canada"}]
   project_lead: [{"name":"Amber Garber", "org": "Huntsman Marine Science Centre", "country":"Canada"}]
-  project_team: [{"name":"Susan Hodkinson", "org":"Huntsman Marine Science Centre", "country":"Canada"},{"name":"Chris Bridger", "org":"Huntsman Marine Science Centre", "country":"Canada"}, {"name": "Jane Tosh", "org": "University of Guelph", "country": "Canada"}, {"name": "Aaron Craig", "org": "Northern Harvest Sea Farms NL Ltd.", "country": "Canada"}, {"name": "Robin Muzzerall", "org": "Northern Harvest Sea Farms NL Ltd.", "country": "Canada"}]
+  project_team: [{"name":"Susan Hodkinson", "org":"Huntsman Marine Science Centre", "country":"Canada"},{"name":"Chris Bridger", "org":"Huntsman Marine Science Centre", "country":"Canada"}, {"name": "Jane Tosh", "org": "University of Guelph", "country": "Canada"}, {"name": "Aaron Craig", "org": "Northern Harvest Sea Farms", "country": "Canada"}, {"name": "Robin Muzzerall", "org": "Northern Harvest Sea Farms", "country": "Canada"}]
   collaborators: []
   contact: ["agarber@huntsmanmarine.ca"]
 
