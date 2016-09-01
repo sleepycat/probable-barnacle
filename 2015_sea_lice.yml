@@ -18,7 +18,7 @@
   funded_by: [{"org": "Canada Excellence Research Chair", "program": "University of Prince Edward Island Aquatic Epidemiology"}]
   cofunded_by: []
   project_lead: [{"name":"Raphael Vanderstichel", "org": "University of Prince Edward Island", "country":"Canada"}]
-  project_team: [{"name":"Fred Page", "org":"Department of Fisheries and Oceans", "country":"Canada"},{"name":"Erin Rees", "org":"University of Prince Edward Island", "country":"Canada"}, {"name": "Larry Hammell", "org": "University of Prince Edward Island", "country": "Canada"}, {"name": "Crawford Revie", "org": "University of Prince Edward Island", "country": "Canada"}, {"name": "Sophie St. Hilaire", "org": "University of Prince Edward Island", "country": "Canada"}]
+  project_team: [{"name":"Fred Page", "org":"Fisheries and Oceans Canada", "country":"Canada"},{"name":"Erin Rees", "org":"University of Prince Edward Island", "country":"Canada"}, {"name": "Larry Hammell", "org": "University of Prince Edward Island", "country": "Canada"}, {"name": "Crawford Revie", "org": "University of Prince Edward Island", "country": "Canada"}, {"name": "Sophie St. Hilaire", "org": "University of Prince Edward Island", "country": "Canada"}]
   collaborators: []
   contact: ["rvanderstich@upei.ca"]
 
@@ -27,10 +27,10 @@
   year: "2015"
   category: ["sea lice"]
   species: ["salmon", "sea lice"]
-  funded_by: [{"org": "Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}]
+  funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
   cofunded_by: [{"org": "Kelly Cove Salmon Ltd."}]
-  project_lead: [{"name":"Shawn Robinson", "org": "Department of Fisheries and Oceans", "country":"Canada"}]
-  project_team: [{"name":"Steve Neil", "org":"Department of Fisheries and Oceans", "country":"Canada"}, {"name":"Keng Pee Ang", "org":"Kelly Cove Salmon Ltd.", "country":"Canada"}]
+  project_lead: [{"name":"Shawn Robinson", "org": "Fisheries and Oceans Canada", "country":"Canada"}]
+  project_team: [{"name":"Steve Neil", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Keng Pee Ang", "org":"Kelly Cove Salmon Ltd.", "country":"Canada"}]
   collaborators: [{"name": "undefined", "org": "Kelly Cove Salmon Ltd.", "country": "Canada"}]
   contact: ["shawn.robinson@dfo-mpo.gc.ca"]
 
@@ -39,9 +39,9 @@
   year: "2015"
   category: ["sea lice"]
   species: ["sea lice"]
-  funded_by: [{"org": "Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}]
+  funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
   cofunded_by: [{"org": "Kelly Cove Salmon Ltd."}]
-  project_lead: [{"name":"Shawn Robinson", "org": "Department of Fisheries and Oceans", "country":"Canada"}]
+  project_lead: [{"name":"Shawn Robinson", "org": "Fisheries and Oceans Canada", "country":"Canada"}]
   project_team: [{"name":"Frank Powell", "org":"Cooke Aquaculture", "country":"Canada"}]
   collaborators: [{"name": "Keng Pee Ang","org":"Kelly Cove Salmon Ltd.", "country":"Canada"}]
   contact: ["shawn.robinson@dfo-mpo.gc.ca"]
@@ -52,21 +52,21 @@
   species: ["three-spine stickleback", "sea lice"]
   period: "APR. 2014 – MAR. 2016"
   funded_by: [
-    {"org":"Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
     {"org":"Cold Ocean Salmon Inc.", "program":"undefined"}
   ]
   project_lead: [
-    {"name":"Harry Murray", "org":"Department of Fisheries and Oceans"}
+    {"name":"Harry Murray", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
-    {"name":"Andry Ratsimandresy", "org":"Department of Fisheries and Oceans"},
-    {"name":"Alexandra Eaves", "org":"Department of Fisheries and Oceans"},
-    {"name":"Sebastien Donnet", "org":"Department of Fisheries and Oceans"},
-    {"name":"Dwight Drover", "org":"Department of Fisheries and Oceans"},
-    {"name":"Sharon Kenny", "org":"Department of Fisheries and Oceans"},
-    {"name":"Dwight Drover", "org":"Department of Fisheries and Oceans"},
+    {"name":"Andry Ratsimandresy", "org":"Fisheries and Oceans Canada"},
+    {"name":"Alexandra Eaves", "org":"Fisheries and Oceans Canada"},
+    {"name":"Sebastien Donnet", "org":"Fisheries and Oceans Canada"},
+    {"name":"Dwight Drover", "org":"Fisheries and Oceans Canada"},
+    {"name":"Sharon Kenny", "org":"Fisheries and Oceans Canada"},
+    {"name":"Dwight Drover", "org":"Fisheries and Oceans Canada"},
     {"name":"Keng Pee Ang", "org":"Cold Ocean Salmon Inc."}
   ]
   collaborators: [
@@ -79,16 +79,16 @@
   species: ["sea lice", "salmon"]
   period: "APR. 2014 – MAR. 2015"
   funded_by: [
-    {"org":"Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
     {"org":"Marine Harvest Canada Inc.", "program":"undefined"}
   ]
   project_lead: [
-    {"name":"Simon Jones", "org":"Department of Fisheries and Oceans"}
+    {"name":"Simon Jones", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
-    {"name":"Simon Jones", "org":"Department of Fisheries and Oceans"},
+    {"name":"Simon Jones", "org":"Fisheries and Oceans Canada"},
     {"name":"Brad Boyce", "org":"Marine Harvest Canada Inc."},
     {"name":"Diane Morrison", "org":"Marine Harvest Canada Inc."}
   ]
@@ -102,7 +102,7 @@
   species: ["sea lice", "salmon"]
   period: "APR. 2012 – MAR. 2014"
   funded_by: [
-    {"org":"Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
     {"org":"Marine Harvest Canada Inc.", "program":"undefined"},
@@ -110,7 +110,7 @@
     {"org":"Mainstream Canada", "program":"undefined"}
   ]
   project_lead: [
-    {"name":"Peter Chandler", "org":"Department of Fisheries and Oceans"}
+    {"name":"Peter Chandler", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
   ]
@@ -126,18 +126,18 @@
   species: ["sea lice", "salmon", "atlantic cod", "pollock", 'herring', "mackerel", "stickleback"]
   period: "APR. 2013 – MAR. 2014"
   funded_by: [
-    {"org":"Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}
+    {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
     {"org":"Cold Ocean Salmon Inc.", "program":"undefined"}
   ]
   project_lead: [
-    {"name":"Harry Murray", "org":"Department of Fisheries and Oceans"}
+    {"name":"Harry Murray", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
-    {"name":"Alexandra Eaves", "org":"Department of Fisheries and Oceans"},
-    {"name":"Dwight Drover", "org":"Department of Fisheries and Oceans"},
-    {"name":"Sharon Kenny", "org":"Department of Fisheries and Oceans"}
+    {"name":"Alexandra Eaves", "org":"Fisheries and Oceans Canada"},
+    {"name":"Dwight Drover", "org":"Fisheries and Oceans Canada"},
+    {"name":"Sharon Kenny", "org":"Fisheries and Oceans Canada"}
   ]
   collaborators: [
     {"name":"Keng Pee Ang", "org":"Cold Ocean Salmon Inc."}
@@ -174,14 +174,14 @@
   species: ["sea lice", "salmon"]
   period: "APR. 2013 – MAR. 2015"
   funded_by: [
-    {"org": "Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}
+    {"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
     {"org":"Kelly Cove Salmon Ltd.", "program":"undefined"},
     {"org":"Université Laval", "program":"undefined"}
   ]
   project_lead: [
-    {"name":"Steven Leadbeater", "org":"Department of Fisheries and Oceans"}
+    {"name":"Steven Leadbeater", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
   ]
@@ -196,15 +196,15 @@
   species: ["sea lice", "salmon"]
   period: "SEP. 2014 –MAR. 2016"
   funded_by: [
-    {"org": "Department of Fisheries and Oceans", "program": "Program for Aquaculture Regulatory Research"}
+    {"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}
   ]
   cofunded_by: [
   ]
   project_lead: [
-    {"name":"Simon Jones", "org":"Department of Fisheries and Oceans"}
+    {"name":"Simon Jones", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
-    {"name":"Kyle Garver", "org":"Department of Fisheries and Oceans"}
+    {"name":"Kyle Garver", "org":"Fisheries and Oceans Canada"}
   ]
   collaborators: [
     {"name":"Mark Fast", "org":"Atlantic Veterinary College"}
@@ -216,19 +216,19 @@
   species: ["sea lice", "salmon"]
   period: "APR. 2010 – MAR. 2014"
   funded_by: [
-    {"org": "Department of Fisheries and Oceans", "program": "Program for Aquaculture Regulatory Research"}
+    {"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}
   ]
   cofunded_by: [
   ]
   project_lead: [
-    {"name":"Stewart Johnson", "org":"Department of Fisheries and Oceans"},
-    {"name":"Richard Beamish", "org":"Department of Fisheries and Oceans"},
-    {"name":"Marc Trudel", "org":"Department of Fisheries and Oceans"},
+    {"name":"Stewart Johnson", "org":"Fisheries and Oceans Canada"},
+    {"name":"Richard Beamish", "org":"Fisheries and Oceans Canada"},
+    {"name":"Marc Trudel", "org":"Fisheries and Oceans Canada"},
   ]
   project_team: [
-    {"name":"Kyle Garver", "org":"Department of Fisheries and Oceans"},
-    {"name":"Chrys Neville", "org":"Department of Fisheries and Oceans"},
-    {"name":"Simon Jones", "org":"Department of Fisheries and Oceans"}
+    {"name":"Kyle Garver", "org":"Fisheries and Oceans Canada"},
+    {"name":"Chrys Neville", "org":"Fisheries and Oceans Canada"},
+    {"name":"Simon Jones", "org":"Fisheries and Oceans Canada"}
   ]
   collaborators: [
   ]
@@ -239,17 +239,17 @@
   species: ["sea lice", "salmon"]
   period: "JUL. 2014 – MAR. 2017"
   funded_by: [
-    {"org": "Department of Fisheries and Oceans", "program": "Program for Aquaculture Regulatory Research"}
+    {"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}
   ]
   cofunded_by: [
   ]
   project_lead: [
-    {"name":"Shawn Robinson", "org":"Department of Fisheries and Oceans"}
+    {"name":"Shawn Robinson", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
-    {"name":"Terralynn Lander", "org":"Department of Fisheries and Oceans"},
-    {"name":"Emily Nelson", "org":"Department of Fisheries and Oceans"},
-    {"name":"Fred Page", "org":"Department of Fisheries and Oceans"}
+    {"name":"Terralynn Lander", "org":"Fisheries and Oceans Canada"},
+    {"name":"Emily Nelson", "org":"Fisheries and Oceans Canada"},
+    {"name":"Fred Page", "org":"Fisheries and Oceans Canada"}
   ]
   collaborators: [
     {"name":"Keng Pee Ang", "org":"Cooke Aquaculture Inc."},
@@ -262,12 +262,12 @@
   species: ["sea lice"]
   period: "APR. 2010 – MAR. 2014"
   funded_by: [
-    {"org": "Department of Fisheries and Oceans", "program": "Program for Aquaculture Regulatory Research"}
+    {"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}
   ]
   cofunded_by: [
   ]
   project_lead: [
-    {"name":"Fred Page", "org":"Department of Fisheries and Oceans"}
+    {"name":"Fred Page", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
   ]
@@ -280,13 +280,13 @@
   species: ["sea lice", "salmon"]
   period: "APR. 2010 – MAR. 2014"
   funded_by: [
-    {"org": "Department of Fisheries and Oceans", "program": "Program for Aquaculture Regulatory Research"}
+    {"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}
   ]
   cofunded_by: [
   ]
   project_lead: [
-    {"name":"Stewart Johnson", "org":"Department of Fisheries and Oceans"},
-    {"name":"Simon Jones", "org":"Department of Fisheries and Oceans"}
+    {"name":"Stewart Johnson", "org":"Fisheries and Oceans Canada"},
+    {"name":"Simon Jones", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
   ]
@@ -319,14 +319,14 @@
   species: ["sea lice", "cunners"]
   period: "APR. 2013 – MAR. 2014"
   funded_by: [
-    {"org": "Department of Fisheries and Oceans", "program": "Aquaculture Collaborative Research and Development Program"}
+    {"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
     {"org": "Cold Ocean Salmon Inc.", "program": "undefined"}
   ]
   project_lead: [
-    {"name":"Dounia Hamoutene", "org":"Department of Fisheries and Oceans"},
-    {"name":"Harry Murray", "org":"Department of Fisheries and Oceans"}
+    {"name":"Dounia Hamoutene", "org":"Fisheries and Oceans Canada"},
+    {"name":"Harry Murray", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
   ]
@@ -358,7 +358,7 @@
     {"name":"Jake Elliott", "org":"Cooke Aquaculture Inc."},
     {"name":"Frank Powell", "org":"Cooke Aquaculture Inc."},
     {"name":"Brian Glebe", "org":"Genome Atlantic"},
-    {"name":"Steven Leadbeater", "org":"Department of Fisheries and Oceans"}
+    {"name":"Steven Leadbeater", "org":"Fisheries and Oceans Canada"}
   ]
   collaborators: [
   ]
