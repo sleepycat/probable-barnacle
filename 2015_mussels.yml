@@ -145,8 +145,8 @@
   project_team: [
   ]
   collaborators: [
-    {"name":"Jeff Davidson", "org":"Atlantic Veterinary College UPEI"},
-    {"name":"Thitiwan Patanasatienkul", "org":"Atlantic Veterinary College UPEI"},
+    {"name":"Jeff Davidson", "org":"Atlantic Veterinary College"},
+    {"name":"Thitiwan Patanasatienkul", "org":"Atlantic Veterinary College"},
     {"name":"Aaron Ramsay", "org":"PEI Department of Fisheries, Aquaculture and Rural Development"}
   ]
 
@@ -291,9 +291,9 @@
     {"name":"Thomas Landry", "org":"Fisheries and Oceans Canada"}
   ]
   collaborators: [
-    {"name":"Jonathan Hill", "org":"Atlantic Veterinary College (UPEI)"},
-    {"name":"John Davidson", "org":"Atlantic Veterinary College (UPEI)"},
-    {"name":"Jeffrey Davidson", "org":"Atlantic Veterinary College (UPEI)"},
+    {"name":"Jonathan Hill", "org":"Atlantic Veterinary College"},
+    {"name":"John Davidson", "org":"Atlantic Veterinary College"},
+    {"name":"Jeffrey Davidson", "org":"Atlantic Veterinary College"},
     {"name":"Aaron Ramsay", "org":"PEI Fisheries, Aquaculture and Rural Development"}
   ]
 

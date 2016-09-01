@@ -523,8 +523,8 @@
     {"name":"Thomas Landry", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
-    {"name":"Jeff Davidson", "org":"Atlantic Veterinary College (UPEI)"},
-    {"name":"Thitiwan Patanastienkul", "org":"Atlantic Veterinary College (UPEI)"},
+    {"name":"Jeff Davidson", "org":"Atlantic Veterinary College"},
+    {"name":"Thitiwan Patanastienkul", "org":"Atlantic Veterinary College"},
     {"name":"Luc Comeau", "org":"Fisheries and Oceans Canada"},
     {"name":"Andrea Locke", "org":"Fisheries and Oceans Canada"},
     {"name":"Thomas Guyondet", "org":"Fisheries and Oceans Canada"},
