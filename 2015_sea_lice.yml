@@ -82,18 +82,18 @@
     {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
-    {"org":"Marine Harvest Canada Inc.", "program":"undefined"}
+    {"org":"Marine Harvest Canada
   ]
   project_lead: [
     {"name":"Simon Jones", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
     {"name":"Simon Jones", "org":"Fisheries and Oceans Canada"},
-    {"name":"Brad Boyce", "org":"Marine Harvest Canada Inc."},
-    {"name":"Diane Morrison", "org":"Marine Harvest Canada Inc."}
+    {"name":"Brad Boyce", "org":"Marine Harvest Canada
+    {"name":"Diane Morrison", "org":"Marine Harvest Canada
   ]
   collaborators: [
-    {"org":"Marine Harvest Canada Inc.", "name":"undefined"}
+    {"org":"Marine Harvest Canada
   ]
 
 - title: "MONITORING AND MODELLING OF SEA LICE INTERACTION WITH WILD AND FARMED SALMON IN THE BROUGHTON ARCHIPELAGO"
@@ -105,7 +105,7 @@
     {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
-    {"org":"Marine Harvest Canada Inc.", "program":"undefined"},
+    {"org":"Marine Harvest Canada
     {"org":"Grieg Seafood", "program":"undefined"},
     {"org":"Mainstream Canada", "program":"undefined"}
   ]
@@ -115,7 +115,7 @@
   project_team: [
   ]
   collaborators: [
-    {"org":"Marine Harvest Canada Inc.", "name":"undefined"},
+    {"org":"Marine Harvest Canada
     {"org":"Grieg Seafood", "name":"undefined"},
     {"org":"Mainstream Canada", "name":"undefined"}
   ]

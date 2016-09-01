@@ -40,7 +40,7 @@
   ]
   collaborators: [
     {"name":"undefined", "org":"Creative Salmon"},
-    {"name":"undefined", "org":"Marine Harvest Canada"},
+    {"name":"undefined", "org":"Marine Harvest Canada
     {"name":"undefined", "org":"Grieg Seafood"},
     {"name":"undefined", "org":"Cermaq Canada"},
     {"name":"undefined", "org":"SEA Vision Group"}
@@ -98,7 +98,7 @@
   ]
   collaborators: [
     {"name":"undefined", "org":"Creative Salmon"},
-    {"name":"undefined", "org":"Marine Harvest Canada"},
+    {"name":"undefined", "org":"Marine Harvest Canada
     {"name":"undefined", "org":"Grieg Seafood"},
     {"name":"undefined", "org":"Cermaq Canada"},
     {"name":"undefined", "org":"SEA Vision Group"},
@@ -128,7 +128,7 @@
     {"name":"", "org":"SEA Vision Group"},
     {"name":"", "org":"Odyssey Shellfish"},
     {"name":"", "org":"Creative Salmon"}, 
-    {"name":"", "org":"Marine Harvest Canada"}, 
+    {"name":"", "org":"Marine Harvest Canada
     {"name":"", "org":"Grieg Seafood"}, 
     {"name":"", "org":"Cermaq Canada"}, 
   ]
@@ -662,7 +662,7 @@
     {"org":"Little Wing Oysters Ltd.", "program":"undefined"},
     {"org":"Mac’s Oysters Ltd.", "program":"undefined"},
     {"org":"Mainstream Canada", "program":"undefined"},
-    {"org":"Marine Harvest Canada Inc.", "program":"undefined"},
+    {"org":"Marine Harvest Canada
     {"org":"Nelson Island Sea Farms Ltd.", "program":"undefined"},
     {"org":"Taylor Shellfish Canada ULC.", "program":"undefined"}
   ]
@@ -684,7 +684,7 @@
     {"name":"undefined", "org":"Little Wing Oysters Ltd."},
     {"name":"undefined", "org":"Mac’s Oysters Ltd."},
     {"name":"undefined", "org":"Mainstream Canada"},
-    {"name":"undefined", "org":"Marine Harvest Canada Inc."},
+    {"name":"undefined", "org":"Marine Harvest Canada
     {"name":"undefined", "org":"Nelson Island Sea Farms Ltd."},
     {"name":"undefined", "org":"Taylor Shellfish Canada ULC."}
   ]

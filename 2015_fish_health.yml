@@ -14,7 +14,7 @@
   project_team: [
     {"name":"Francis Leblanc", "org":"Fisheries and Oceans Canada"},
     {"name":"Phil Byrne", "org":"Fisheries and Oceans Canada"},
-    {"name":"Diane Morrison", "org":"Marine Harvest Canada"}
+    {"name":"Diane Morrison", "org":"Marine Harvest Canada
   ]
   collaborators: [
   ]
@@ -58,7 +58,7 @@
     {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
-    {"org":"Marine Harvest Canada", "program":"undefined"},
+    {"org":"Marine Harvest Canada
     {"org":"Grieg Seafood", "program":"undefined"},
     {"org":"Cermaq Canada", "program":"undefined"}
   ]
@@ -136,7 +136,7 @@
   ]
   cofunded_by: [
     {"org":"Cermaq Canada", "program":"undefined"},
-    {"org":"Marine Harvest Canada", "program":"undefined"},
+    {"org":"Marine Harvest Canada
     {"org":"National Strategic Research and Engineering Council", "program":"undefined"}
   ]
   project_lead: [
@@ -144,14 +144,14 @@
   ]
   project_team: [
     {"name":"Peter McKenzie", "org":"Cermaq Canada"},
-    {"name":"Diane Morrison", "org":"Marine Harvest Canada"},
+    {"name":"Diane Morrison", "org":"Marine Harvest Canada
     {"name":"Marije Booman", "org":"Fisheries and Oceans Canada"},
     {"name":"John Vederas", "org":"University of Alberta"},
     {"name":"Lynn McMullen", "org":"University of Alberta"}
   ]
   collaborators: [
     {"name":"Cermaq Canada", "org":"undefined"},
-    {"name":"Marine Harvest Canada", "org":"undefined"}
+    {"name":"Marine Harvest Canada
   ]
 
 - title: "DOES CHALLENGE WITH THE BRITISH COLUMBIA STRAIN OF PISCINE REOVIRUS AFFECT ATLANTIC OR SOCKEYE SALMON?"
@@ -163,17 +163,17 @@
     {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
-    {"org":"Marine Harvest Canada", "program":"undefined"}
+    {"org":"Marine Harvest Canada
   ]
   project_lead: [
     {"name":"Stewart Johnson", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
     {"name":"Kyle Garver", "org":"Fisheries and Oceans Canada"},
-    {"name":"Diane Morrison", "org":"Marine Harvest Canada"}
+    {"name":"Diane Morrison", "org":"Marine Harvest Canada
   ]
   collaborators: [
-    {"name":"undefined", "org":"Marine Harvest Canada"}
+    {"name":"undefined", "org":"Marine Harvest Canada
   ]
 
 - title: "COMPARISON OF FIELD ISOLATES OF MORITELLA VISCOSA: CHARACTERIZATION AND IN VIVO CHALLENGE MODEL DEVELOPMENT TO ADDRESS WINTER ULCER MITIGATION IN CANADA"
@@ -285,7 +285,7 @@
     {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
-    {"org":"Marine Harvest Canada", "program":"undefined"}
+    {"org":"Marine Harvest Canada
   ]
   project_lead: [
     {"name":"Simon Jones", "org":"Fisheries and Oceans Canada"}
@@ -293,7 +293,7 @@
   project_team: [
   ]
   collaborators: [
-    {"name":"undefined", "org":"Marine Harvest Canada"},
+    {"name":"undefined", "org":"Marine Harvest Canada
   ]
 
 - title: "IDENTIFICATION AND TREATMENT OF GYRODACTYLID INFECTIONS IN CULTURED WOLF-EELS (ANARRHICHTHYS OCELLATUS)"
@@ -350,7 +350,7 @@
     {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
   ]
   cofunded_by: [
-    {"org":"Marine Harvest Canada", "program":"undefined"},
+    {"org":"Marine Harvest Canada
     {"org":"Mainstream Canada", "program":"undefined"}
   ]
   project_lead: [
@@ -359,7 +359,7 @@
   project_team: [
   ]
   collaborators: [
-    {"name":"undefined", "org":"Marine Harvest Canada"},
+    {"name":"undefined", "org":"Marine Harvest Canada
     {"name":"undefined", "org":"Mainstream Canada"}
   ]
 
