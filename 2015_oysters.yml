@@ -306,7 +306,7 @@
   project_team: [
     {"name":"Luc Comeau", "org":"Fisheries and Oceans Canada"},
     {"name":"Thomas Guyondet", "org":"Fisheries and Oceans Canada"},
-    {"name":"Réjean Tremblay", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski"}
+    {"name":"Réjean Tremblay", "org":"Institut des sciences de la mer de Rimouski"}
   ]
   collaborators: [
   ]

@@ -262,10 +262,10 @@
     {"name":"Jean-Marie Sévigny", "org":"Fisheries and Oceans Canada"}
   ]
   project_team: [
-    {"name":"Réjean Tremblay", "org":"Institut des Sciences de la Mer de Rimouski"}
+    {"name":"Réjean Tremblay", "org":"Institut des sciences de la mer de Rimouski"}
   ]
   collaborators: [
-    {"name":"undefined", "org":"Institut des Sciences de la Mer de Rimouski"},
+    {"name":"undefined", "org":"Institut des sciences de la mer de Rimouski"},
     {"name":"undefined", "org":"Société de Développement de l’Industrie Maricole"}
   ]
 

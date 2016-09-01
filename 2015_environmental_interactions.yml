@@ -86,8 +86,8 @@
   project_team: [
     {"name":"Chris McKindsey", "org":"Fisheries and Oceans Canada"},
     {"name":"Andrea Weise", "org":"Fisheries and Oceans Canada"},
-    {"name":"Philippe Archambault", "org":"Institut des Science de la Mer de Rimouski"},
-    {"name":"Céline Audet", "org":"Institut des Science de la Mer de Rimouski"},
+    {"name":"Philippe Archambault", "org":"Institut des sciences de la mer de Rimouski"},
+    {"name":"Céline Audet", "org":"Institut des sciences de la mer de Rimouski"},
     {"name":"Pascal Sirois", "org":"Université du Québec à Chicoutimi"},
     {"name":"Christian Vigneau", "org":"La moule du large Inc."}
   ]

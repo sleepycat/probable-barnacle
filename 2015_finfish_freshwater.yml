@@ -5,8 +5,8 @@
   period: "SEP. 2013–AUG. 2015"
   funded_by: [{"org":"Fonds de recherche du Québec Nature et Technologies", "program":"Team grants program"}]
   cofunded_by: [{"org":"Ressources Aquatiques Québec", "program":"undefined"}]
-  project_lead: [{"name":"Céline Audet", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski"}]
-  project_team: [{"name":"Laurence Deneault-Tremblay", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski"},{"name":"Nadia Aubin-Horth", "org":"Université Laval"}]
+  project_lead: [{"name":"Céline Audet", "org":"Institut des sciences de la mer de Rimouski"}]
+  project_team: [{"name":"Laurence Deneault-Tremblay", "org":"Institut des sciences de la mer de Rimouski"},{"name":"Nadia Aubin-Horth", "org":"Université Laval"}]
   collaborators: []
 
 - title: "OPTIMIZATION OF CULTURED WALLEYE (SANDER VITREUS) EGG QUALITY"
@@ -84,7 +84,7 @@
   cofunded_by: [] #missing co-funding
   project_lead: [{"name":"Grant Vandenberg", "org":"Université Laval"}]
   project_team: [{"name":"Émilie Proulx", "org":"Université Laval"}, {"name":"Benjamin Laramée", "org":"Université Laval"}]
-  collaborators: [{"name":"Réjean Tremblay", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski"}, {"name":"Céline Audet", "org":"Institut des sciences de la mer de Rimouski - Université du Québec à Rimouski"}, {"name":"Marie-Hélène Fournier", "org":"Merinov"},{"name":"Marco Blanchet", "org":"Station piscicole Trois-Lacs"}]
+  collaborators: [{"name":"Réjean Tremblay", "org":"Institut des sciences de la mer de Rimouski"}, {"name":"Céline Audet", "org":"Institut des sciences de la mer de Rimouski"}, {"name":"Marie-Hélène Fournier", "org":"Merinov"},{"name":"Marco Blanchet", "org":"Station piscicole Trois-Lacs"}]
 
 - title: "STUDY OF THE DIGESTIBILITY OF FLY LARVAE PRODUCT-BASED DIETS IN RAINBOW TROUT"
   year: "2015"
