@@ -173,10 +173,10 @@
   category: ["finfish: salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
-  cofunded_by: [{"org": "Marine Harvest Canada
+  cofunded_by: [{"org": "Marine Harvest Canada Inc.", "program": "undefined"}, {"org": "Grieg Seafood", "program": "undefined"}, {"org": "Grieg Seafood", "program": "undefined"}, {"org": "Cermaq Canada", "program": "undefined"}]
   project_lead: [{"name":"Stewart Johnson", "org":"Fisheries and Oceans Canada", "country":"Canada"}]
-  project_team: [{"name":"Marc Trudel", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Chrys Neville", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Diane Morrison", "org":"Marine Harvest Canada
-  collaborators: [{"name":"undefined", "org":"Marine Harvest Canada
+  project_team: [{"name":"Marc Trudel", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Chrys Neville", "org":"Fisheries and Oceans Canada", "country":"Canada"}, {"name":"Diane Morrison", "org":"Marine Harvest Canada Inc.", "country":"Canada"}, {"name":"Barry Milligan", "org":"Grieg Seafood", "country":"Canada"}, {"name":"Peter McKenzie", "org":"Cermaq Canada", "country":"Canada"}]
+  collaborators: [{"name":"undefined", "org":"Marine Harvest Canada Inc.", "country":"Canada"}, {"name":"undefined", "org":"Grieg Seafood", "country":"Canada"}, {"name":"undefined", "org":"Cermaq Canada", "country":"Canada"}]
   contact: ["stewart.johnson@dfo-mpo.gc.ca"]
 
 - title: "INDIVIDUAL AND FAMILY RESISTANCE TO BACTERIAL KIDNEY DISEASE IN SAINT JOHN RIVER STRAIN ATLANTIC SALMON"
