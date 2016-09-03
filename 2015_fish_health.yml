@@ -186,9 +186,7 @@
   ]
   cofunded_by: [
     {"org":"Cooke Aquaculture Inc.", "program":"undefined"},
-    {"org":"Novartis", "program":"undefined"},
-    {"org":"", "program":""},
-    {"org":"", "program":""}
+    {"org":"Novartis", "program":"undefined"}
   ]
   project_lead: [
     {"name":"Steven Leadbeater", "org":"Fisheries and Oceans Canada"}
@@ -372,10 +370,6 @@
     {"org":"Fisheries and Oceans Canada", "program":"Program for Aquaculture Regulatory Research"}
   ]
   cofunded_by: [
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""}
   ]
   project_lead: [
     {"name":"Fred Page", "org":"Fisheries and Oceans Canada"},
@@ -632,10 +626,6 @@
     {"org":"Fisheries and Oceans Canada", "program":"Centre for Aquatic Animal Health Research and Diagnostics"}
   ]
   cofunded_by: [
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""}
   ]
   project_lead: [
     {"name":"Cathryn Abbott", "org":"Fisheries and Oceans Canada"}
@@ -698,10 +688,6 @@
     {"org":"Fisheries and Oceans Canada", "program":"Centre for Aquatic Animal Health Research and Diagnostics"}
   ]
   cofunded_by: [
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""}
   ]
   project_lead: [
     {"name":"Sharon Clouthier", "org":"Fisheries and Oceans Canada"}

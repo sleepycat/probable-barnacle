@@ -517,10 +517,6 @@ MAR. 2012–APR. 2016"
     {"org":"Fisheries and Oceans Canada", "program":"Program for Aquaculture Regulatory Research"}
   ]
   cofunded_by: [
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""}
   ]
   project_lead: [
     {"name":"Cheryl Podemski", "org":"Fisheries and Oceans Canada"}
@@ -620,7 +616,7 @@ MAR. 2012–APR. 2016"
     {"org":"Fisheries and Oceans Canada", "program":"Program for Aquaculture Regulatory Research"}
   ]
   cofunded_by: [
-    {"org":"", "program":"Fisheries and Oceans Canada"},
+    {"org":"", "program":"Fisheries and Oceans Canada"}
   ]
   project_lead: [
   ]
