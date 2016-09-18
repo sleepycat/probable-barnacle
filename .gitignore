@@ -1,5 +1,6 @@
 time.ods
 *~
+*.gephi
 *.swp
 .Rhistory
 .ropeproject
@@ -12,3 +13,5 @@ literature/
 text_files/
 csv_files/
 network_vizs/
+notes_for_dan.odt
+deck/
