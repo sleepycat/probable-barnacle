@@ -19,7 +19,7 @@
   ]
 
 
-- title: "IMPACT OF GLOBAL WARMING ON AQUACULTURE PRODUCTION IN LES ÎLES-DE-LAMADELEINE: BLUE MUSSEL, SEA SCALLOP, AND AMERICAN OYSTER"
+- title: "IMPACT OF GLOBAL WARMING ON AQUACULTURE PRODUCTION IN LES ÎLES-DE-LA MADELEINE: BLUE MUSSEL, SEA SCALLOP, AND AMERICAN OYSTER"
   year: "2015"
   category: ["Environmental interactions"]
   species: [""]
@@ -30,10 +30,6 @@
     {"org":"MERINOV", "program":"Fond d’Amorçage de Partenariat"},
   ]
   cofunded_by: [
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""},
-    {"org":"", "program":""}
   ]
   project_lead: [
     {"name":"Lisandre Solomon", "org":"MERINOV"}
@@ -616,7 +612,7 @@ MAR. 2012–APR. 2016"
     {"org":"Fisheries and Oceans Canada", "program":"Program for Aquaculture Regulatory Research"}
   ]
   cofunded_by: [
-    {"org":"", "program":"Fisheries and Oceans Canada"}
+    {"org":"undefined", "program":"Fisheries and Oceans Canada"}
   ]
   project_lead: [
   ]
