@@ -1,7 +1,7 @@
 - title: "INNOVATION THROUGH COLLABORATION: RECOVERING AN ENDANGERED POPULATION OF ATLANTIC SALMON THROUGH PARTNERSHIP WITH ATLANTIC CANADA’S AQUACULTURE INDUSTRY"
   period: "MAR. 2014-MAR. 2019"
   year: "2015"
-  category: ["finfish"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "National Conservation Plan funding", "program": "undefined"}]
   cofunded_by: [{"org": "Atlantic Canada Fish Farmers Association", "program": "undefined", "country":"Canada"}, {"org": "Cooke Aquaculture Inc.", "program": "undefined", "country": "Canada"}, {"org": "Fisheries and Oceans Canada", "program": "undefined", "country": "Canada"}, {"org": "Fort Folly First Nations", "program": "undefined", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "program": "undefined",  "country": "Canada"}, {"org": "New Brunswick Department of Agriculture, Aquaculture and Fisheries", "program": "undefined",  "country": "Canada"}]
@@ -13,7 +13,7 @@
 - title: "ATLANTIC SALMON SELECTION AND BROODSTOCK DEVELOPMENT PROGRAM FOR USE IN COMMERCIAL SALTWATER AQUACULTURE PRODUCTION ON THE EAST COAST OF CANADA"
   period: "OCT. 2010-SEP. 2015"
   year: "2015"
-  category: ["finfish"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Atlantic Canada Opportunities Agency", "program": "Atlantic Innovation Fund"}]
   cofunded_by: [{"org":"New Brunswick Innovation Foundation", "program": "undefined", "country": "Canada"}, {"org": "Northern Harvest Sea Farms", "program": "undefined", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "program": "undefined", "country": "Canada"}]
@@ -25,7 +25,7 @@
 - title: "EFFECTS OF FEEDING HIGH PLANT PROTEIN DIET ON GROWTH AND NUTRIENTS UTILIZATION OF GROWTHHORMONE TRANSGENIC DIPLOID AND TRIPLOID ATLANTIC SALMON (SALMO SALAR L.)"
   period: "MAY 2012–MAY 2013"
   year: "2015"
-  category: ["finfish"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Atlantic Canada Opportunities Agency", "program": "Atlantic Innovation Fund"}]
   cofunded_by: []
@@ -37,7 +37,7 @@
 - title: "THE EFFECT OF OPERCULAR DEFORMITY ON FISH WELFARE AND AEROBIC CAPACITY"
   period: "JUL. 2014–DEC. 2014"
   year: "2015"
-  category: ["finfish"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Natural Sciences and Engineering Research Council", "program": "Partnerships Program – Engage Grant"}]
   cofunded_by: []
@@ -49,7 +49,7 @@
 - title: "ANALYSIS OF THE INCIDENCE OF ATLANTIC SALMON DEFORMITIES IN PRODUCTION – ENVIRONMENTAL OR GENETICS?"
   period: "OCT. 2010 –SEP. 2015"
   year: "2015"
-  category: ["finfish"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Atlantic Canada Opportunities Agency", "program": "Atlantic Innovation Fund"}]
   cofunded_by: [{"org":"New Brunswick Innovation Foundation", "program": "undefined", "country": "Canada"}, {"org": "Northern Harvest Sea Farms", "program": "undefined", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "program": "undefined", "country": "Canada"}]
@@ -61,7 +61,7 @@
 - title: "REDUCTION OF AMMONIA AND SOLIDS FROM CHINOOK SALMON CULTURE FACILITIES"
   period: "APR. 2012–SEPT. 2015"
   year: "2015"
-  category: ["finfish"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
   cofunded_by: [{"org": "Agrimarine Industries Inc.", "program": "undefined"}]
@@ -73,7 +73,7 @@
 - title: "DETERMINATION OF THE POTENTIAL SPATIAL OVERLAP AND INTERACTION BETWEEN COMMERCIAL FISHERIES (AMERICAN LOBSTER, SNOW CRAB) AND FINFISH AQUACULTURE ACTIVITIES IN CONNAIGRE BAY, NEWFOUNDLAND"
   period: "APR. 2012–JUN. 2017"
   year: "2015"
-  category: ["finfish"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
   cofunded_by: [{"org": "Fish, Food and Allied Workers", "program": "undefined"}, {"org": "Cold Ocean Salmon Inc.", "program":"undefined"}]
@@ -85,7 +85,7 @@
 - title: "DEVELOPMENT OF HIGH PERFORMANCE CHINOOK SALMON STOCKS FOR COMMERCIAL AQUACULTURE: GENETIC HYBRIDIZATION TO MAXIMIZE CULTURE EFFICIENCY AND MINIMIZE ENVIRONMENTAL IMPACT"
   period: "OCT. 2013 –OCT. 2016"
   year: "2015"
-  category: ["finfish"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Natural Sciences and Engineering Council of Canada", "program":"undefined"}]
   cofunded_by: []
@@ -97,7 +97,7 @@
 - title: "THERMAL AND pH TOLERANCE OF FARMED, WILD, AND FIRST GENERATION FARMED- WILD HYBRID SALMON"
   period: "APR. 2014 –MAR. 2015"
   year: "2015"
-  category: ["finfish"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
   cofunded_by: [{"org": "Northern Harvest Sea Farms", "program": "undefined"}, {"org": "Cold Ocean Salmon Inc.", "program":"undefined"}]
@@ -109,7 +109,7 @@
 - title: "DETECTING HYBRIDIZATION AMONG WILD AND FARMED ESCAPED ATLANTIC SALMON IN SOUTHERN NEWFOUNDLAND: FIELD COLLECTIONS"
   period: "AUG. 2014 –SEP. 2014"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}]
   cofunded_by: []
@@ -121,7 +121,7 @@
 - title: "INVESTIGATION OF FARM-ORIGIN ESCAPED ATLANTIC SALMON IN NEWFOUNDLAND"
   period: "OCT. 2013 –ONGOING"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "undefined"}]
   cofunded_by: []
@@ -133,7 +133,7 @@
 - title: "DEVELOPMENT OF A LOW DENSITY SNP ARRAY FOR PARENTAGE ASSIGNMENT IN ATLANTIC SALMON"
   period: "OCT. 2013 –FEB. 2014"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "PEI Aquaculture and Fisheries Research Initiative Inc.", "program": "undefined"}]
   cofunded_by: [{"org": "Natural Sciences and Engineering Research Council", "program": "undefined"}, {"org": "Natural Sciences and Engineering Research Council", "program": "Industrial Post-Doctoral Award"}]
@@ -145,7 +145,7 @@
 - title: "DEVELOPMENT OF QUANTITATIVE HISTOLOGICAL METHODS FOR UNDERSTANDING THE BONE METABOLISM OF FISH AND PREVENTING THE OCCURRENCE OF VERTEBRAL ANOMALIES IN FARMED SALMONIDS"
   period: "SEP. 2010 –AUG. 2014"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Ministère du Développement économique, de l’Innovation et de l’Exportation", "program": "Programme de soutien à des initiatives internationales de recherche et d’innovation"}]
   cofunded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}, {"org": "Société de recherche et de développement en aquaculture continentale Inc.", "program": "undefined"}, {"org": "Ressources Aquatiques Québec", "program": "Programme de bourse FONCER"}, {"org": "Université Laval", "program": "Programme de bourse du Bureau International"}]
@@ -158,7 +158,7 @@
 - title: "REPRODUCTION TRIALS BETWEEN WILD AND FARMED SALMON"
   period: "APR. 2010 – MAR. 2013"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
   cofunded_by: [{"org": "Gray Aqua Group Ltd.", "program": "undefined"}]
@@ -170,7 +170,7 @@
 - title: "MIGRATION TIMING AND DISTRIBUTION OF JUVENILE SALMON IN DISCOVERY ISLANDS AND JOHNSTONE STRAIT"
   period: "APR. 2014 – MAR. 2016"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
   cofunded_by: [{"org": "Marine Harvest Canada", "program": "undefined"}, {"org": "Grieg Seafood", "program": "undefined"}, {"org": "Grieg Seafood", "program": "undefined"}, {"org": "Cermaq Canada", "program": "undefined"}]
@@ -182,7 +182,7 @@
 - title: "INDIVIDUAL AND FAMILY RESISTANCE TO BACTERIAL KIDNEY DISEASE IN SAINT JOHN RIVER STRAIN ATLANTIC SALMON"
   period: "OCT. 2010 – SEP. 2015"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Atlantic Canada Opportunities Agency", "program": "Atlantic Innovation Fund"}]
   cofunded_by: []
@@ -194,7 +194,7 @@
 - title: "ECOLOGICAL EFFECTS OF BLUE LED LIGHTS USED AT MARINE FINFISH AQUACULTURE SITES IN BRITISH COLUMBIA"
   period: "APR. 2011 – DEC. 2013"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
   cofunded_by: [{"org": "Grieg Seafood", "program": "undefined"}]
@@ -206,7 +206,7 @@
 - title: "DEVELOPING STANDARD OPERATING PROCEDURES TO QUANTIFY SPERM DENSITY AND DILUTE OR EXTEND MILT FROM MALE SAINT JOHN RIVER STOCK ATLANTIC SALMON TO ENHANCE MANAGEMENT OF A BROODSTOCK PROGRAM"
   period: "OCT. 2014 – MAR. 2015"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "National Research Council", "program": "Industrial Research Assistance Program"}]
   cofunded_by: []
@@ -218,7 +218,7 @@
 - title: "GENETIC AND GENOMIC IMPACTS OF ESCAPED FARMED SALMON IN ATLANTIC CANADA: EVALUATING THE USE OF ARCHIVED ATLANTIC SALMON SCALES AS A SOURCE OF PRE-IMPACT DNA"
   period: "SEP. 2014 – MAR. 2015"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}]
   cofunded_by: []
@@ -230,7 +230,7 @@
 - title: "SPATIAL AND TEMPORAL DISTRIBUTION AND SURVIVAL OF FARMED ATLANTIC SALMON AFTER EXPERIMENTAL RELEASE FROM SEA CAGE LOCATIONS"
   period: "AUG. 2014 – MAR. 2017"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}]
   cofunded_by: []
@@ -242,7 +242,7 @@
 - title: "SALMON AND CHIPS: COMMERCIAL APPLICATION OF GENOMICS TO MAXIMIZE GENETIC IMPROVEMENT OF FARMED ATLANTIC SALMON ON THE EAST COAST OF CANADA"
   period: "APR. 2014 – MAR. 2017"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Genome Canada", "program": "undefined"}, {"org": "Genome Atlantic", "program": "undefined"}]
   cofunded_by: [{"org": "National Research Council", "program": "Industrial Research Assistance Program"}]
@@ -254,7 +254,7 @@
 - title: "RAPID GENOMIC SCREENING FOR ATLANTIC SALMON AQUACULTURE ESCAPEES AND HYBRIDS USING A HIGH THROUGHPUT NANOFLUIDIC DYNAMIC ARRAY"
   period: "SEP. 2014 – MAR. 2015"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}]
   cofunded_by: []
@@ -266,7 +266,7 @@
 - title: "SUSTAINABILITY OF FISH FARMING: AN ECOSYSTEM APPROACH"
   period: "JAN. 2014 – JAN. 2019"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Natural Sciences and Engineering Research Council", "program": "undefined"}]
   cofunded_by: [{"org": "Cooke Aquaculture Inc.", "program": "undefined"}]
@@ -278,7 +278,7 @@
 - title: "BETTER FEED FOR BETTER FISH: BIOMARKER PLATFORM FOR COMMERCIAL AQUACULTURE FEED DEVELOPMENT"
   period: "OCT. 2014 – SEP. 2017"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Genome Canada", "program": "undefined"}, {"org": "Genome Atlantic", "program": "undefined"}]
   cofunded_by: [{"org": "EWOS Innovation", "program": "undefined"}]
@@ -290,7 +290,7 @@
 - title: "CYCLICAL FEEDING STRATEGY TO REDUCE ENVIRONMENTAL IMPACT OF MARINE SALMON FARMING"
   period: "APR. 2013 – MAR. 2015"
   year: "2015"
-  category: ["finfish: salmon"]
+  category: ["Finfish - Salmon"]
   species: ["salmon"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}]
   cofunded_by: []
