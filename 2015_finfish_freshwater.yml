@@ -1,6 +1,6 @@
 - title: "EFFECT OF STRESS IN SEXUALLY MATURING FEMALE BROOK TROUT (SALVELINUS FONTINALIS) ON EMBRYONIC DEVELOPMENT AND GENE EXPRESSION RELATED TO GROWTH IN THE EARLY DEVELOPMENT STAGES"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Brook trout"]
   period: "SEP. 2013–AUG. 2015"
   funded_by: [{"org":"Fonds de recherche du Québec Nature et Technologies", "program":"Team grants program"}]
@@ -11,7 +11,7 @@
 
 - title: "OPTIMIZATION OF CULTURED WALLEYE (SANDER VITREUS) EGG QUALITY"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Walleye"]
   period: "SEP. 2011–APR. 2013"
   funded_by: [{"org":"Société de Recherche et de Développement en Aquaculture Continentale Inc.", "program":"undefined"}, {"org":"Ressources Aquatiques Québec", "program":"undefined"}]
@@ -22,7 +22,7 @@
 
 - title: "REARING DEEPWATER CISCO (COREGONUS HOYI) IN CAPTIVITY FROM HATCH FOR RE-INTRODUCTION TO LAKE ONTARIO"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Cisco"]
   period: "FEB. 2012–NOV. 2015"
   funded_by: [{"org":"Ontario Ministry of Natural Resources", "program":"undefined"}]
@@ -33,7 +33,7 @@
 
 - title: "PHYSIOLOGICAL RESPONSES OF TWO CANADIAN STRAINS OF ARCTIC CHARR AT DIFFERENT LIFE STAGES TO DIETS FORMULATED WITH PLANT PROTEIN INGREDIENTS"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Arctic charr"]
   period: "MAY 2013–JUN. 2014"
   funded_by: [{"org":"Atlantic Canada Opportunities Agency", "program":"Atlantic Innovation Fund"}]
@@ -44,7 +44,7 @@
 
 - title: "GENETIC SELECTION PROGRAM TO ACHIEVE IMPROVED PERFORMANCE OF BROOK TROUT STOCK FOR AQUACULTURE IN QUEBEC"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Brook trout"]
   period: "JUL. 2011–JUL. 2014"
   funded_by: [{"org":"Ministère de l’Agriculture, des Pêcheries et de l’Alimentation du Québec", "program":"undefined"}]
@@ -55,7 +55,7 @@
 
 - title: "DEVELOPMENT OF GENOMIC RESOURCES FOR ATLANTIC STURGEON USING NEXT-GENERATION SEQUENCING"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Atlantic sturgeon"]
   period: "AUG. 2014–JAN. 2015"
   funded_by: [{"org":"Natural Sciences and Engineering Research Council", "program":"undefined"}]
@@ -66,7 +66,7 @@
 
 - title: "ASSESSING THE BIOAVAILABILITY OF SYNTHETIC METHIONINE AND LYSINE FROM DIFFERENT SOURCES IN RAINBOW TROUT (ONCORHYNCHUS MYKISS)"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Rainbow trout"]
   period: "MAY 2012–AUG. 2014"
   funded_by: [{"org":"Evonik Industries", "program":"undefined"}]
@@ -77,7 +77,7 @@
 
 - title: "DEVELOPMENT OF TECHNIQUES TO PROMOTE THE SURVIVAL AND GROWTH OF WALLEYE (SANDER VITREUS) LARVAE IN INTENSIVE CULTURE"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Walleye"]
   period: "MAY 2014–DEC. 2015"
   funded_by: [{"org":"Ministère de l’agriculture, des pêcheries et de l’alimentation du Québec", "program":"INNOVAMER"}]
@@ -88,7 +88,7 @@
 
 - title: "STUDY OF THE DIGESTIBILITY OF FLY LARVAE PRODUCT-BASED DIETS IN RAINBOW TROUT"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Rainbow trout"]
   period: "SEP. 2014–AUG. 2015"
   funded_by: [] # missing funding
@@ -99,7 +99,7 @@
 
 - title: "THE TRANSCRIPTOME AS A TOOL FOR UNDERSTANDING AND EARLY DETECTION OF VERTEBRAL MALFORMATIONS LINKED TO PHOSPHORUS DEFICIENCY IN RAINBOW TROUT"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Rainbow trout"]
   period: "SEP. 2010–AUG. 2014"
   funded_by: [{"org":"Ministère du développement économique, de l’innovation et de l’exportation", "program":"Programme de soutien à des initiatives internationales de recherche et d’innovation"}]
@@ -110,7 +110,7 @@
 
 - title: "DEVELOPMENT OF PREDICTIVE MODELING TOOLS TO ASSIST WITH FRESHWATER AQUACULTURE SITE LICENSING DECISIONS"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: []
   period: "APR. 2008 –MAR. 2015"
   funded_by: [{"org":"Fisheries and Oceans Canada","program":"Aquaculture Collaborative Research and Development Program"}]
@@ -121,7 +121,7 @@
 
 - title: "TOWARD EARLY DETECTION OF VERTEBRAL ANOMALIES LINKED TO PHOSPHORUS DEFICIENCY IN FARMED RAINBOW TROUT THROUGH MORPHOMETRIC MEASUREMENTS TAKEN FROM X-RAYS"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Rainbow trout"]
   period: "SEP. 2010–AUG. 2014"
   funded_by: [{"org":"Ministère du développement économique, de l’innovation et de l’exportation", "program":"Programme de soutien à des initiatives internationales de recherche et d’innovation"}]
@@ -132,7 +132,7 @@
 
 - title: "TOWARD BETTER CHARACTERIZATION OF WASTE (NITROGEN, PHOSPHORUS, SOLIDS) GENERATED BY TROUT FED WITH COMMERCIAL FEED CURRENTLY USED IN CANADA"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: []
   period: "APR. 2009–MAR. 2013"
   funded_by: [{"org":"Fisheries and Oceans Canada","program":"Aquaculture Collaborative Research and Development Program"}]
@@ -143,7 +143,7 @@
 
 - title: "META-ANALYSIS OF FRESHWATER AQUACULTURE PROVINCIAL WATER QUALITY MONITORING DATA"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: []
   period: "AUG. 2014–MAR. 2015"
   funded_by: [{"org":"Fisheries and Oceans Canada", "program":"Program for Aquaculture Regulatory Research"}]
@@ -154,7 +154,7 @@
 
 - title: "EFFECTS OF ENZYMES TREATED RED YEAST ON GROWTH, ASTAXANTHIN DIGESTIBILITY, AND PIGMENTATION OF RAINBOW TROUT"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Rainbow trout"]
   period: "MAY 2014–JAN. 2015"
   funded_by: [{"org":"Jefo Nutrition Inc.", "program":"undefined"}]
@@ -165,7 +165,7 @@
 
 - title: "REDUCING THE PROBLEM OF EARLY SEXUAL MATURATION IN ARCTIC CHARR (SALVELINUS ALPINUS)"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: []
   period: "SEP. 2013–ONGOING"
   funded_by: [{"org":"Atlantic Canada Opportunity Agency", "program":"Atlantic Innovation Fund"}]
@@ -176,7 +176,7 @@
 
 - title: "ASSESSING ECOLOGICAL INTERACTIONS BETWEEN AQUACULTURE AND WILD STRAINS OF RAINBOW TROUT"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Rainbow trout"]
   period: "MAY 2010–MAR. 2013"
   funded_by: [{"org":"Fisheries and Oceans Canada", "program":"Centre for Aquatic Biotechnology Regulatory Research"}]
@@ -187,7 +187,7 @@
 
 - title: "EVALUATION OF GROWTH PERFORMANCE AND PRODUCT QUALITY OF ARCTIC CHARR (FRASER STRAIN - SIXTH GENERATION) REARED IN A COMMERCIAL OPERATION"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Arctic charr"]
   period: "JUL. 2014–DEC. 2015"
   funded_by: [{"org":"Department of Agriculture, Aquaculture and Fisheries of New Brunswick", "program":"undefined"}]
@@ -198,7 +198,7 @@
 
 - title: "EVALUATION OF RATION REDUCTIONS ON THE GROWTH, FEED CONVERSION, AND SOMATIC INDICES OF RAINBOW TROUT"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: ["Rainbow trout"]
   period: "JAN. 2013–OCT. 2013"
   funded_by: [{"org":"Martin Mills Inc.", "program":"undefined"}]
@@ -209,7 +209,7 @@
 
 - title: "ONTARIO AQUACULTURE STATISTICS PROGRAM"
   year: "2015"
-  category: ["Freshwater finfish"]
+  category: ["Finfish - Freshwater"]
   species: []
   period: "JAN. 2013–MAR. 2013"
   funded_by: [{"org":"Ontario Ministry of Natural Resources", "program":"undefined"}]

@@ -1,8 +1,8 @@
 - title: "VARIATION IN SEA LICE SETTLEMENT WITHIN AND BETWEEN FAMILIES OF COMMERCIALLY REARED SAINT JOHN RIVER STOCK ATLANTIC SALMON"
   period: "OCT. 2010 - SEP. 2015"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice", "salmon"]
+  category: ["Sea lice"]
+  species: ["Sea lice", "salmon"]
   funded_by: [{"org": "Atlantic Canada Opportunities Agency", "program": "Atlantic Innovation Fund"}]
   cofunded_by: [{"org":"New Brunswick Innovation Foundation", "program": "undefined", "country": "Canada"}, {"org": "Northern Harvest Sea Farms", "program": "undefined", "country": "Canada"}, {"org": "Huntsman Marine Science Centre", "program": "undefined", "country": "Canada"}]
   project_lead: [{"name":"Amber Garber", "org": "Huntsman Marine Science Centre", "country":"Canada"}]
@@ -13,8 +13,8 @@
 - title: "PREDICTING TRANSMISSION OF SEA LICE BETWEEN AQUACULTURE SITES IN THE EAST COAST OF CANADA"
   period: "MAY 2014 - APR. 2015"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice", "salmon"]
+  category: ["Sea lice"]
+  species: ["Sea lice", "salmon"]
   funded_by: [{"org": "Canada Excellence Research Chair", "program": "University of Prince Edward Island Aquatic Epidemiology"}]
   cofunded_by: []
   project_lead: [{"name":"Raphael Vanderstichel", "org": "University of Prince Edward Island", "country":"Canada"}]
@@ -25,8 +25,8 @@
 - title: "DEVELOPING A NON-CHEMICAL MEANS TO EFFECTIVELY REMOVE ALL FORMS OF SEA LICE FROM AQUACULTURE SALMON USING WARM WATER"
   period: "APR. 2014 - MAR. 2016"
   year: "2015"
-  category: ["sea lice"]
-  species: ["salmon", "sea lice"]
+  category: ["Sea lice"]
+  species: ["salmon", "Sea lice"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
   cofunded_by: [{"org": "Kelly Cove Salmon Ltd."}]
   project_lead: [{"name":"Shawn Robinson", "org": "Fisheries and Oceans Canada", "country":"Canada"}]
@@ -37,8 +37,8 @@
 - title: "FIELD TESTING “GREEN TECHNOLOGY” SEA LICE TRAPS AND DOCUMENTING ON-SITE DYNAMICS OF SEA LICE EARLY LIFE HISTORY"
   period: "APR. 2012 - MAR. 2014"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice"]
+  category: ["Sea lice"]
+  species: ["Sea lice"]
   funded_by: [{"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}]
   cofunded_by: [{"org": "Kelly Cove Salmon Ltd."}]
   project_lead: [{"name":"Shawn Robinson", "org": "Fisheries and Oceans Canada", "country":"Canada"}]
@@ -48,8 +48,8 @@
 
 - title: "AN INVESTIGATION OF THE RELATIONSHIP BETWEEN ENVIRONMENTAL PARAMETERS, OCEANOGRAPHIC ZONES OF INFLUENCE, AND THE PREVALENCE OF PARASITIC COPEPODS ON THREE-SPINE STICKLEBACK IN BAY D’ESPOIR NEWFOUNDLAND WITH SPECIFIC REFERENCE TO SALMONID AQUACULTURE SITES"
   year: "2015"
-  category: ["sea lice"]
-  species: ["three-spine stickleback", "sea lice"]
+  category: ["Sea lice"]
+  species: ["three-spine stickleback", "Sea lice"]
   period: "APR. 2014 – MAR. 2016"
   funded_by: [
     {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
@@ -75,8 +75,8 @@
 
 - title: "ASSESSING SENSITIVITY TO EMAMECTIN BENZOATE (SLICE®) IN SEA LICE LEPEOPHTHEIRUS SALMONIS FROM FARMED ATLANTIC SALMON IN BRITISH COLUMBIA"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice", "salmon"]
+  category: ["Sea lice"]
+  species: ["Sea lice", "salmon"]
   period: "APR. 2014 – MAR. 2015"
   funded_by: [
     {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
@@ -98,8 +98,8 @@
 
 - title: "MONITORING AND MODELLING OF SEA LICE INTERACTION WITH WILD AND FARMED SALMON IN THE BROUGHTON ARCHIPELAGO"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice", "salmon"]
+  category: ["Sea lice"]
+  species: ["Sea lice", "salmon"]
   period: "APR. 2012 – MAR. 2014"
   funded_by: [
     {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
@@ -122,8 +122,8 @@
 
 - title: "EVALUATION OF THE SEASONAL ABUNDANCE, PREVALENCE AND SPECIES DIVERSITY OF SEA LICE ON NON-SALMONID MARINE FISH SPECIES FROM BAY D’ESPOIR, NEWFOUNDLAND, WITH SPECIFIC REFERENCE TO AREAS NEIGHBOURING ATLANTIC SALMON CAGE SITES"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice", "salmon", "atlantic cod", "pollock", 'herring', "mackerel", "stickleback"]
+  category: ["Sea lice"]
+  species: ["Sea lice", "salmon", "atlantic cod", "pollock", 'herring', "mackerel", "stickleback"]
   period: "APR. 2013 – MAR. 2014"
   funded_by: [
     {"org":"Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
@@ -145,8 +145,8 @@
 
 - title: "DEVELOPMENT AND PROGRESS OF THE CUNNER BREEDING PROGRAM"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice", "cunner"]
+  category: ["Sea lice"]
+  species: ["Sea lice", "cunner"]
   period: "MAY 2012 – DEC. 2015"
   funded_by: [
     {"org":"National Research Council", "program": "Industrial Research Assistance Program"}
@@ -170,8 +170,8 @@
 
 - title: "DEVELOPMENT OF BACTERIAL BIOMARKERS OF SALMON MICROBIOTA MEDIATED RESISTANCE AGAINST SEA LOUSE LEPEOPHTHEIRUS SALMONIS"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice", "salmon"]
+  category: ["Sea lice"]
+  species: ["Sea lice", "salmon"]
   period: "APR. 2013 – MAR. 2015"
   funded_by: [
     {"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
@@ -192,8 +192,8 @@
 
 - title: "THE EFFECTS OF SEA LICE IN MODULATING SALMONID SUSCEPTIBILITY TO VIRUSES"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice", "salmon"]
+  category: ["Sea lice"]
+  species: ["Sea lice", "salmon"]
   period: "SEP. 2014 –MAR. 2016"
   funded_by: [
     {"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}
@@ -212,8 +212,8 @@
 
 - title: "SEA LICE INFECTION LEVELS ON JUVENILE SALMON DURING EARLY SEAWATER RESIDENCY AND MIGRATION OUT OF THE STRAIT OF GEORGIA"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice", "salmon"]
+  category: ["Sea lice"]
+  species: ["Sea lice", "salmon"]
   period: "APR. 2010 – MAR. 2014"
   funded_by: [
     {"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}
@@ -235,8 +235,8 @@
 
 - title: "DEFINING THE RISK OF SEA LICE INFECTIONS THROUGH THE DEVELOPMENT OF AN UNDERSTANDING OF THE EARLY LIFE HISTORY POPULATION DYNAMICS OF SEA LICE ASSOCIATED WITH ATLANTIC SALMON AQUACULTURE SITES IN THE BAY OF FUNDY"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice", "salmon"]
+  category: ["Sea lice"]
+  species: ["Sea lice", "salmon"]
   period: "JUL. 2014 – MAR. 2017"
   funded_by: [
     {"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}
@@ -258,8 +258,8 @@
 
 - title: "TRANSPORT AND DISPERSAL OF DISCHARGED SEA LICE CHEMICAL THERAPEUTANTS IN SOUTHWEST NEW BRUNSWICK"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice"]
+  category: ["Sea lice"]
+  species: ["Sea lice"]
   period: "APR. 2010 – MAR. 2014"
   funded_by: [
     {"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}
@@ -276,8 +276,8 @@
 
 - title: "THE EFFECTS OF SINGLE AND REPEAT LEPEOPHTHEIRUS SALMONIS (SEA LICE) INFECTIONS ON THE HEALTH OF JUVENILE PACIFIC SALMON"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice", "salmon"]
+  category: ["Sea lice"]
+  species: ["Sea lice", "salmon"]
   period: "APR. 2010 – MAR. 2014"
   funded_by: [
     {"org": "Fisheries and Oceans Canada", "program": "Program for Aquaculture Regulatory Research"}
@@ -295,8 +295,8 @@
 
 - title: "BIOASSAYS WITH FARM COLLECTED SEA LICE FROM ALL NEW BRUNSWICK AQUACULTURE BAY MANAGEMENT AREAS USING ALL APPROVED SEA LICE TREATMENT OPTIONS"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice"]
+  category: ["Sea lice"]
+  species: ["Sea lice"]
   period: "JUL. 2014 – DEC. 2014"
   funded_by: [
     {"org": "New Brunswick Department of Agriculture, Aquaculture and Fisheries", "program": "undefined"}
@@ -315,8 +315,8 @@
 
 - title: "THE POTENTIAL OF USING NEWFOUNDLAND STOCK CUNNERS TO CONTROL SEA LICE (LEPEOPHTHEIRUS SALMONIS) ON INFECTED ATLANTIC SALMON SMOLTS: TANK TRIALS"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice", "cunners"]
+  category: ["Sea lice"]
+  species: ["Sea lice", "cunners"]
   period: "APR. 2013 – MAR. 2014"
   funded_by: [
     {"org": "Fisheries and Oceans Canada", "program": "Aquaculture Collaborative Research and Development Program"}
@@ -336,8 +336,8 @@
 
 - title: "DISEASE GENOMICS FOR SALMON LOUSE RESISTANCE IN A COMMERCIAL STRAIN OF ATLANTIC SALMON"
   year: "2015"
-  category: ["sea lice"]
-  species: ["sea lice", "salmon"]
+  category: ["Sea lice"]
+  species: ["Sea lice", "salmon"]
   period: "APR. 2014 – MAR. 2017"
   funded_by: [
     {"org": "Genome Canada", "program": "undefined"}

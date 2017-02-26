@@ -1,7 +1,7 @@
 - title: "BAY-SCALE FILTRATION OF CULTIVATED OYSTERS IN RELATION TO TIDAL FLUSHING AND PHYTOPLANKTON RENEWAL"
   year: "2015"
-  category: ["Oysters"]
-  species: ["Oysters"]
+  category: ["Shellfish - Oysters"]
+  species: ["Shellfish - Oysters"]
   period: "APR. 2010–MAR. 2013"
   funded_by: [
     {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
@@ -22,7 +22,7 @@
 
 - title: "INVESTIGATING POLYDORA OUTBREAK IN NEW BRUNSWICK OFF-BOTTOM CULTURED OYSTERS"
   year: "2015"
-  category: ["Oysters"]
+  category: ["Shellfish - Oysters"]
   species: ["Polydora"]
   period: "APR. 2014–MAR. 2016"
   funded_by: [
@@ -44,8 +44,8 @@
 
 - title: "OYSTER CULTURE AS ADDITIONAL PRODUCTION TO SHELLFISH AQUACULTURE"
   year: "2015"
-  category: ["Oysters"]
-  species: ["Oysters"]
+  category: ["Shellfish - Oysters"]
+  species: ["Shellfish - Oysters"]
   period: "OCT. 2011–DEC. 2014"
   funded_by: [
     {"org":"Economic Development Canada for Quebec Regions", "program":"undefined"},
@@ -70,8 +70,8 @@
 
 - title: "SEDIMENT-COVERED EASTERN OYSTERS, CRASSOSTREA VIRGINICA"
   year: "2015"
-  category: ["Oysters"]
-  species: ["Oysters"]
+  category: ["Shellfish - Oysters"]
+  species: ["Shellfish - Oysters"]
   period: "JUL. 2014–MAR. 2016"
   funded_by: [
     {"org":"Fisheries and Oceans Canada", "program":"Aquaculture Collaborative Research and Development Program"}
@@ -93,8 +93,8 @@
 
 - title: "USE OF EELGRASS AS A MITIGATION STRATEGY FOR EFFECTS OF OCEAN ACIDIFICATION ON OYSTER FARMS"
   year: "2015"
-  category: ["Oysters"]
-  species: ["Oysters", "eelgrass"]
+  category: ["Shellfish - Oysters"]
+  species: ["Shellfish - Oysters", "eelgrass"]
   period: "MAY 2014–APR. 2015"
   funded_by: [
     {"org":"University of Prince Edward Island", "program":"Canada Excellence Research Chair in Aquatic Epidemiology"}
@@ -118,7 +118,7 @@
 
 - title: "IMPACTS OF AQUACULTURE OPERATIONS ON THE GENETIC HEALTH OF NATURAL POPULATIONS OF THE EASTERN OYSTER, CRASSOSTREA VIRGINICA"
   year: "2015"
-  category: ["Oysters"]
+  category: ["Shellfish - Oysters"]
   species: ["oyster"]
   period: "APR. 2013–MAR. 2017"
   funded_by: [
@@ -139,7 +139,7 @@
 
 - title: "INVESTIGATION INTO THE SURVIVAL AND SPAWNING POTENTIAL OF THE SELECTED F1 OYSTERS - FOLLOW UP TO THE BRAS D’OR LAKES OYSTER BREEDING PROGRAM FOR MSX"
   year: "2015"
-  category: ["Oysters"]
+  category: ["Shellfish - Oysters"]
   species: ["oyster"]
   period: "APR. 2013–MAR. 2015"
   funded_by: [
@@ -160,7 +160,7 @@
 
 - title: "IMPROVING PHYSIOLOGICAL HEALTH OF OYSTERS BY SELECTING SEED FOR STRESS RESILIENCE"
   year: "2015"
-  category: ["Oysters"]
+  category: ["Shellfish - Oysters"]
   species: ["oyster"]
   period: "APR. 2014–MAR. 2017"
   funded_by: [
@@ -181,7 +181,7 @@
 
 - title: "IMPROVING OYSTER (CRASSOSTREA VIRGINICA) SEEDSTOCK PRODUCTION IN NOVA SCOTIA"
   year: "2015"
-  category: ["Oysters"]
+  category: ["Shellfish - Oysters"]
   species: ["oyster"]
   period: "MAR. 2012–OCT. 2012"
   funded_by: [
@@ -204,7 +204,7 @@
 
 - title: "ASSESSMENT OF OYSTER SPAT COLLECTION POTENTIAL IN BOUCTOUCHE BAY, NEW BRUNSWICK"
   year: "2015"
-  category: ["Oysters"]
+  category: ["Shellfish - Oysters"]
   species: ["oyster"]
   period: "APR. 2013–MAR. 2015"
   funded_by: [
@@ -229,7 +229,7 @@
 
 - title: "ASSESSING SEASONAL VARIATIONS IN THE PHYSIOLOGICAL HEALTH OF THE EASTERN OYSTER, CRASSOSTREA VIRGINICA"
   year: "2015"
-  category: ["Oysters"]
+  category: ["Shellfish - Oysters"]
   species: [""]
   period: "APR. 2012–MAR. 2015"
   funded_by: [
@@ -250,7 +250,7 @@
 
 - title: "DEVELOPMENT OF TOOLS TO EVALUATE AMERICAN OYSTER, CRASSOSTREA VIRGINICA, SHELF LIFE"
   year: "2015"
-  category: ["Oysters"]
+  category: ["Shellfish - Oysters"]
   species: ["Oyster"]
   period: "APR. 2011–MAR. 2013"
   funded_by: [
@@ -271,7 +271,7 @@
 
 - title: "DEVELOPMENT OF A MODIFIED ASSAY FOR USE IN TEMPERATE WATERS AND ITS APPLICATION THROUGH AN ASSESSMENT OF STRESS TOLERANCES AMONG OYSTER STOCKS (CRASSOSTREA VIRGINICA) WITH VARYING LEVELS OF HETEROZYGOSITY"
   year: "2015"
-  category: ["Oysters"]
+  category: ["Shellfish - Oysters"]
   species: ["Oyster"]
   period: "APR. 2011–MAR. 2013"
   funded_by: [
@@ -292,7 +292,7 @@
 
 - title: "DIETS OF BOTTOM AND SUSPENDED OYSTERS"
   year: "2015"
-  category: ["Oysters"]
+  category: ["Shellfish - Oysters"]
   species: ["Oyster"]
   period: "MAY 2012–MAR. 2015"
   funded_by: [
@@ -314,7 +314,7 @@
 
 - title: "EARLY CONDITIONING OF AMERICAN OYSTER (CRASSOSTREA VIRGINICA)"
   year: "2015"
-  category: ["Oysters"]
+  category: ["Shellfish - Oysters"]
   species: ["Oyster"]
   period: "APR. 2014–APR. 2015"
   funded_by: [
@@ -337,7 +337,7 @@
 
 - title: "AMERICAN OYSTER (CRASSOSTREA VIRGINICA) GENETIC SELECTION PROGRAM AT THE COASTAL ZONES RESEARCH INSTITUTE"
   year: "2015"
-  category: ["Oysters"]
+  category: ["Shellfish - Oysters"]
   species: ["Oyster"]
   period: "MAY 2012–AUG. 2014"
   funded_by: [
