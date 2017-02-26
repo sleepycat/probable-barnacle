@@ -1,3 +1,72 @@
+- title: "EVALUATING BEGGIATOA AND OPC AS INDICATORS OF BENTHIC HABITAT CONDITIONS ON HARD OCEAN SUBSTRATES USING VISUAL DATA COLLECTED SEASONALLY AT NEW FINFISH AQUACULTURE SITES AND NEAR THE END OF PRODUCTION AT ESTABLISHED SITES"
+  year: "2015"
+  category: ["Environmental interactions"]
+  species: [""]
+  period: "Apr. 2011–Mar. 2015"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Program for Aquaculture Regulatory Research"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Dounia Hamoutene", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Lee Sheppard", "org":"Fisheries and Oceans Canada"}
+  ]
+  collaborators: [
+  ]
+
+
+- title: "BENTHIC MONITORING OF HARD SUBSTRATES IN SALMON AQUACULTURE: FURTHER INSIGHT ON CURRENTLY USED INDICATOR TAXA IN BRITISH COLUMBIA"
+  year: "2015"
+  category: ["Environmental interactions"]
+  species: [""]
+  period: "Sep. 2012–Aug. 2014"
+  funded_by: [
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Aisling Brady", "org":"North Island College"}
+  ]
+  project_team: [
+  ]
+  collaborators: [
+    {"name":"undefined", "org":"Creative Salmon"},
+    {"name":"undefined", "org":"Marine Harvest Canada"},
+    {"name":"undefined", "org":"Grieg Seafood"},
+    {"name":"undefined", "org":"Cermaq Canada"},
+    {"name":"undefined", "org":"Mainstream Biological"}
+  ]
+
+
+- title: "ASSIMILATION CAPACITY OF ORGANIC MATTER FROM SALMON AQUACULTURE (ACOM): IMPROVING MODEL PREDICTIONS OF BENTHIC IMPACTS"
+  year: "2015"
+  category: ["Environmental interactions"]
+  species: [""]
+  period: "Jan. 2014–Mar. 2017"
+  funded_by: [
+    {"org":"Fisheries and Oceans Canada", "program":"Program for Aquaculture Regulatory Research"}
+  ]
+  cofunded_by: [
+  ]
+  project_lead: [
+    {"name":"Peter Cranford", "org":"Fisheries and Oceans Canada"}
+  ]
+  project_team: [
+    {"name":"Brent Law", "org":"Fisheries and Oceans Canada"},
+    {"name":"Fred Page", "org":"Fisheries and Oceans Canada"},
+    {"name":"Shawn Robinson", "org":"Fisheries and Oceans Canada"},
+    {"name":"Herb Vandermeulen", "org":"Fisheries and Oceans Canada"},
+    {"name":"Susan Haigh", "org":"Fisheries and Oceans Canada"},
+    {"name":"Terri Sutherland", "org":"Fisheries and Oceans Canada"}
+  ]
+  collaborators: [
+    {"name":"Raymond Bannister", "org":"Institute of Marine Research of Norway"}
+  ]
+
+
 - title: "DEVELOPMENT AND VALIDATION OF ALTERNATIVE DETECTION METHODS FOR PERFORMANCE INDICATORS OF THE OXIC STATE OF BOTTOM SEDIMENTS"
   year: "2015"
   category: ["Environmental interactions"]
@@ -109,8 +178,8 @@
   project_team: [
   ]
   collaborators: [
-    {"name":"", "org":"Atlantic Canada Fish Atlantic Canada Fish"},
-    {"name":"", "org":"Sweeney International Marine Corp."}
+    {"name":"undefined", "org":"Atlantic Canada Fish Atlantic Canada Fish"},
+    {"name":"undefined", "org":"Sweeney International Marine Corp."}
   ]
 
 
@@ -138,7 +207,7 @@
     {"name":"Nathan Blasco", "org":"Fisheries and Oceans Canada"},
     {"name":"Bob Sweeney", "org":"Sweeney International Marine Corp."},
     {"name":"Leah Lewis-McCrea", "org":"Sweeney International Marine Corp."},
-    {"name":"Tara Daggett", "org":"Sweeney International Marine Corp."},  
+    {"name":"Tara Daggett", "org":"Sweeney International Marine Corp."},
     {"name":"Amanda Smith", "org":"Sweeney International Marine Corp."},
     {"name":"Janelle Arsenault", "org":"Sweeney International Marine Corp."},
     {"name":"Jessica Whitehead", "org":"Nova Scotia Department of Fisheries and Aquaculture"},
